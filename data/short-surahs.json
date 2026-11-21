@@ -1,0 +1,4336 @@
+[
+ {
+  "id": "surah-fatiha",
+  "surahNumber": 1,
+  "title": "Surah Al-Fatiha",
+  "titleUrdu": "سورۃ الفاتحہ",
+  "transliteration": "Al-Faatihah, Fatiha",
+  "category": "short-surah",
+  "bismillah": false,
+  "arabic": "بِسۡمِ اللهِ الرَّحۡمٰنِ الرَّحِيۡمِ اَلۡحَمۡدُ لِلّٰهِ رَبِّ الۡعٰلَمِيۡنَۙ الرَّحۡمٰنِ الرَّحِيۡمِۙ مٰلِكِ يَوۡمِ الدِّيۡنِؕ اِيَّاكَ نَعۡبُدُ وَاِيَّاكَ نَسۡتَعِيۡنُؕ اِهۡدِنَا الصِّرَاطَ الۡمُسۡتَقِيۡمَۙ صِرَاطَ الَّذِيۡنَ اَنۡعَمۡتَ عَلَيۡهِمۡ ۙ غَيۡرِ الۡمَغۡضُوۡبِ عَلَيۡهِمۡ وَلَا الضَّآلِّيۡنَ",
+  "verses": [
+   {
+    "number": 1,
+    "arabic": "بِسۡمِ اللهِ الرَّحۡمٰنِ الرَّحِيۡمِ",
+    "urdu": "شروع الله کا نام لے کر جو بڑا مہربان نہایت رحم والا ہے",
+    "english": "In the name of Allāh, the Entirely Merciful, the Especially Merciful.",
+    "words": [
+     {
+      "arabic": "بِسۡمِ",
+      "urdu": "ساتھ نام",
+      "english": "In (the) name"
+     },
+     {
+      "arabic": "اللهِ",
+      "urdu": "اللہ کے",
+      "english": "(of) Allah"
+     },
+     {
+      "arabic": "الرَّحۡمٰنِ",
+      "urdu": "جو بے حد مہربان ہے",
+      "english": "the Most Gracious"
+     },
+     {
+      "arabic": "الرَّحِيۡمِ",
+      "urdu": "بار بار رحم فرمانے والا ہے",
+      "english": "the Most Merciful"
+     }
+    ]
+   },
+   {
+    "number": 2,
+    "arabic": "اَلۡحَمۡدُ لِلّٰهِ رَبِّ الۡعٰلَمِيۡنَۙ",
+    "urdu": "سب طرح کی تعریف خدا ہی کو (سزاوار) ہے جو تمام مخلوقات کا پروردگار ہے",
+    "english": "[All] praise is [due] to Allāh, Lord of the worlds -",
+    "words": [
+     {
+      "arabic": "اَلۡحَمۡدُ",
+      "urdu": "سب تعریف",
+      "english": "All praises and thanks"
+     },
+     {
+      "arabic": "لِلّٰهِ",
+      "urdu": "اللہ کے لیے ہے",
+      "english": "(be) to Allah"
+     },
+     {
+      "arabic": "رَبِّ",
+      "urdu": "جو رب ہے",
+      "english": "the Lord"
+     },
+     {
+      "arabic": "الۡعٰلَمِيۡنَۙ",
+      "urdu": "تمام جہانوں کا",
+      "english": "of the universe"
+     }
+    ]
+   },
+   {
+    "number": 3,
+    "arabic": "الرَّحۡمٰنِ الرَّحِيۡمِۙ",
+    "urdu": "بڑا مہربان نہایت رحم والا",
+    "english": "The Entirely Merciful, the Especially Merciful,",
+    "words": [
+     {
+      "arabic": "الرَّحۡمٰنِ",
+      "urdu": "جو بہت مہربان",
+      "english": "The Most Gracious"
+     },
+     {
+      "arabic": "الرَّحِيۡمِۙ",
+      "urdu": "بار بار رحم فرمانے والا ہے",
+      "english": "the Most Merciful"
+     }
+    ]
+   },
+   {
+    "number": 4,
+    "arabic": "مٰلِكِ يَوۡمِ الدِّيۡنِؕ",
+    "urdu": "انصاف کے دن کا حاکم",
+    "english": "Sovereign of the Day of Recompense.",
+    "words": [
+     {
+      "arabic": "مٰلِكِ",
+      "urdu": "مالک ہے",
+      "english": "(The) Master"
+     },
+     {
+      "arabic": "يَوۡمِ",
+      "urdu": "دن کا",
+      "english": "(of the) Day"
+     },
+     {
+      "arabic": "الدِّيۡنِؕ",
+      "urdu": "بدلے کے",
+      "english": "(of the) Judgment"
+     }
+    ]
+   },
+   {
+    "number": 5,
+    "arabic": "اِيَّاكَ نَعۡبُدُ وَاِيَّاكَ نَسۡتَعِيۡنُؕ",
+    "urdu": "(اے پروردگار) ہم تیری ہی عبادت کرتے ہیں اور تجھ ہی سے مدد مانگتے ہیں",
+    "english": "It is You we worship and You we ask for help.",
+    "words": [
+     {
+      "arabic": "اِيَّاكَ",
+      "urdu": "صرف تیری",
+      "english": "You Alone"
+     },
+     {
+      "arabic": "نَعۡبُدُ",
+      "urdu": "ہم عبادت کرتے ہیں",
+      "english": "we worship"
+     },
+     {
+      "arabic": "وَاِيَّاكَ",
+      "urdu": "اور صرف تجھ سے",
+      "english": "and You Alone"
+     },
+     {
+      "arabic": "نَسۡتَعِيۡنُؕ",
+      "urdu": "ہم مدد چاہتے ہیں",
+      "english": "we ask for help"
+     }
+    ]
+   },
+   {
+    "number": 6,
+    "arabic": "اِهۡدِنَا الصِّرَاطَ الۡمُسۡتَقِيۡمَۙ",
+    "urdu": "ہم کو سیدھے رستے چلا",
+    "english": "Guide us to the straight path -",
+    "words": [
+     {
+      "arabic": "اِهۡدِنَا",
+      "urdu": "دکھا ہم کو",
+      "english": "Guide us"
+     },
+     {
+      "arabic": "الصِّرَاطَ",
+      "urdu": "راستہ",
+      "english": "(to) the path"
+     },
+     {
+      "arabic": "الۡمُسۡتَقِيۡمَۙ",
+      "urdu": "سیدھا",
+      "english": "the straight"
+     }
+    ]
+   },
+   {
+    "number": 7,
+    "arabic": "صِرَاطَ الَّذِيۡنَ اَنۡعَمۡتَ عَلَيۡهِمۡ ۙ غَيۡرِ الۡمَغۡضُوۡبِ عَلَيۡهِمۡ وَلَا الضَّآلِّيۡنَ",
+    "urdu": "ان لوگوں کے رستے جن پر تو اپنا فضل وکرم کرتا رہا نہ ان کے جن پر غصے ہوتا رہا اور نہ گمراہوں کے",
+    "english": "The path of those upon whom You have bestowed favor, not of those who have earned [Your] anger or of those who are astray.",
+    "words": [
+     {
+      "arabic": "صِرَاطَ",
+      "urdu": "راستہ",
+      "english": "(The) path"
+     },
+     {
+      "arabic": "الَّذِيۡنَ",
+      "urdu": "ان لوگوں کا",
+      "english": "(of) those"
+     },
+     {
+      "arabic": "اَنۡعَمۡتَ",
+      "urdu": "انعام کیا تو نے",
+      "english": "You have bestowed (Your) Favors"
+     },
+     {
+      "arabic": "عَلَيۡهِمۡ ۙ",
+      "urdu": "اوپر ان کے",
+      "english": "on them"
+     },
+     {
+      "arabic": "غَيۡرِ",
+      "urdu": "نہ ان (لوگوں) کا",
+      "english": "not (of)"
+     },
+     {
+      "arabic": "الۡمَغۡضُوۡبِ",
+      "urdu": "غضب کیا گیا",
+      "english": "those who earned (Your) wrath"
+     },
+     {
+      "arabic": "عَلَيۡهِمۡ",
+      "urdu": "اوپر ان کے",
+      "english": "on themselves"
+     },
+     {
+      "arabic": "وَلَا",
+      "urdu": "اور نہ",
+      "english": "and not"
+     },
+     {
+      "arabic": "الضَّآلِّيۡنَ",
+      "urdu": "ان (لوگوں) کا جو گمراہ ہیں / گم کردہ راہ ہیں",
+      "english": "(of) those who go astray"
+     }
+    ]
+   }
+  ],
+  "explanationEnglish": "The Opening — recited in prayer; praise of Allah and a request for the straight path.",
+  "explanationUrdu": "قرآن کی پہلی سورت؛ نماز میں پڑھی جاتی ہے۔ اس میں اللہ کی حمد اور سیدھے راستے کی دعا ہے۔",
+  "references": [
+   {
+    "type": "quran-text",
+    "text": "Arabic (Indo-Pak script) and word-by-word: Quran.com API v4 (Tanzil-based text)."
+   },
+   {
+    "type": "translation-ur",
+    "text": "Urdu: Fatah Muhammad Jalandhari (via Quran.com, resource 234)."
+   },
+   {
+    "type": "translation-en",
+    "text": "English: Saheeh International (via Quran.com, resource 20)."
+   }
+  ],
+  "verificationStatus": "needs-review",
+  "verificationNote": "Text imported programmatically; consonant skeleton cross-checked with Tanzil. Not yet compared with a printed Indo-Pak mushaf. Explanation is a brief original summary."
+ },
+ {
+  "id": "surah-kawthar",
+  "surahNumber": 108,
+  "title": "Surah Al-Kawthar",
+  "titleUrdu": "سورۃ الکوثر",
+  "transliteration": "Al-Kauthar, Kausar, Inna aataina kal kawthar",
+  "category": "short-surah",
+  "bismillah": true,
+  "arabic": "اِنَّاۤ اَعۡطَيۡنٰكَ الۡكَوۡثَرَؕ فَصَلِّ لِرَبِّكَ وَانۡحَرۡ ؕ اِنَّ شَانِئَكَ هُوَ الۡاَبۡتَرُ",
+  "verses": [
+   {
+    "number": 1,
+    "arabic": "اِنَّاۤ اَعۡطَيۡنٰكَ الۡكَوۡثَرَؕ",
+    "urdu": "(اے محمدﷺ) ہم نے تم کو کوثر عطا فرمائی ہے",
+    "english": "Indeed, We have granted you, [O Muḥammad], al-Kawthar.",
+    "words": [
+     {
+      "arabic": "اِنَّاۤ",
+      "urdu": "بیشک ہم نے",
+      "english": "Indeed, We"
+     },
+     {
+      "arabic": "اَعۡطَيۡنٰكَ",
+      "urdu": "عطا کی ہم نے آپ کو",
+      "english": "We have given you"
+     },
+     {
+      "arabic": "الۡكَوۡثَرَؕ",
+      "urdu": "خیر کثیر",
+      "english": "Al-Kauthar"
+     }
+    ]
+   },
+   {
+    "number": 2,
+    "arabic": "فَصَلِّ لِرَبِّكَ وَانۡحَرۡ ؕ",
+    "urdu": "تو اپنے پروردگار کے لیے نماز پڑھا کرو اور قربانی دیا کرو",
+    "english": "So pray to your Lord and offer sacrifice [to Him alone].",
+    "words": [
+     {
+      "arabic": "فَصَلِّ",
+      "urdu": "پس نماز پڑھو",
+      "english": "So pray"
+     },
+     {
+      "arabic": "لِرَبِّكَ",
+      "urdu": "اپنے رب کے لئے",
+      "english": "to your Lord"
+     },
+     {
+      "arabic": "وَانۡحَرۡ ؕ",
+      "urdu": "اور قربانی کرو",
+      "english": "and sacrifice"
+     }
+    ]
+   },
+   {
+    "number": 3,
+    "arabic": "اِنَّ شَانِئَكَ هُوَ الۡاَبۡتَرُ",
+    "urdu": "کچھ شک نہیں کہ تمہارا دشمن ہی بےاولاد رہے گا",
+    "english": "Indeed, your enemy is the one cut off.",
+    "words": [
+     {
+      "arabic": "اِنَّ",
+      "urdu": "بیشک",
+      "english": "Indeed"
+     },
+     {
+      "arabic": "شَانِئَكَ",
+      "urdu": "دشمن تیرا",
+      "english": "your enemy"
+     },
+     {
+      "arabic": "هُوَ",
+      "urdu": "وہی",
+      "english": "he (is)"
+     },
+     {
+      "arabic": "الۡاَبۡتَرُ",
+      "urdu": "جڑ کٹا ہے",
+      "english": "the one cut off"
+     }
+    ]
+   }
+  ],
+  "explanationEnglish": "Allah’s abundant gift to the Prophet ﷺ; the command to pray and sacrifice for Him alone.",
+  "explanationUrdu": "نبی کریم ﷺ کو عطا کی گئی خیرِ کثیر؛ اپنے رب کے لیے نماز اور قربانی کا حکم۔",
+  "references": [
+   {
+    "type": "quran-text",
+    "text": "Arabic (Indo-Pak script) and word-by-word: Quran.com API v4 (Tanzil-based text)."
+   },
+   {
+    "type": "translation-ur",
+    "text": "Urdu: Fatah Muhammad Jalandhari (via Quran.com, resource 234)."
+   },
+   {
+    "type": "translation-en",
+    "text": "English: Saheeh International (via Quran.com, resource 20)."
+   }
+  ],
+  "verificationStatus": "needs-review",
+  "verificationNote": "Text imported programmatically; consonant skeleton cross-checked with Tanzil. Not yet compared with a printed Indo-Pak mushaf. Explanation is a brief original summary."
+ },
+ {
+  "id": "surah-asr",
+  "surahNumber": 103,
+  "title": "Surah Al-Asr",
+  "titleUrdu": "سورۃ العصر",
+  "transliteration": "Al-Asr, Wal asr",
+  "category": "short-surah",
+  "bismillah": true,
+  "arabic": "وَالۡعَصۡرِۙ اِنَّ الۡاِنۡسَانَ لَفِىۡ خُسۡرٍۙ اِلَّا الَّذِيۡنَ اٰمَنُوۡا وَ عَمِلُوا الصّٰلِحٰتِ وَتَوَاصَوۡا بِالۡحَقِّ ۙ وَتَوَاصَوۡا بِالصَّبۡرِ",
+  "verses": [
+   {
+    "number": 1,
+    "arabic": "وَالۡعَصۡرِۙ",
+    "urdu": "عصر کی قسم",
+    "english": "By time,",
+    "words": [
+     {
+      "arabic": "وَالۡعَصۡرِۙ",
+      "urdu": "قسم ہے زمانے کی",
+      "english": "By the time"
+     }
+    ]
+   },
+   {
+    "number": 2,
+    "arabic": "اِنَّ الۡاِنۡسَانَ لَفِىۡ خُسۡرٍۙ",
+    "urdu": "کہ انسان نقصان میں ہے",
+    "english": "Indeed, mankind is in loss,",
+    "words": [
+     {
+      "arabic": "اِنَّ",
+      "urdu": "بیشک",
+      "english": "Indeed"
+     },
+     {
+      "arabic": "الۡاِنۡسَانَ",
+      "urdu": "تمام انسان",
+      "english": "mankind"
+     },
+     {
+      "arabic": "لَفِىۡ",
+      "urdu": "البتہ میں",
+      "english": "(is) surely, in"
+     },
+     {
+      "arabic": "خُسۡرٍۙ",
+      "urdu": "نقصان میں ہیں/ خسارے میں ہیں",
+      "english": "loss"
+     }
+    ]
+   },
+   {
+    "number": 3,
+    "arabic": "اِلَّا الَّذِيۡنَ اٰمَنُوۡا وَ عَمِلُوا الصّٰلِحٰتِ وَتَوَاصَوۡا بِالۡحَقِّ ۙ وَتَوَاصَوۡا بِالصَّبۡرِ",
+    "urdu": "مگر وہ لوگ جو ایمان لائے اور نیک عمل کرتے رہے اور آپس میں حق (بات) کی تلقین اور صبر کی تاکید کرتے رہے",
+    "english": "Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience.",
+    "words": [
+     {
+      "arabic": "اِلَّا",
+      "urdu": "سوائے",
+      "english": "Except"
+     },
+     {
+      "arabic": "الَّذِيۡنَ",
+      "urdu": "ان لوگوں کے",
+      "english": "those who"
+     },
+     {
+      "arabic": "اٰمَنُوۡا",
+      "urdu": "جو ایمان لائے",
+      "english": "believe"
+     },
+     {
+      "arabic": "وَ",
+      "urdu": "اور انہوں نے ے کام کئے",
+      "english": "and do"
+     },
+     {
+      "arabic": "عَمِلُوا",
+      "urdu": "اچھے",
+      "english": "righteous deeds"
+     },
+     {
+      "arabic": "الصّٰلِحٰتِ",
+      "urdu": "اور ایک دوسرے کو تلقین کی",
+      "english": "and enjoin (each other)"
+     },
+     {
+      "arabic": "وَتَوَاصَوۡا",
+      "urdu": "حق کی",
+      "english": "to the truth"
+     },
+     {
+      "arabic": "بِالۡحَقِّ ۙ",
+      "urdu": "اور ایک دوسرے کو تلقین کی",
+      "english": "and enjoin (each other)"
+     },
+     {
+      "arabic": "وَتَوَاصَوۡا بِالصَّبۡرِ",
+      "urdu": "صبر کی",
+      "english": "to [the] patience"
+     }
+    ]
+   }
+  ],
+  "explanationEnglish": "By time, mankind is in loss — except those who believe, do good, and urge one another to truth and patience.",
+  "explanationUrdu": "زمانے کی قسم! انسان خسارے میں ہے، سوائے ان کے جو ایمان لائے، نیک عمل کیے، اور ایک دوسرے کو حق اور صبر کی تلقین کی۔",
+  "references": [
+   {
+    "type": "quran-text",
+    "text": "Arabic (Indo-Pak script) and word-by-word: Quran.com API v4 (Tanzil-based text)."
+   },
+   {
+    "type": "translation-ur",
+    "text": "Urdu: Fatah Muhammad Jalandhari (via Quran.com, resource 234)."
+   },
+   {
+    "type": "translation-en",
+    "text": "English: Saheeh International (via Quran.com, resource 20)."
+   }
+  ],
+  "verificationStatus": "needs-review",
+  "verificationNote": "Text imported programmatically; consonant skeleton cross-checked with Tanzil. Not yet compared with a printed Indo-Pak mushaf. Explanation is a brief original summary."
+ },
+ {
+  "id": "surah-nasr",
+  "surahNumber": 110,
+  "title": "Surah An-Nasr",
+  "titleUrdu": "سورۃ النصر",
+  "transliteration": "An-Nasr, Idha jaa a nasrullah",
+  "category": "short-surah",
+  "bismillah": true,
+  "arabic": "اِذَا جَآءَ نَصۡرُ اللّٰهِ وَالۡفَتۡحُۙ وَرَاَيۡتَ النَّاسَ يَدۡخُلُوۡنَ فِىۡ دِيۡنِ اللّٰهِ اَفۡوَاجًا ۙ فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَاسۡتَغۡفِرۡهُ ؕ اِنَّهٗ كَانَ تَوَّابًا",
+  "verses": [
+   {
+    "number": 1,
+    "arabic": "اِذَا جَآءَ نَصۡرُ اللّٰهِ وَالۡفَتۡحُۙ",
+    "urdu": "جب خدا کی مدد آ پہنچی اور فتح (حاصل ہو گئی)",
+    "english": "When the victory of Allāh has come and the conquest,",
+    "words": [
+     {
+      "arabic": "اِذَا",
+      "urdu": "جب",
+      "english": "When"
+     },
+     {
+      "arabic": "جَآءَ",
+      "urdu": "آگئی",
+      "english": "comes"
+     },
+     {
+      "arabic": "نَصۡرُ",
+      "urdu": "مدد",
+      "english": "(the) Help"
+     },
+     {
+      "arabic": "اللّٰهِ",
+      "urdu": "اللہ کی",
+      "english": "(of) Allah"
+     },
+     {
+      "arabic": "وَالۡفَتۡحُۙ",
+      "urdu": "اور فتح",
+      "english": "and the Victory"
+     }
+    ]
+   },
+   {
+    "number": 2,
+    "arabic": "وَرَاَيۡتَ النَّاسَ يَدۡخُلُوۡنَ فِىۡ دِيۡنِ اللّٰهِ اَفۡوَاجًا ۙ",
+    "urdu": "اور تم نے دیکھ لیا کہ لوگ غول کے غول خدا کے دین میں داخل ہو رہے ہیں",
+    "english": "And you see the people entering into the religion of Allāh in multitudes,",
+    "words": [
+     {
+      "arabic": "وَرَاَيۡتَ",
+      "urdu": "اور تم نے دیکھا",
+      "english": "And you see"
+     },
+     {
+      "arabic": "النَّاسَ",
+      "urdu": "لوگوں کو",
+      "english": "the people"
+     },
+     {
+      "arabic": "يَدۡخُلُوۡنَ",
+      "urdu": "داخل ہو رہے ہیں",
+      "english": "entering"
+     },
+     {
+      "arabic": "فِىۡ",
+      "urdu": "میں",
+      "english": "into"
+     },
+     {
+      "arabic": "دِيۡنِ",
+      "urdu": "دین (میں)",
+      "english": "(the) religion"
+     },
+     {
+      "arabic": "اللّٰهِ",
+      "urdu": "اللہ کے",
+      "english": "(of) Allah"
+     },
+     {
+      "arabic": "اَفۡوَاجًا ۙ",
+      "urdu": "فوج در فوج",
+      "english": "(in) multitudes"
+     }
+    ]
+   },
+   {
+    "number": 3,
+    "arabic": "فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَاسۡتَغۡفِرۡهُ ؕ اِنَّهٗ كَانَ تَوَّابًا",
+    "urdu": "تو اپنے پروردگار کی تعریف کے ساتھ تسبیح کرو اور اس سے مغفرت مانگو، بے شک وہ معاف کرنے والا ہے",
+    "english": "Then exalt [Him] with praise of your Lord and ask forgiveness of Him. Indeed, He is ever Accepting of Repentance.",
+    "words": [
+     {
+      "arabic": "فَسَبِّحۡ",
+      "urdu": "تو تسبیح کرو",
+      "english": "Then glorify"
+     },
+     {
+      "arabic": "بِحَمۡدِ",
+      "urdu": "حمد کے ساتھ",
+      "english": "with (the) praises"
+     },
+     {
+      "arabic": "رَبِّكَ",
+      "urdu": "اپنے رب کی",
+      "english": "(of) your Lord"
+     },
+     {
+      "arabic": "وَاسۡتَغۡفِرۡهُ ؕ",
+      "urdu": "اور بخشش مانگو اس سے",
+      "english": "and ask His forgiveness"
+     },
+     {
+      "arabic": "اِنَّهٗ",
+      "urdu": "بیشک وہ",
+      "english": "Indeed, He"
+     },
+     {
+      "arabic": "كَانَ",
+      "urdu": "ہے",
+      "english": "is"
+     },
+     {
+      "arabic": "تَوَّابًا",
+      "urdu": "توبہ قبول کرنے والا",
+      "english": "Oft-Returning"
+     }
+    ]
+   }
+  ],
+  "explanationEnglish": "On Allah’s help and victory and people entering Islam in crowds, respond with praise and seeking forgiveness.",
+  "explanationUrdu": "اللہ کی مدد اور فتح آنے اور لوگوں کے جوق در جوق اسلام میں داخل ہونے پر تسبیح، حمد اور استغفار کا حکم۔",
+  "references": [
+   {
+    "type": "quran-text",
+    "text": "Arabic (Indo-Pak script) and word-by-word: Quran.com API v4 (Tanzil-based text)."
+   },
+   {
+    "type": "translation-ur",
+    "text": "Urdu: Fatah Muhammad Jalandhari (via Quran.com, resource 234)."
+   },
+   {
+    "type": "translation-en",
+    "text": "English: Saheeh International (via Quran.com, resource 20)."
+   }
+  ],
+  "verificationStatus": "needs-review",
+  "verificationNote": "Text imported programmatically; consonant skeleton cross-checked with Tanzil. Not yet compared with a printed Indo-Pak mushaf. Explanation is a brief original summary."
+ },
+ {
+  "id": "surah-masad",
+  "surahNumber": 111,
+  "title": "Surah Al-Masad (Al-Lahab)",
+  "titleUrdu": "سورۃ المسد (اللہب)",
+  "transliteration": "Al-Masad, Lahab, Tabbat yada, Tabbat yada abi lahab",
+  "category": "short-surah",
+  "bismillah": true,
+  "arabic": "تَبَّتۡ يَدَاۤ اَبِىۡ لَهَبٍ وَّتَبَّؕ مَاۤ اَغۡنٰى عَنۡهُ مَالُهٗ وَمَا كَسَبَؕ سَيَصۡلٰى نَارًا ذَاتَ لَهَبٍ ۖۚ وَّامۡرَاَ تُهٗ ؕ حَمَّالَةَ الۡحَطَبِۚ فِىۡ جِيۡدِهَا حَبۡلٌ مِّنۡ مَّسَدٍ",
+  "verses": [
+   {
+    "number": 1,
+    "arabic": "تَبَّتۡ يَدَاۤ اَبِىۡ لَهَبٍ وَّتَبَّؕ",
+    "urdu": "ابولہب کے ہاتھ ٹوٹیں اور وہ ہلاک ہو",
+    "english": "May the hands of Abū Lahab be ruined, and ruined is he.",
+    "words": [
+     {
+      "arabic": "تَبَّتۡ",
+      "urdu": "ٹوٹ گئے",
+      "english": "Perish"
+     },
+     {
+      "arabic": "يَدَاۤ",
+      "urdu": "دونوں ہاتھ",
+      "english": "(the) hands"
+     },
+     {
+      "arabic": "اَبِىۡ",
+      "urdu": "ابو",
+      "english": "(of) Abu"
+     },
+     {
+      "arabic": "لَهَبٍ",
+      "urdu": "لہب کے",
+      "english": "Lahab"
+     },
+     {
+      "arabic": "وَّتَبَّؕ",
+      "urdu": "اور وہ ہلاک ہوا",
+      "english": "and perish he"
+     }
+    ]
+   },
+   {
+    "number": 2,
+    "arabic": "مَاۤ اَغۡنٰى عَنۡهُ مَالُهٗ وَمَا كَسَبَؕ",
+    "urdu": "نہ تو اس کا مال ہی اس کے کچھ کام آیا اور نہ وہ جو اس نے کمایا",
+    "english": "His wealth will not avail him or that which he gained.",
+    "words": [
+     {
+      "arabic": "مَاۤ",
+      "urdu": "نہ",
+      "english": "Not"
+     },
+     {
+      "arabic": "اَغۡنٰى",
+      "urdu": "کام آیا",
+      "english": "(will) avail"
+     },
+     {
+      "arabic": "عَنۡهُ",
+      "urdu": "اس کو",
+      "english": "him"
+     },
+     {
+      "arabic": "مَالُهٗ",
+      "urdu": "اس کا مال",
+      "english": "his wealth"
+     },
+     {
+      "arabic": "وَمَا",
+      "urdu": "اور جو",
+      "english": "and what"
+     },
+     {
+      "arabic": "كَسَبَؕ",
+      "urdu": "اس نے کمایا",
+      "english": "he earned"
+     }
+    ]
+   },
+   {
+    "number": 3,
+    "arabic": "سَيَصۡلٰى نَارًا ذَاتَ لَهَبٍ ۖۚ",
+    "urdu": "وہ جلد بھڑکتی ہوئی آگ میں داخل ہو گا",
+    "english": "He will [enter to] burn in a Fire of [blazing] flame",
+    "words": [
+     {
+      "arabic": "سَيَصۡلٰى",
+      "urdu": "عنقریب وہ داخل ہوگا",
+      "english": "He will be burnt"
+     },
+     {
+      "arabic": "نَارًا",
+      "urdu": "آگ میں",
+      "english": "(in) a Fire"
+     },
+     {
+      "arabic": "ذَاتَ",
+      "urdu": "والی",
+      "english": "of"
+     },
+     {
+      "arabic": "لَهَبٍ ۖۚ",
+      "urdu": "شعلے (والی)",
+      "english": "Blazing Flames"
+     }
+    ]
+   },
+   {
+    "number": 4,
+    "arabic": "وَّامۡرَاَ تُهٗ ؕ حَمَّالَةَ الۡحَطَبِۚ",
+    "urdu": "اور اس کی جورو بھی جو ایندھن سر پر اٹھائے پھرتی ہے",
+    "english": "And his wife [as well] - the carrier of firewood.",
+    "words": [
+     {
+      "arabic": "وَّامۡرَاَ تُهٗ ؕ",
+      "urdu": "اور اس کی بیوی",
+      "english": "And his wife"
+     },
+     {
+      "arabic": "حَمَّالَةَ",
+      "urdu": "اٹھانے والی",
+      "english": "(the) carrier"
+     },
+     {
+      "arabic": "الۡحَطَبِۚ",
+      "urdu": "لکڑی کے گٹھے کو",
+      "english": "(of) firewood"
+     }
+    ]
+   },
+   {
+    "number": 5,
+    "arabic": "فِىۡ جِيۡدِهَا حَبۡلٌ مِّنۡ مَّسَدٍ",
+    "urdu": "اس کے گلے میں مونج کی رسّی ہو گی",
+    "english": "Around her neck is a rope of [twisted] fiber.",
+    "words": [
+     {
+      "arabic": "فِىۡ",
+      "urdu": "میں",
+      "english": "In"
+     },
+     {
+      "arabic": "جِيۡدِهَا",
+      "urdu": "اس کی گردن میں ہوگی",
+      "english": "her neck"
+     },
+     {
+      "arabic": "حَبۡلٌ",
+      "urdu": "رسی",
+      "english": "(will be) a rope"
+     },
+     {
+      "arabic": "مِّنۡ",
+      "urdu": "کی",
+      "english": "of"
+     },
+     {
+      "arabic": "مَّسَدٍ",
+      "urdu": "مونجھ کی",
+      "english": "palm-fiber"
+     }
+    ]
+   }
+  ],
+  "explanationEnglish": "The ruin of Abu Lahab and his wife, despite his wealth and standing.",
+  "explanationUrdu": "ابولہب اور اس کی بیوی کی ہلاکت اور ناکامی؛ اس کا مال اور کمائی اس کے کام نہ آئے گی۔",
+  "references": [
+   {
+    "type": "quran-text",
+    "text": "Arabic (Indo-Pak script) and word-by-word: Quran.com API v4 (Tanzil-based text)."
+   },
+   {
+    "type": "translation-ur",
+    "text": "Urdu: Fatah Muhammad Jalandhari (via Quran.com, resource 234)."
+   },
+   {
+    "type": "translation-en",
+    "text": "English: Saheeh International (via Quran.com, resource 20)."
+   }
+  ],
+  "verificationStatus": "needs-review",
+  "verificationNote": "Text imported programmatically; consonant skeleton cross-checked with Tanzil. Not yet compared with a printed Indo-Pak mushaf. Explanation is a brief original summary."
+ },
+ {
+  "id": "surah-maun",
+  "surahNumber": 107,
+  "title": "Surah Al-Ma’un",
+  "titleUrdu": "سورۃ الماعون",
+  "transliteration": "Al-Maaoon, Maun, Araaytal ladhi yukadhdhibu bid din",
+  "category": "short-surah",
+  "bismillah": true,
+  "arabic": "اَرَءَيۡتَ الَّذِىۡ يُكَذِّبُ بِالدِّيۡنِؕ فَذٰلِكَ الَّذِىۡ يَدُعُّ الۡيَتِيۡمَۙ وَ لَا يَحُضُّ عَلٰى طَعَامِ الۡمِسۡكِيۡنِؕ فَوَيۡلٌ لِّلۡمُصَلِّيۡنَۙ الَّذِيۡنَ هُمۡ عَنۡ صَلَاتِهِمۡ سَاهُوۡنَۙ الَّذِيۡنَ هُمۡ يُرَآءُوۡنَۙ وَيَمۡنَعُوۡنَ الۡمَاعُوۡنَ",
+  "verses": [
+   {
+    "number": 1,
+    "arabic": "اَرَءَيۡتَ الَّذِىۡ يُكَذِّبُ بِالدِّيۡنِؕ",
+    "urdu": "بھلا تم نے اس شخص کو دیکھا جو (روزِ) جزا کو جھٹلاتا ہے؟",
+    "english": "Have you seen the one who denies the Recompense?",
+    "words": [
+     {
+      "arabic": "اَرَءَيۡتَ",
+      "urdu": "کیا دیکھا تم نے",
+      "english": "Have you seen"
+     },
+     {
+      "arabic": "الَّذِىۡ",
+      "urdu": "اس شخص کو",
+      "english": "the one who"
+     },
+     {
+      "arabic": "يُكَذِّبُ",
+      "urdu": "جو جھٹلاتا ہے",
+      "english": "denies"
+     },
+     {
+      "arabic": "بِالدِّيۡنِؕ",
+      "urdu": "جزا و سزا کو",
+      "english": "the Judgment"
+     }
+    ]
+   },
+   {
+    "number": 2,
+    "arabic": "فَذٰلِكَ الَّذِىۡ يَدُعُّ الۡيَتِيۡمَۙ",
+    "urdu": "یہ وہی (بدبخت) ہے، جو یتیم کو دھکے دیتا ہے",
+    "english": "For that is the one who drives away the orphan",
+    "words": [
+     {
+      "arabic": "فَذٰلِكَ",
+      "urdu": "پس یہ وہ",
+      "english": "Then that"
+     },
+     {
+      "arabic": "الَّذِىۡ",
+      "urdu": "شخص ہے",
+      "english": "(is) the one who"
+     },
+     {
+      "arabic": "يَدُعُّ",
+      "urdu": "جو دھکے دیتا ہے",
+      "english": "repulses"
+     },
+     {
+      "arabic": "الۡيَتِيۡمَۙ",
+      "urdu": "یتیم کو",
+      "english": "the orphan"
+     }
+    ]
+   },
+   {
+    "number": 3,
+    "arabic": "وَ لَا يَحُضُّ عَلٰى طَعَامِ الۡمِسۡكِيۡنِؕ",
+    "urdu": "اور فقیر کو کھانا کھلانے کے لیے( لوگوں کو) ترغیب نہیں دیتا",
+    "english": "And does not encourage the feeding of the poor.",
+    "words": [
+     {
+      "arabic": "وَ",
+      "urdu": "اور نہیں",
+      "english": "And (does) not"
+     },
+     {
+      "arabic": "لَا",
+      "urdu": "رغبت دلاتا",
+      "english": "feel the urge"
+     },
+     {
+      "arabic": "يَحُضُّ",
+      "urdu": "پر",
+      "english": "to"
+     },
+     {
+      "arabic": "عَلٰى",
+      "urdu": "کھانے پر/کھانا دینے پر",
+      "english": "feed"
+     },
+     {
+      "arabic": "طَعَامِ الۡمِسۡكِيۡنِؕ",
+      "urdu": "مسکین کے",
+      "english": "the poor"
+     }
+    ]
+   },
+   {
+    "number": 4,
+    "arabic": "فَوَيۡلٌ لِّلۡمُصَلِّيۡنَۙ",
+    "urdu": "تو ایسے نمازیوں کی خرابی ہے",
+    "english": "So woe to those who pray",
+    "words": [
+     {
+      "arabic": "فَوَيۡلٌ",
+      "urdu": "پس ہلاکت ہے",
+      "english": "So woe"
+     },
+     {
+      "arabic": "لِّلۡمُصَلِّيۡنَۙ",
+      "urdu": "نمازیوں کے لئے",
+      "english": "to those who pray"
+     }
+    ]
+   },
+   {
+    "number": 5,
+    "arabic": "الَّذِيۡنَ هُمۡ عَنۡ صَلَاتِهِمۡ سَاهُوۡنَۙ",
+    "urdu": "جو نماز کی طرف سے غافل رہتے ہیں",
+    "english": "[But] who are heedless of their prayer -",
+    "words": [
+     {
+      "arabic": "الَّذِيۡنَ",
+      "urdu": "وہ لوگ",
+      "english": "Those who"
+     },
+     {
+      "arabic": "هُمۡ",
+      "urdu": "وہ",
+      "english": "[they]"
+     },
+     {
+      "arabic": "عَنۡ",
+      "urdu": "سے",
+      "english": "about"
+     },
+     {
+      "arabic": "صَلَاتِهِمۡ",
+      "urdu": "اپنی نمازوں (سے)",
+      "english": "their prayers"
+     },
+     {
+      "arabic": "سَاهُوۡنَۙ",
+      "urdu": "بےخبر ہیں",
+      "english": "(are) neglectful"
+     }
+    ]
+   },
+   {
+    "number": 6,
+    "arabic": "الَّذِيۡنَ هُمۡ يُرَآءُوۡنَۙ",
+    "urdu": "جو ریا کاری کرتے ہیں",
+    "english": "Those who make show [of their deeds]",
+    "words": [
+     {
+      "arabic": "الَّذِيۡنَ",
+      "urdu": "وہ لوگ",
+      "english": "Those who"
+     },
+     {
+      "arabic": "هُمۡ",
+      "urdu": "وہ",
+      "english": "[they]"
+     },
+     {
+      "arabic": "يُرَآءُوۡنَۙ",
+      "urdu": "دکھاوا کرتے ہیں",
+      "english": "make show"
+     }
+    ]
+   },
+   {
+    "number": 7,
+    "arabic": "وَيَمۡنَعُوۡنَ الۡمَاعُوۡنَ",
+    "urdu": "اور برتنے کی چیزیں عاریتہً نہیں دیتے",
+    "english": "And withhold [simple] assistance.",
+    "words": [
+     {
+      "arabic": "وَيَمۡنَعُوۡنَ",
+      "urdu": "اور روکتے ہیں",
+      "english": "And they deny"
+     },
+     {
+      "arabic": "الۡمَاعُوۡنَ",
+      "urdu": "برتنے کی چھوٹی سی چیز کو بھی",
+      "english": "[the] small kindnesses"
+     }
+    ]
+   }
+  ],
+  "explanationEnglish": "Condemns denying the Judgement, mistreating the orphan, not urging the feeding of the poor, heedless prayer, showing off and withholding small help.",
+  "explanationUrdu": "روزِ جزا کو جھٹلانے، یتیم کو دھتکارنے، مسکین کو کھانا کھلانے کی ترغیب نہ دینے، نماز سے غفلت، ریاکاری اور معمولی چیز روکنے کی مذمت۔",
+  "references": [
+   {
+    "type": "quran-text",
+    "text": "Arabic (Indo-Pak script) and word-by-word: Quran.com API v4 (Tanzil-based text)."
+   },
+   {
+    "type": "translation-ur",
+    "text": "Urdu: Fatah Muhammad Jalandhari (via Quran.com, resource 234)."
+   },
+   {
+    "type": "translation-en",
+    "text": "English: Saheeh International (via Quran.com, resource 20)."
+   }
+  ],
+  "verificationStatus": "needs-review",
+  "verificationNote": "Text imported programmatically; consonant skeleton cross-checked with Tanzil. Not yet compared with a printed Indo-Pak mushaf. Explanation is a brief original summary."
+ },
+ {
+  "id": "surah-quraysh",
+  "surahNumber": 106,
+  "title": "Surah Quraysh",
+  "titleUrdu": "سورۃ قریش",
+  "transliteration": "Quraish, Li ilafi quraysh",
+  "category": "short-surah",
+  "bismillah": true,
+  "arabic": "لِاِيۡلٰفِ قُرَيۡشٍۙ اٖلٰفِهِمۡ رِحۡلَةَ الشِّتَآءِ وَالصَّيۡفِۚ فَلۡيَـعۡبُدُوۡا رَبَّ هٰذَا الۡبَيۡتِۙ الَّذِىۡۤ اَطۡعَمَهُمۡ مِّنۡ جُوۡعٍ  ۙ وَّاٰمَنَهُمۡ مِّنۡ خَوۡفٍ",
+  "verses": [
+   {
+    "number": 1,
+    "arabic": "لِاِيۡلٰفِ قُرَيۡشٍۙ",
+    "urdu": "قریش کے مانوس کرنے کے سبب",
+    "english": "For the accustomed security of the Quraysh -",
+    "words": [
+     {
+      "arabic": "لِاِيۡلٰفِ",
+      "urdu": "مانوس کرنے کے لئے",
+      "english": "For (the) familiarity"
+     },
+     {
+      "arabic": "قُرَيۡشٍۙ",
+      "urdu": "قریش کو",
+      "english": "(of the) Quraish"
+     }
+    ]
+   },
+   {
+    "number": 2,
+    "arabic": "اٖلٰفِهِمۡ رِحۡلَةَ الشِّتَآءِ وَالصَّيۡفِۚ",
+    "urdu": "(یعنی) ان کو جاڑے اور گرمی کے سفر سے مانوس کرنے کے سبب",
+    "english": "Their accustomed security [in] the caravan of winter and summer -",
+    "words": [
+     {
+      "arabic": "اٖلٰفِهِمۡ",
+      "urdu": "مانوس کرنا ان کو",
+      "english": "Their familiarity"
+     },
+     {
+      "arabic": "رِحۡلَةَ",
+      "urdu": "سفر میں",
+      "english": "(with the) journey"
+     },
+     {
+      "arabic": "الشِّتَآءِ",
+      "urdu": "سردی کے",
+      "english": "(of) winter"
+     },
+     {
+      "arabic": "وَالصَّيۡفِۚ",
+      "urdu": "اور گرمی کے",
+      "english": "and summer"
+     }
+    ]
+   },
+   {
+    "number": 3,
+    "arabic": "فَلۡيَـعۡبُدُوۡا رَبَّ هٰذَا الۡبَيۡتِۙ",
+    "urdu": "لوگوں کو چاہیئے کہ (اس نعمت کے شکر میں) اس گھر کے مالک کی عبادت کریں",
+    "english": "Let them worship the Lord of this House,",
+    "words": [
+     {
+      "arabic": "فَلۡيَـعۡبُدُوۡا",
+      "urdu": "پس چاہیے کہ وہ عبادت کریں",
+      "english": "So let them worship"
+     },
+     {
+      "arabic": "رَبَّ",
+      "urdu": "رب کی",
+      "english": "(the) Lord"
+     },
+     {
+      "arabic": "هٰذَا",
+      "urdu": "اس",
+      "english": "(of) this"
+     },
+     {
+      "arabic": "الۡبَيۡتِۙ",
+      "urdu": "گھر کے",
+      "english": "House"
+     }
+    ]
+   },
+   {
+    "number": 4,
+    "arabic": "الَّذِىۡۤ اَطۡعَمَهُمۡ مِّنۡ جُوۡعٍ  ۙ وَّاٰمَنَهُمۡ مِّنۡ خَوۡفٍ",
+    "urdu": "جس نے ان کو بھوک میں کھانا کھلایا اور خوف سے امن بخشا",
+    "english": "Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear.",
+    "words": [
+     {
+      "arabic": "الَّذِىۡۤ",
+      "urdu": "جس نے",
+      "english": "The One Who"
+     },
+     {
+      "arabic": "اَطۡعَمَهُمۡ",
+      "urdu": "کھلایا ان کو",
+      "english": "feeds them"
+     },
+     {
+      "arabic": "مِّنۡ",
+      "urdu": "سے",
+      "english": "[from]"
+     },
+     {
+      "arabic": "جُوۡعٍ  ۙ",
+      "urdu": "بھوک (سے)",
+      "english": "(against) hunger"
+     },
+     {
+      "arabic": "وَّاٰمَنَهُمۡ",
+      "urdu": "اور امن دیا ان کو",
+      "english": "and gives them security"
+     },
+     {
+      "arabic": "مِّنۡ",
+      "urdu": "سے",
+      "english": "from"
+     },
+     {
+      "arabic": "خَوۡفٍ",
+      "urdu": "خوف (سے)",
+      "english": "fear"
+     }
+    ]
+   }
+  ],
+  "explanationEnglish": "Reminds Quraysh of their secure trade journeys and calls them to worship the Lord of this House, who fed and secured them.",
+  "explanationUrdu": "قریش کو ان کے سردی گرمی کے محفوظ تجارتی سفروں کی یاد دہانی اور اس گھر کے رب کی عبادت کا حکم جس نے انہیں کھلایا اور امن دیا۔",
+  "references": [
+   {
+    "type": "quran-text",
+    "text": "Arabic (Indo-Pak script) and word-by-word: Quran.com API v4 (Tanzil-based text)."
+   },
+   {
+    "type": "translation-ur",
+    "text": "Urdu: Fatah Muhammad Jalandhari (via Quran.com, resource 234)."
+   },
+   {
+    "type": "translation-en",
+    "text": "English: Saheeh International (via Quran.com, resource 20)."
+   }
+  ],
+  "verificationStatus": "needs-review",
+  "verificationNote": "Text imported programmatically; consonant skeleton cross-checked with Tanzil. Not yet compared with a printed Indo-Pak mushaf. Explanation is a brief original summary."
+ },
+ {
+  "id": "surah-fil",
+  "surahNumber": 105,
+  "title": "Surah Al-Fil",
+  "titleUrdu": "سورۃ الفیل",
+  "transliteration": "Al-Feel, Fil, Alam tara kayfa",
+  "category": "short-surah",
+  "bismillah": true,
+  "arabic": "اَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِاَصۡحٰبِ الۡفِيۡلِؕ اَلَمۡ يَجۡعَلۡ كَيۡدَهُمۡ فِىۡ تَضۡلِيۡلٍۙ وَّاَرۡسَلَ عَلَيۡهِمۡ طَيۡرًا اَبَابِيۡلَۙ تَرۡمِيۡهِمۡ بِحِجَارَةٍ مِّنۡ سِجِّيۡلٍۙ فَجَعَلَهُمۡ كَعَصۡفٍ مَّاۡكُوۡلٍ",
+  "verses": [
+   {
+    "number": 1,
+    "arabic": "اَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِاَصۡحٰبِ الۡفِيۡلِؕ",
+    "urdu": "کیا تم نے نہیں دیکھا کہ تمہارے پروردگار نے ہاتھی والوں کے ساتھ کیا کیا",
+    "english": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant?",
+    "words": [
+     {
+      "arabic": "اَلَمۡ",
+      "urdu": "کیا نہیں",
+      "english": "Have not"
+     },
+     {
+      "arabic": "تَرَ",
+      "urdu": "تم نے دیکھا",
+      "english": "you seen"
+     },
+     {
+      "arabic": "كَيۡفَ",
+      "urdu": "کس طرح",
+      "english": "how"
+     },
+     {
+      "arabic": "فَعَلَ",
+      "urdu": "کیا",
+      "english": "dealt"
+     },
+     {
+      "arabic": "رَبُّكَ",
+      "urdu": "تیرے رب نے",
+      "english": "your Lord"
+     },
+     {
+      "arabic": "بِاَصۡحٰبِ",
+      "urdu": "والوں کے ساتھ",
+      "english": "with (the) Companions"
+     },
+     {
+      "arabic": "الۡفِيۡلِؕ",
+      "urdu": "ہاتھی (والوں کےساتھ)",
+      "english": "(of the) Elephant"
+     }
+    ]
+   },
+   {
+    "number": 2,
+    "arabic": "اَلَمۡ يَجۡعَلۡ كَيۡدَهُمۡ فِىۡ تَضۡلِيۡلٍۙ",
+    "urdu": "کیا ان کا داؤں غلط نہیں کیا؟ (گیا)",
+    "english": "Did He not make their plan into misguidance?",
+    "words": [
+     {
+      "arabic": "اَلَمۡ",
+      "urdu": "کیا نہیں",
+      "english": "Did not"
+     },
+     {
+      "arabic": "يَجۡعَلۡ",
+      "urdu": "کردیا",
+      "english": "He make"
+     },
+     {
+      "arabic": "كَيۡدَهُمۡ",
+      "urdu": "ان کی چال کو",
+      "english": "their plan"
+     },
+     {
+      "arabic": "فِىۡ",
+      "urdu": "میں",
+      "english": "go"
+     },
+     {
+      "arabic": "تَضۡلِيۡلٍۙ",
+      "urdu": "گمراہی میں (اکارت)",
+      "english": "astray"
+     }
+    ]
+   },
+   {
+    "number": 3,
+    "arabic": "وَّاَرۡسَلَ عَلَيۡهِمۡ طَيۡرًا اَبَابِيۡلَۙ",
+    "urdu": "اور ان پر جھلڑ کے جھلڑ جانور بھیجے",
+    "english": "And He sent against them birds in flocks,",
+    "words": [
+     {
+      "arabic": "وَّاَرۡسَلَ",
+      "urdu": "اور بھیجے",
+      "english": "And He sent"
+     },
+     {
+      "arabic": "عَلَيۡهِمۡ",
+      "urdu": "ان پر",
+      "english": "against them"
+     },
+     {
+      "arabic": "طَيۡرًا",
+      "urdu": "پرندے",
+      "english": "birds"
+     },
+     {
+      "arabic": "اَبَابِيۡلَۙ",
+      "urdu": "جھنڈ کے جھنڈ",
+      "english": "(in) flocks"
+     }
+    ]
+   },
+   {
+    "number": 4,
+    "arabic": "تَرۡمِيۡهِمۡ بِحِجَارَةٍ مِّنۡ سِجِّيۡلٍۙ",
+    "urdu": "جو ان پر کھنگر کی پتھریاں پھینکتے تھے",
+    "english": "Striking them with stones of hard clay,",
+    "words": [
+     {
+      "arabic": "تَرۡمِيۡهِمۡ",
+      "urdu": "پھینکتے تھے ان پر",
+      "english": "Striking them"
+     },
+     {
+      "arabic": "بِحِجَارَةٍ",
+      "urdu": "پتھر",
+      "english": "with stones"
+     },
+     {
+      "arabic": "مِّنۡ",
+      "urdu": "کے",
+      "english": "of"
+     },
+     {
+      "arabic": "سِجِّيۡلٍۙ",
+      "urdu": "کنکر کی قسم کے",
+      "english": "baked clay"
+     }
+    ]
+   },
+   {
+    "number": 5,
+    "arabic": "فَجَعَلَهُمۡ كَعَصۡفٍ مَّاۡكُوۡلٍ",
+    "urdu": "تو ان کو ایسا کر دیا جیسے کھایا ہوا بھس",
+    "english": "And He made them like eaten straw.",
+    "words": [
+     {
+      "arabic": "فَجَعَلَهُمۡ",
+      "urdu": "تو کردیا ان کو",
+      "english": "Then He made them"
+     },
+     {
+      "arabic": "كَعَصۡفٍ",
+      "urdu": "بھوسے کی طرح",
+      "english": "like straw"
+     },
+     {
+      "arabic": "مَّاۡكُوۡلٍ",
+      "urdu": "جو کھایا ہوا ہو",
+      "english": "eaten up"
+     }
+    ]
+   }
+  ],
+  "explanationEnglish": "How Allah destroyed the army of the elephant that came against the Ka‘bah.",
+  "explanationUrdu": "ہاتھی والوں کے لشکر کا ذکر جسے اللہ نے کعبہ پر چڑھائی کرنے پر ہلاک کر دیا۔",
+  "references": [
+   {
+    "type": "quran-text",
+    "text": "Arabic (Indo-Pak script) and word-by-word: Quran.com API v4 (Tanzil-based text)."
+   },
+   {
+    "type": "translation-ur",
+    "text": "Urdu: Fatah Muhammad Jalandhari (via Quran.com, resource 234)."
+   },
+   {
+    "type": "translation-en",
+    "text": "English: Saheeh International (via Quran.com, resource 20)."
+   }
+  ],
+  "verificationStatus": "needs-review",
+  "verificationNote": "Text imported programmatically; consonant skeleton cross-checked with Tanzil. Not yet compared with a printed Indo-Pak mushaf. Explanation is a brief original summary."
+ },
+ {
+  "id": "surah-qadr",
+  "surahNumber": 97,
+  "title": "Surah Al-Qadr",
+  "titleUrdu": "سورۃ القدر",
+  "transliteration": "Al-Qadr, Inna anzalnahu fi laylatil qadr",
+  "category": "short-surah",
+  "bismillah": true,
+  "arabic": "اِنَّاۤ اَنۡزَلۡنٰهُ فِىۡ لَيۡلَةِ الۡقَدۡرِ ۖ ۚ وَمَاۤ اَدۡرٰٮكَ مَا لَيۡلَةُ الۡقَدۡرِؕ لَيۡلَةُ الۡقَدۡرِ ۙ خَيۡرٌ مِّنۡ اَلۡفِ شَهۡرٍؕ تَنَزَّلُ الۡمَلٰٓٮِٕكَةُ وَالرُّوۡحُ فِيۡهَا بِاِذۡنِ رَبِّهِمۡۚ مِّنۡ كُلِّ اَمۡرٍ ۛۙ سَلٰمٌ  ۛهِىَ حَتّٰى مَطۡلَعِ الۡفَجۡرِ",
+  "verses": [
+   {
+    "number": 1,
+    "arabic": "اِنَّاۤ اَنۡزَلۡنٰهُ فِىۡ لَيۡلَةِ الۡقَدۡرِ ۖ ۚ",
+    "urdu": "ہم نے اس( قرآن) کو شب قدر میں نازل (کرنا شروع) کیا",
+    "english": "Indeed, We sent it [i.e., the Qur’ān] down during the Night of Decree.",
+    "words": [
+     {
+      "arabic": "اِنَّاۤ",
+      "urdu": "بیشک ہم نے",
+      "english": "Indeed, We"
+     },
+     {
+      "arabic": "اَنۡزَلۡنٰهُ",
+      "urdu": "نازل کیا ہم نے اس کو",
+      "english": "revealed it"
+     },
+     {
+      "arabic": "فِىۡ",
+      "urdu": "میں",
+      "english": "in"
+     },
+     {
+      "arabic": "لَيۡلَةِ",
+      "urdu": "لیلۃ",
+      "english": "(the) Night"
+     },
+     {
+      "arabic": "الۡقَدۡرِ ۖ ۚ",
+      "urdu": "القدر",
+      "english": "(of) Power"
+     }
+    ]
+   },
+   {
+    "number": 2,
+    "arabic": "وَمَاۤ اَدۡرٰٮكَ مَا لَيۡلَةُ الۡقَدۡرِؕ",
+    "urdu": "اور تمہیں کیا معلوم کہ شب قدر کیا ہے؟",
+    "english": "And what can make you know what is the Night of Decree?",
+    "words": [
+     {
+      "arabic": "وَمَاۤ",
+      "urdu": "اور کیا چیز",
+      "english": "And what"
+     },
+     {
+      "arabic": "اَدۡرٰٮكَ",
+      "urdu": "بتائے تجھ کو",
+      "english": "can make you know"
+     },
+     {
+      "arabic": "مَا",
+      "urdu": "کیا ہے ؟",
+      "english": "what"
+     },
+     {
+      "arabic": "لَيۡلَةُ",
+      "urdu": "لیلۃ",
+      "english": "(the) Night"
+     },
+     {
+      "arabic": "الۡقَدۡرِؕ",
+      "urdu": "القدر",
+      "english": "(of) Power (is)"
+     }
+    ]
+   },
+   {
+    "number": 3,
+    "arabic": "لَيۡلَةُ الۡقَدۡرِ ۙ خَيۡرٌ مِّنۡ اَلۡفِ شَهۡرٍؕ",
+    "urdu": "شب قدر ہزار مہینے سے بہتر ہے",
+    "english": "The Night of Decree is better than a thousand months.",
+    "words": [
+     {
+      "arabic": "لَيۡلَةُ",
+      "urdu": "لیلۃ",
+      "english": "(The) Night"
+     },
+     {
+      "arabic": "الۡقَدۡرِ ۙ",
+      "urdu": "القدر",
+      "english": "(of) Power"
+     },
+     {
+      "arabic": "خَيۡرٌ",
+      "urdu": "بہتر ہے",
+      "english": "(is) better"
+     },
+     {
+      "arabic": "مِّنۡ",
+      "urdu": "سے",
+      "english": "than"
+     },
+     {
+      "arabic": "اَلۡفِ",
+      "urdu": "ہزار",
+      "english": "a thousand"
+     },
+     {
+      "arabic": "شَهۡرٍؕ",
+      "urdu": "مہینوں (سے)",
+      "english": "month(s)"
+     }
+    ]
+   },
+   {
+    "number": 4,
+    "arabic": "تَنَزَّلُ الۡمَلٰٓٮِٕكَةُ وَالرُّوۡحُ فِيۡهَا بِاِذۡنِ رَبِّهِمۡۚ مِّنۡ كُلِّ اَمۡرٍ ۛۙ",
+    "urdu": "اس میں روح (الامین) اور فرشتے ہر کام کے (انتظام کے) لیے اپنے پروردگار کے حکم سے اترتے ہیں",
+    "english": "The angels and the Spirit [i.e., Gabriel] descend therein by permission of their Lord for every matter.",
+    "words": [
+     {
+      "arabic": "تَنَزَّلُ",
+      "urdu": "اترتے ہیں",
+      "english": "Descend"
+     },
+     {
+      "arabic": "الۡمَلٰٓٮِٕكَةُ",
+      "urdu": "فرشتے",
+      "english": "the Angels"
+     },
+     {
+      "arabic": "وَالرُّوۡحُ",
+      "urdu": "اور جبرئیل",
+      "english": "and the Spirit"
+     },
+     {
+      "arabic": "فِيۡهَا",
+      "urdu": "اس میں",
+      "english": "therein"
+     },
+     {
+      "arabic": "بِاِذۡنِ",
+      "urdu": "اذن کے ساتھ",
+      "english": "by (the) permission"
+     },
+     {
+      "arabic": "رَبِّهِمۡۚ",
+      "urdu": "اپنے رب کے",
+      "english": "(of) their Lord"
+     },
+     {
+      "arabic": "مِّنۡ",
+      "urdu": "سے",
+      "english": "for"
+     },
+     {
+      "arabic": "كُلِّ",
+      "urdu": "ہر",
+      "english": "every"
+     },
+     {
+      "arabic": "اَمۡرٍ ۛۙ",
+      "urdu": "حکم (سے)",
+      "english": "affair"
+     }
+    ]
+   },
+   {
+    "number": 5,
+    "arabic": "سَلٰمٌ  ۛهِىَ حَتّٰى مَطۡلَعِ الۡفَجۡرِ",
+    "urdu": "یہ( رات) طلوع صبح تک (امان اور) سلامتی ہے",
+    "english": "Peace it is until the emergence of dawn.",
+    "words": [
+     {
+      "arabic": "سَلٰمٌ",
+      "urdu": "سرسر سلامتی ہے",
+      "english": "Peace"
+     },
+     {
+      "arabic": " ۛهِىَ",
+      "urdu": "وہ",
+      "english": "it (is)"
+     },
+     {
+      "arabic": "حَتّٰى",
+      "urdu": "یہاں تک کہ",
+      "english": "until"
+     },
+     {
+      "arabic": "مَطۡلَعِ",
+      "urdu": "طلوع ہوجائے",
+      "english": "(the) emergence"
+     },
+     {
+      "arabic": "الۡفَجۡرِ",
+      "urdu": "فجر",
+      "english": "(of) the dawn"
+     }
+    ]
+   }
+  ],
+  "explanationEnglish": "The Night of Decree, in which the Qur’an was sent down; it is better than a thousand months.",
+  "explanationUrdu": "شبِ قدر کا بیان جس میں قرآن نازل ہوا؛ یہ رات ہزار مہینوں سے بہتر ہے۔",
+  "references": [
+   {
+    "type": "quran-text",
+    "text": "Arabic (Indo-Pak script) and word-by-word: Quran.com API v4 (Tanzil-based text)."
+   },
+   {
+    "type": "translation-ur",
+    "text": "Urdu: Fatah Muhammad Jalandhari (via Quran.com, resource 234)."
+   },
+   {
+    "type": "translation-en",
+    "text": "English: Saheeh International (via Quran.com, resource 20)."
+   }
+  ],
+  "verificationStatus": "needs-review",
+  "verificationNote": "Text imported programmatically; consonant skeleton cross-checked with Tanzil. Not yet compared with a printed Indo-Pak mushaf. Explanation is a brief original summary."
+ },
+ {
+  "id": "surah-tin",
+  "surahNumber": 95,
+  "title": "Surah At-Tin",
+  "titleUrdu": "سورۃ التین",
+  "transliteration": "At-Teen, Tin, Wat tini waz zaytun",
+  "category": "short-surah",
+  "bismillah": true,
+  "arabic": "وَالتِّيۡنِ وَالزَّيۡتُوۡنِۙ وَطُوۡرِ سِيۡنِيۡنَۙ وَهٰذَا الۡبَلَدِ الۡاَمِيۡنِۙ لَقَدۡ خَلَقۡنَا الۡاِنۡسَانَ فِىۡۤ اَحۡسَنِ تَقۡوِيۡمٍ ثُمَّ رَدَدۡنٰهُ اَسۡفَلَ سَافِلِيۡنَۙ اِلَّا الَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ فَلَهُمۡ اَجۡرٌ غَيۡرُ مَمۡنُوۡنٍؕ فَمَا يُكَذِّبُكَ بَعۡدُ بِالدِّيۡنِ اَلَيۡسَ اللّٰهُ بِاَحۡكَمِ الۡحٰكِمِيۡنَ",
+  "verses": [
+   {
+    "number": 1,
+    "arabic": "وَالتِّيۡنِ وَالزَّيۡتُوۡنِۙ",
+    "urdu": "انجیر کی قسم اور زیتون کی",
+    "english": "By the fig and the olive",
+    "words": [
+     {
+      "arabic": "وَالتِّيۡنِ",
+      "urdu": "قسم ہے تین (انجیر) کی",
+      "english": "By the fig"
+     },
+     {
+      "arabic": "وَالزَّيۡتُوۡنِۙ",
+      "urdu": "اور زیتون کی",
+      "english": "and the olive"
+     }
+    ]
+   },
+   {
+    "number": 2,
+    "arabic": "وَطُوۡرِ سِيۡنِيۡنَۙ",
+    "urdu": "اور طور سینین کی",
+    "english": "And [by] Mount Sinai",
+    "words": [
+     {
+      "arabic": "وَطُوۡرِ",
+      "urdu": "اور طور",
+      "english": "And (the) Mount"
+     },
+     {
+      "arabic": "سِيۡنِيۡنَۙ",
+      "urdu": "سینا کی",
+      "english": "Sinai"
+     }
+    ]
+   },
+   {
+    "number": 3,
+    "arabic": "وَهٰذَا الۡبَلَدِ الۡاَمِيۡنِۙ",
+    "urdu": "اور اس امن والے شہر کی",
+    "english": "And [by] this secure city [i.e., Makkah],",
+    "words": [
+     {
+      "arabic": "وَهٰذَا",
+      "urdu": "اور قسم ہے اس",
+      "english": "And this"
+     },
+     {
+      "arabic": "الۡبَلَدِ",
+      "urdu": "شہر کی",
+      "english": "[the] city"
+     },
+     {
+      "arabic": "الۡاَمِيۡنِۙ",
+      "urdu": "جو پر امن ہے",
+      "english": "[the] secure"
+     }
+    ]
+   },
+   {
+    "number": 4,
+    "arabic": "لَقَدۡ خَلَقۡنَا الۡاِنۡسَانَ فِىۡۤ اَحۡسَنِ تَقۡوِيۡمٍ",
+    "urdu": "کہ ہم نے انسان کو بہت اچھی صورت میں پیدا کیا ہے",
+    "english": "We have certainly created man in the best of stature;",
+    "words": [
+     {
+      "arabic": "لَقَدۡ",
+      "urdu": "البتہ تحقیق",
+      "english": "Indeed"
+     },
+     {
+      "arabic": "خَلَقۡنَا",
+      "urdu": "پیدا کیا ہم نے",
+      "english": "We created"
+     },
+     {
+      "arabic": "الۡاِنۡسَانَ",
+      "urdu": "انسان کو",
+      "english": "man"
+     },
+     {
+      "arabic": "فِىۡۤ",
+      "urdu": "میں",
+      "english": "in"
+     },
+     {
+      "arabic": "اَحۡسَنِ",
+      "urdu": "بہترین",
+      "english": "(the) best"
+     },
+     {
+      "arabic": "تَقۡوِيۡمٍ",
+      "urdu": "ساخت پر",
+      "english": "mould"
+     }
+    ]
+   },
+   {
+    "number": 5,
+    "arabic": "ثُمَّ رَدَدۡنٰهُ اَسۡفَلَ سَافِلِيۡنَۙ",
+    "urdu": "پھر (رفتہ رفتہ) اس (کی حالت) کو (بدل کر) پست سے پست کر دیا",
+    "english": "Then We return him to the lowest of the low,",
+    "words": [
+     {
+      "arabic": "ثُمَّ",
+      "urdu": "پھر",
+      "english": "Then"
+     },
+     {
+      "arabic": "رَدَدۡنٰهُ",
+      "urdu": "پھیر دیا ہم نے اس کو",
+      "english": "We returned him"
+     },
+     {
+      "arabic": "اَسۡفَلَ",
+      "urdu": "سب سے زیادہ نچلا/نیچے",
+      "english": "(to the) lowest"
+     },
+     {
+      "arabic": "سَافِلِيۡنَۙ",
+      "urdu": "نچلوں میں سے/ نیچوں میں سے",
+      "english": "(of the) low"
+     }
+    ]
+   },
+   {
+    "number": 6,
+    "arabic": "اِلَّا الَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ فَلَهُمۡ اَجۡرٌ غَيۡرُ مَمۡنُوۡنٍؕ",
+    "urdu": "مگر جو لوگ ایمان لائے اور نیک عمل کرتے رہے انکے لیے بےانتہا اجر ہے",
+    "english": "Except for those who believe and do righteous deeds, for they will have a reward uninterrupted.",
+    "words": [
+     {
+      "arabic": "اِلَّا",
+      "urdu": "مگر",
+      "english": "Except"
+     },
+     {
+      "arabic": "الَّذِيۡنَ",
+      "urdu": "وہ لوگ",
+      "english": "those who"
+     },
+     {
+      "arabic": "اٰمَنُوۡا",
+      "urdu": "جو ایمان لائے",
+      "english": "believe"
+     },
+     {
+      "arabic": "وَعَمِلُوا",
+      "urdu": "اور انہوں نے عمل کئے",
+      "english": "and do"
+     },
+     {
+      "arabic": "الصّٰلِحٰتِ",
+      "urdu": "اچھے",
+      "english": "righteous deeds"
+     },
+     {
+      "arabic": "فَلَهُمۡ",
+      "urdu": "تو ان کے لئے",
+      "english": "then for them"
+     },
+     {
+      "arabic": "اَجۡرٌ",
+      "urdu": "اجر ہے",
+      "english": "(is a) reward"
+     },
+     {
+      "arabic": "غَيۡرُ",
+      "urdu": "نہ",
+      "english": "never"
+     },
+     {
+      "arabic": "مَمۡنُوۡنٍؕ",
+      "urdu": "ختم ہونے والا",
+      "english": "ending"
+     }
+    ]
+   },
+   {
+    "number": 7,
+    "arabic": "فَمَا يُكَذِّبُكَ بَعۡدُ بِالدِّيۡنِ",
+    "urdu": "تو (اے آدم زاد) پھر تو جزا کے دن کو کیوں جھٹلاتا ہے؟",
+    "english": "So what yet causes you to deny the Recompense?",
+    "words": [
+     {
+      "arabic": "فَمَا",
+      "urdu": "تو کون",
+      "english": "Then what"
+     },
+     {
+      "arabic": "يُكَذِّبُكَ",
+      "urdu": "جھٹلائے گا تجھ کو",
+      "english": "causes you to deny"
+     },
+     {
+      "arabic": "بَعۡدُ",
+      "urdu": "بعد",
+      "english": "after (this)"
+     },
+     {
+      "arabic": "بِالدِّيۡنِ",
+      "urdu": "جزا سزا کے",
+      "english": "the judgment"
+     }
+    ]
+   },
+   {
+    "number": 8,
+    "arabic": "اَلَيۡسَ اللّٰهُ بِاَحۡكَمِ الۡحٰكِمِيۡنَ",
+    "urdu": "کیا خدا سب سے بڑا حاکم نہیں ہے؟",
+    "english": "Is not Allāh the most just of judges?",
+    "words": [
+     {
+      "arabic": "اَلَيۡسَ",
+      "urdu": "کیا نہیں ہے",
+      "english": "Is not"
+     },
+     {
+      "arabic": "اللّٰهُ",
+      "urdu": "اللہ",
+      "english": "Allah"
+     },
+     {
+      "arabic": "بِاَحۡكَمِ",
+      "urdu": "سب فیصلہ کرنے والوں میں بڑھ کر",
+      "english": "(the) Most Just"
+     },
+     {
+      "arabic": "الۡحٰكِمِيۡنَ",
+      "urdu": "فیصلہ کرنے والا",
+      "english": "(of) the Judges"
+     }
+    ]
+   }
+  ],
+  "explanationEnglish": "Man was created in the best form; those who believe and do righteous deeds have a never-ending reward.",
+  "explanationUrdu": "انسان کو بہترین ساخت پر پیدا کیا گیا؛ ایمان اور نیک عمل والوں کے لیے کبھی نہ ختم ہونے والا اجر ہے۔",
+  "references": [
+   {
+    "type": "quran-text",
+    "text": "Arabic (Indo-Pak script) and word-by-word: Quran.com API v4 (Tanzil-based text)."
+   },
+   {
+    "type": "translation-ur",
+    "text": "Urdu: Fatah Muhammad Jalandhari (via Quran.com, resource 234)."
+   },
+   {
+    "type": "translation-en",
+    "text": "English: Saheeh International (via Quran.com, resource 20)."
+   }
+  ],
+  "verificationStatus": "needs-review",
+  "verificationNote": "Text imported programmatically; consonant skeleton cross-checked with Tanzil. Not yet compared with a printed Indo-Pak mushaf. Explanation is a brief original summary."
+ },
+ {
+  "id": "surah-humazah",
+  "surahNumber": 104,
+  "title": "Surah Al-Humazah",
+  "titleUrdu": "سورۃ الہمزہ",
+  "transliteration": "Al-Humazah, Humaza, Waylul likulli humazatil lumazah",
+  "category": "short-surah",
+  "bismillah": true,
+  "arabic": "وَيۡلٌ لِّـكُلِّ هُمَزَةٍ لُّمَزَةِ ۙ اۨلَّذِىۡ جَمَعَ مَالًا وَّعَدَّدَهٗ ۙ يَحۡسَبُ اَنَّ مَالَهٗۤ اَخۡلَدَهٗ ۚ كَلَّا لَيُنۡۢبَذَنَّ فِى الۡحُطَمَةِ  ۖ وَمَاۤ اَدۡرٰٮكَ مَا الۡحُطَمَةُ ؕ نَارُ اللّٰهِ الۡمُوۡقَدَةُ ۙ الَّتِىۡ تَطَّلِعُ عَلَى الۡاَفۡـــِٕدَةِ ؕ اِنَّهَا عَلَيۡهِمۡ مُّؤۡصَدَةٌ ۙ فِىۡ عَمَدٍ مُّمَدَّدَةٍ",
+  "verses": [
+   {
+    "number": 1,
+    "arabic": "وَيۡلٌ لِّـكُلِّ هُمَزَةٍ لُّمَزَةِ ۙ",
+    "urdu": "ہر طعن آمیز اشارتیں کرنے والے چغل خور کی خرابی ہے",
+    "english": "Woe to every scorner and mocker",
+    "words": [
+     {
+      "arabic": "وَيۡلٌ",
+      "urdu": "ہلاکت ہے",
+      "english": "Woe"
+     },
+     {
+      "arabic": "لِّـكُلِّ",
+      "urdu": "واسطے ہر اس شخص کے",
+      "english": "to every"
+     },
+     {
+      "arabic": "هُمَزَةٍ",
+      "urdu": "جو منہ پر عیب لگاتا ہے",
+      "english": "slanderer"
+     },
+     {
+      "arabic": "لُّمَزَةِ ۙ",
+      "urdu": "پیٹھ پیچھے برائیاں کرتا ہے",
+      "english": "backbiter"
+     }
+    ]
+   },
+   {
+    "number": 2,
+    "arabic": "اۨلَّذِىۡ جَمَعَ مَالًا وَّعَدَّدَهٗ ۙ",
+    "urdu": "جو مال جمع کرتا اور اس کو گن گن کر رکھتا ہے",
+    "english": "Who collects wealth and [continuously] counts it.",
+    "words": [
+     {
+      "arabic": "اۨلَّذِىۡ",
+      "urdu": "وہ جس نے",
+      "english": "The one who"
+     },
+     {
+      "arabic": "جَمَعَ",
+      "urdu": "جمع کیا",
+      "english": "collects"
+     },
+     {
+      "arabic": "مَالًا",
+      "urdu": "مال",
+      "english": "wealth"
+     },
+     {
+      "arabic": "وَّعَدَّدَهٗ ۙ",
+      "urdu": "اور گن گن کر رکھا اس کو",
+      "english": "and counts it"
+     }
+    ]
+   },
+   {
+    "number": 3,
+    "arabic": "يَحۡسَبُ اَنَّ مَالَهٗۤ اَخۡلَدَهٗ ۚ",
+    "urdu": "(اور) خیال کرتا ہے کہ اس کا مال اس کی ہمیشہ کی زندگی کا موجب ہو گا",
+    "english": "He thinks that his wealth will make him immortal.",
+    "words": [
+     {
+      "arabic": "يَحۡسَبُ",
+      "urdu": "وہ سمجھتا ہے",
+      "english": "Thinking"
+     },
+     {
+      "arabic": "اَنَّ",
+      "urdu": "کہ بیشک",
+      "english": "that"
+     },
+     {
+      "arabic": "مَالَهٗۤ",
+      "urdu": "اس کا مال",
+      "english": "his wealth"
+     },
+     {
+      "arabic": "اَخۡلَدَهٗ ۚ",
+      "urdu": "ہمیشہ اس کے پاس رہے گا",
+      "english": "will make him immortal"
+     }
+    ]
+   },
+   {
+    "number": 4,
+    "arabic": "كَلَّا لَيُنۡۢبَذَنَّ فِى الۡحُطَمَةِ  ۖ",
+    "urdu": "ہر گز نہیں وہ ضرور حطمہ میں ڈالا جائے گا",
+    "english": "No! He will surely be thrown into the Crusher.",
+    "words": [
+     {
+      "arabic": "كَلَّا",
+      "urdu": "ہرگز نہیں",
+      "english": "Nay"
+     },
+     {
+      "arabic": "لَيُنۡۢبَذَنَّ",
+      "urdu": "البتہ ضرور ڈالا جائے گا",
+      "english": "Surely he will be thrown"
+     },
+     {
+      "arabic": "فِى",
+      "urdu": "میں",
+      "english": "in"
+     },
+     {
+      "arabic": "الۡحُطَمَةِ  ۖ",
+      "urdu": "حطمہ (میں)",
+      "english": "the Crusher"
+     }
+    ]
+   },
+   {
+    "number": 5,
+    "arabic": "وَمَاۤ اَدۡرٰٮكَ مَا الۡحُطَمَةُ ؕ",
+    "urdu": "اور تم کیا سمجھے حطمہ کیا ہے؟",
+    "english": "And what can make you know what is the Crusher?",
+    "words": [
+     {
+      "arabic": "وَمَاۤ",
+      "urdu": "اور کیا چیز",
+      "english": "And what"
+     },
+     {
+      "arabic": "اَدۡرٰٮكَ",
+      "urdu": "بتائے تجھ کو",
+      "english": "will make you know"
+     },
+     {
+      "arabic": "مَا",
+      "urdu": "کیا ہے",
+      "english": "what"
+     },
+     {
+      "arabic": "الۡحُطَمَةُ ؕ",
+      "urdu": "حطمہ",
+      "english": "the Crusher (is)"
+     }
+    ]
+   },
+   {
+    "number": 6,
+    "arabic": "نَارُ اللّٰهِ الۡمُوۡقَدَةُ ۙ",
+    "urdu": "وہ خدا کی بھڑکائی ہوئی آگ ہے",
+    "english": "It is the fire of Allāh, [eternally] fueled,",
+    "words": [
+     {
+      "arabic": "نَارُ",
+      "urdu": "آگ",
+      "english": "A Fire"
+     },
+     {
+      "arabic": "اللّٰهِ",
+      "urdu": "اللہ کی",
+      "english": "Allah"
+     },
+     {
+      "arabic": "الۡمُوۡقَدَةُ ۙ",
+      "urdu": "سلگائی ہوئی",
+      "english": "kindled"
+     }
+    ]
+   },
+   {
+    "number": 7,
+    "arabic": "الَّتِىۡ تَطَّلِعُ عَلَى الۡاَفۡـــِٕدَةِ ؕ",
+    "urdu": "جو دلوں پر جا لپٹے گی",
+    "english": "Which mounts directed at the hearts.",
+    "words": [
+     {
+      "arabic": "الَّتِىۡ",
+      "urdu": "وہ جو",
+      "english": "Which"
+     },
+     {
+      "arabic": "تَطَّلِعُ",
+      "urdu": "چڑھ آتی ہے",
+      "english": "mounts up"
+     },
+     {
+      "arabic": "عَلَى",
+      "urdu": "پر",
+      "english": "to"
+     },
+     {
+      "arabic": "الۡاَفۡـــِٕدَةِ ؕ",
+      "urdu": "دلوں (پر)",
+      "english": "the hearts"
+     }
+    ]
+   },
+   {
+    "number": 8,
+    "arabic": "اِنَّهَا عَلَيۡهِمۡ مُّؤۡصَدَةٌ ۙ",
+    "urdu": "(اور) وہ اس میں بند کر دیئے جائیں گے",
+    "english": "Indeed, it [i.e., Hellfire] will be closed down upon them",
+    "words": [
+     {
+      "arabic": "اِنَّهَا",
+      "urdu": "بیشک وہ",
+      "english": "Indeed, it"
+     },
+     {
+      "arabic": "عَلَيۡهِمۡ",
+      "urdu": "ان پر",
+      "english": "(will be) upon them"
+     },
+     {
+      "arabic": "مُّؤۡصَدَةٌ ۙ",
+      "urdu": "بند کی ہوئی ہے",
+      "english": "closed over"
+     }
+    ]
+   },
+   {
+    "number": 9,
+    "arabic": "فِىۡ عَمَدٍ مُّمَدَّدَةٍ",
+    "urdu": "(یعنی آگ کے) لمبے لمبے ستونوں میں",
+    "english": "In extended columns.",
+    "words": [
+     {
+      "arabic": "فِىۡ",
+      "urdu": "میں",
+      "english": "In"
+     },
+     {
+      "arabic": "عَمَدٍ",
+      "urdu": "ستونوں (میں)",
+      "english": "columns"
+     },
+     {
+      "arabic": "مُّمَدَّدَةٍ",
+      "urdu": "لمبے لمبے",
+      "english": "extended"
+     }
+    ]
+   }
+  ],
+  "explanationEnglish": "A warning to the slanderer and backbiter who hoards wealth.",
+  "explanationUrdu": "عیب جوئی اور طعنہ زنی کرنے والے اور مال جمع کر کے گننے والے کے لیے وعید۔",
+  "references": [
+   {
+    "type": "quran-text",
+    "text": "Arabic (Indo-Pak script) and word-by-word: Quran.com API v4 (Tanzil-based text)."
+   },
+   {
+    "type": "translation-ur",
+    "text": "Urdu: Fatah Muhammad Jalandhari (via Quran.com, resource 234)."
+   },
+   {
+    "type": "translation-en",
+    "text": "English: Saheeh International (via Quran.com, resource 20)."
+   }
+  ],
+  "verificationStatus": "needs-review",
+  "verificationNote": "Text imported programmatically; consonant skeleton cross-checked with Tanzil. Not yet compared with a printed Indo-Pak mushaf. Explanation is a brief original summary."
+ },
+ {
+  "id": "surah-adiyat",
+  "surahNumber": 100,
+  "title": "Surah Al-‘Adiyat",
+  "titleUrdu": "سورۃ العادیات",
+  "transliteration": "Al-Aadiyaat, Adiyat, Wal adiyati dabha",
+  "category": "short-surah",
+  "bismillah": true,
+  "arabic": "وَالۡعٰدِيٰتِ ضَبۡحًا ۙ فَالۡمُوۡرِيٰتِ قَدۡحًا ۙ فَالۡمُغِيۡرٰتِ صُبۡحًا ۙ فَاَثَرۡنَ بِهٖ نَقۡعًا ۙ فَوَسَطۡنَ بِهٖ جَمۡعًا ۙ اِنَّ الۡاِنۡسَانَ لِرَبِّهٖ لَـكَنُوۡدٌ ۚ وَاِنَّهٗ عَلٰى ذٰلِكَ لَشَهِيۡدٌ ۚ وَاِنَّهٗ لِحُبِّ الۡخَيۡرِ لَشَدِيۡدٌ ؕ ۞ اَفَلَا يَعۡلَمُ اِذَا بُعۡثِرَ مَا فِى الۡقُبُوۡرِۙ وَحُصِّلَ مَا فِى الصُّدُوۡرِۙ اِنَّ رَبَّهُمۡ بِهِمۡ يَوۡمَٮِٕذٍ لَّخَبِيۡرٌ",
+  "verses": [
+   {
+    "number": 1,
+    "arabic": "وَالۡعٰدِيٰتِ ضَبۡحًا ۙ",
+    "urdu": "ان سرپٹ دوڑنے والے گھوڑوں کی قسم جو ہانپ اٹھتےہیں",
+    "english": "By the racers, panting,",
+    "words": [
+     {
+      "arabic": "وَالۡعٰدِيٰتِ",
+      "urdu": "قسم ہے دوڑنے والیوں کی",
+      "english": "By the racers"
+     },
+     {
+      "arabic": "ضَبۡحًا ۙ",
+      "urdu": "ہانپ کر",
+      "english": "panting"
+     }
+    ]
+   },
+   {
+    "number": 2,
+    "arabic": "فَالۡمُوۡرِيٰتِ قَدۡحًا ۙ",
+    "urdu": "پھر (پتھروں پر نعل) مار کر آگ نکالتے ہیں",
+    "english": "And the producers of sparks [when] striking",
+    "words": [
+     {
+      "arabic": "فَالۡمُوۡرِيٰتِ",
+      "urdu": "پھر قسم ہے آگ نکالنے والیوں کی",
+      "english": "And the producers of sparks"
+     },
+     {
+      "arabic": "قَدۡحًا ۙ",
+      "urdu": "جھاڑ کر",
+      "english": "striking"
+     }
+    ]
+   },
+   {
+    "number": 3,
+    "arabic": "فَالۡمُغِيۡرٰتِ صُبۡحًا ۙ",
+    "urdu": "پھر صبح کو چھاپہ مارتے ہیں",
+    "english": "And the chargers at dawn,",
+    "words": [
+     {
+      "arabic": "فَالۡمُغِيۡرٰتِ",
+      "urdu": "پھر قسم ہے چھاپہ مارنے والیوں کی",
+      "english": "And the chargers"
+     },
+     {
+      "arabic": "صُبۡحًا ۙ",
+      "urdu": "صبح کے وقت",
+      "english": "(at) dawn"
+     }
+    ]
+   },
+   {
+    "number": 4,
+    "arabic": "فَاَثَرۡنَ بِهٖ نَقۡعًا ۙ",
+    "urdu": "پھر اس میں گرد اٹھاتے ہیں",
+    "english": "Stirring up thereby [clouds of] dust,",
+    "words": [
+     {
+      "arabic": "فَاَثَرۡنَ",
+      "urdu": "پھر قسم ہے اڑانے والیاں",
+      "english": "Then raise"
+     },
+     {
+      "arabic": "بِهٖ",
+      "urdu": "ساتھ اس کے",
+      "english": "thereby"
+     },
+     {
+      "arabic": "نَقۡعًا ۙ",
+      "urdu": "غبار کو",
+      "english": "dust"
+     }
+    ]
+   },
+   {
+    "number": 5,
+    "arabic": "فَوَسَطۡنَ بِهٖ جَمۡعًا ۙ",
+    "urdu": "پھر اس وقت دشمن کی فوج میں جا گھستے ہیں",
+    "english": "Arriving thereby in the center collectively,",
+    "words": [
+     {
+      "arabic": "فَوَسَطۡنَ",
+      "urdu": "پھر گھس جانے والیاں",
+      "english": "Then penetrate (in the) center"
+     },
+     {
+      "arabic": "بِهٖ",
+      "urdu": "ساتھ اس کے",
+      "english": "thereby"
+     },
+     {
+      "arabic": "جَمۡعًا ۙ",
+      "urdu": "جماعت میں/ گروہ میں",
+      "english": "collectively"
+     }
+    ]
+   },
+   {
+    "number": 6,
+    "arabic": "اِنَّ الۡاِنۡسَانَ لِرَبِّهٖ لَـكَنُوۡدٌ ۚ",
+    "urdu": "کہ انسان اپنے پروردگار کا احسان ناشناس (اور ناشکرا) ہے",
+    "english": "Indeed mankind, to his Lord, is ungrateful.",
+    "words": [
+     {
+      "arabic": "اِنَّ",
+      "urdu": "یقیناً",
+      "english": "Indeed"
+     },
+     {
+      "arabic": "الۡاِنۡسَانَ",
+      "urdu": "انسان",
+      "english": "mankind"
+     },
+     {
+      "arabic": "لِرَبِّهٖ",
+      "urdu": "اپنے رب کے لئے",
+      "english": "to his Lord"
+     },
+     {
+      "arabic": "لَـكَنُوۡدٌ ۚ",
+      "urdu": "البتہ ناشکرا ہے",
+      "english": "(is) surely ungrateful"
+     }
+    ]
+   },
+   {
+    "number": 7,
+    "arabic": "وَاِنَّهٗ عَلٰى ذٰلِكَ لَشَهِيۡدٌ ۚ",
+    "urdu": "اور وہ اس سے آگاہ بھی ہے",
+    "english": "And indeed, he is to that a witness.",
+    "words": [
+     {
+      "arabic": "وَاِنَّهٗ",
+      "urdu": "اور بیشک وہ",
+      "english": "And indeed, he"
+     },
+     {
+      "arabic": "عَلٰى",
+      "urdu": "اوپر",
+      "english": "on"
+     },
+     {
+      "arabic": "ذٰلِكَ",
+      "urdu": "اس کے",
+      "english": "that"
+     },
+     {
+      "arabic": "لَشَهِيۡدٌ ۚ",
+      "urdu": "البتہ گواہ ہے",
+      "english": "surely (is) a witness"
+     }
+    ]
+   },
+   {
+    "number": 8,
+    "arabic": "وَاِنَّهٗ لِحُبِّ الۡخَيۡرِ لَشَدِيۡدٌ ؕ",
+    "urdu": "وہ تو مال سے سخت محبت کرنے والا ہے",
+    "english": "And indeed he is, in love of wealth, intense.",
+    "words": [
+     {
+      "arabic": "وَاِنَّهٗ",
+      "urdu": "اور بیشک وہ",
+      "english": "And indeed he"
+     },
+     {
+      "arabic": "لِحُبِّ",
+      "urdu": "محبت میں",
+      "english": "in (the) love"
+     },
+     {
+      "arabic": "الۡخَيۡرِ",
+      "urdu": "مال کی",
+      "english": "(of) wealth"
+     },
+     {
+      "arabic": "لَشَدِيۡدٌ ؕ",
+      "urdu": "البتہ سخت ہے",
+      "english": "(is) surely intense"
+     }
+    ]
+   },
+   {
+    "number": 9,
+    "arabic": "۞ اَفَلَا يَعۡلَمُ اِذَا بُعۡثِرَ مَا فِى الۡقُبُوۡرِۙ",
+    "urdu": "کیا وہ اس وقت کو نہیں جانتا کہ جو( مردے) قبروں میں ہیں وہ باہر نکال لیے جائیں گے",
+    "english": "But does he not know that when the contents of the graves are scattered",
+    "words": [
+     {
+      "arabic": "۞ اَفَلَا",
+      "urdu": "کیا بھلا نہیں",
+      "english": "But does not"
+     },
+     {
+      "arabic": "يَعۡلَمُ",
+      "urdu": "وہ جانتا",
+      "english": "he know"
+     },
+     {
+      "arabic": "اِذَا",
+      "urdu": "جب",
+      "english": "when"
+     },
+     {
+      "arabic": "بُعۡثِرَ",
+      "urdu": "نکالا جائے گا",
+      "english": "will be scattered"
+     },
+     {
+      "arabic": "مَا",
+      "urdu": "جو",
+      "english": "what"
+     },
+     {
+      "arabic": "فِى",
+      "urdu": "میں",
+      "english": "(is) in"
+     },
+     {
+      "arabic": "الۡقُبُوۡرِۙ",
+      "urdu": "قبروں میں ہے",
+      "english": "the graves"
+     }
+    ]
+   },
+   {
+    "number": 10,
+    "arabic": "وَحُصِّلَ مَا فِى الصُّدُوۡرِۙ",
+    "urdu": "اور جو (بھید) دلوں میں ہیں وہ ظاہر کر دیئے جائیں گے",
+    "english": "And that within the breasts is obtained,",
+    "words": [
+     {
+      "arabic": "وَحُصِّلَ",
+      "urdu": "اور حاصل کرلیا جائے گا",
+      "english": "And is made apparent"
+     },
+     {
+      "arabic": "مَا",
+      "urdu": "جو",
+      "english": "what"
+     },
+     {
+      "arabic": "فِى",
+      "urdu": "میں",
+      "english": "(is) in"
+     },
+     {
+      "arabic": "الصُّدُوۡرِۙ",
+      "urdu": "سینوں میں ہے",
+      "english": "the breasts"
+     }
+    ]
+   },
+   {
+    "number": 11,
+    "arabic": "اِنَّ رَبَّهُمۡ بِهِمۡ يَوۡمَٮِٕذٍ لَّخَبِيۡرٌ",
+    "urdu": "بےشک ان کا پروردگار اس روز ان سے خوب واقف ہوگا",
+    "english": "Indeed, their Lord with them, that Day, is [fully] Aware.",
+    "words": [
+     {
+      "arabic": "اِنَّ",
+      "urdu": "بیشک",
+      "english": "Indeed"
+     },
+     {
+      "arabic": "رَبَّهُمۡ",
+      "urdu": "رب ان کا",
+      "english": "their Lord"
+     },
+     {
+      "arabic": "بِهِمۡ",
+      "urdu": "ساتھ ان کے",
+      "english": "about them"
+     },
+     {
+      "arabic": "يَوۡمَٮِٕذٍ",
+      "urdu": "اس دن",
+      "english": "that Day"
+     },
+     {
+      "arabic": "لَّخَبِيۡرٌ",
+      "urdu": "البتہ باخبر ہے",
+      "english": "(is) surely All-Aware"
+     }
+    ]
+   }
+  ],
+  "explanationEnglish": "By the charging horses: man is ungrateful to his Lord and will be held to account when the graves are overturned.",
+  "explanationUrdu": "دوڑتے گھوڑوں کی قسم! انسان اپنے رب کا ناشکرا ہے اور قبریں اکھاڑے جانے پر حساب ہوگا۔",
+  "references": [
+   {
+    "type": "quran-text",
+    "text": "Arabic (Indo-Pak script) and word-by-word: Quran.com API v4 (Tanzil-based text)."
+   },
+   {
+    "type": "translation-ur",
+    "text": "Urdu: Fatah Muhammad Jalandhari (via Quran.com, resource 234)."
+   },
+   {
+    "type": "translation-en",
+    "text": "English: Saheeh International (via Quran.com, resource 20)."
+   }
+  ],
+  "verificationStatus": "needs-review",
+  "verificationNote": "Text imported programmatically; consonant skeleton cross-checked with Tanzil. Not yet compared with a printed Indo-Pak mushaf. Explanation is a brief original summary."
+ },
+ {
+  "id": "surah-zalzalah",
+  "surahNumber": 99,
+  "title": "Surah Az-Zalzalah",
+  "titleUrdu": "سورۃ الزلزال",
+  "transliteration": "Az-Zalzalah, Zilzal, Idha zulzilatil ard",
+  "category": "short-surah",
+  "bismillah": true,
+  "arabic": "اِذَا زُلۡزِلَتِ الۡاَرۡضُ زِلۡزَالَهَا ۙ وَاَخۡرَجَتِ الۡاَرۡضُ اَثۡقَالَهَا ۙ وَقَالَ الۡاِنۡسَانُ مَا لَهَا ۚ يَوۡمَٮِٕذٍ تُحَدِّثُ اَخۡبَارَهَا ۙ بِاَنَّ رَبَّكَ اَوۡحٰى لَهَا ؕ يَوۡمَٮِٕذٍ يَّصۡدُرُ النَّاسُ اَشۡتَاتًا ۙ لِّيُرَوۡا اَعۡمَالَهُمۡؕ فَمَنۡ يَّعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرًا يَّرَهٗ ؕ وَمَنۡ يَّعۡمَلۡ مِثۡقَالَ ذَرَّةٍ شَرًّا يَّرَهٗ",
+  "verses": [
+   {
+    "number": 1,
+    "arabic": "اِذَا زُلۡزِلَتِ الۡاَرۡضُ زِلۡزَالَهَا ۙ",
+    "urdu": "جب زمین بھونچال سے ہلا دی جائے گی",
+    "english": "When the earth is shaken with its [final] earthquake",
+    "words": [
+     {
+      "arabic": "اِذَا",
+      "urdu": "جب",
+      "english": "When"
+     },
+     {
+      "arabic": "زُلۡزِلَتِ",
+      "urdu": "ہلا ماری جائے گی",
+      "english": "is shaken"
+     },
+     {
+      "arabic": "الۡاَرۡضُ",
+      "urdu": "زمین",
+      "english": "the earth"
+     },
+     {
+      "arabic": "زِلۡزَالَهَا ۙ",
+      "urdu": "ہلا دیا جانا اس کا",
+      "english": "(with) its earthquake"
+     }
+    ]
+   },
+   {
+    "number": 2,
+    "arabic": "وَاَخۡرَجَتِ الۡاَرۡضُ اَثۡقَالَهَا ۙ",
+    "urdu": "اور زمین اپنے (اندر) کے بوجھ نکال ڈالے گی",
+    "english": "And the earth discharges its burdens",
+    "words": [
+     {
+      "arabic": "وَاَخۡرَجَتِ",
+      "urdu": "اور نکالے گی",
+      "english": "And brings forth"
+     },
+     {
+      "arabic": "الۡاَرۡضُ",
+      "urdu": "زمین",
+      "english": "the earth"
+     },
+     {
+      "arabic": "اَثۡقَالَهَا ۙ",
+      "urdu": "بوجھ اپنے",
+      "english": "its burdens"
+     }
+    ]
+   },
+   {
+    "number": 3,
+    "arabic": "وَقَالَ الۡاِنۡسَانُ مَا لَهَا ۚ",
+    "urdu": "اور انسان کہے گا کہ اس کو کیا ہوا ہے؟",
+    "english": "And man says, \"What is [wrong] with it?\" -",
+    "words": [
+     {
+      "arabic": "وَقَالَ",
+      "urdu": "اور کہے گا",
+      "english": "And says"
+     },
+     {
+      "arabic": "الۡاِنۡسَانُ",
+      "urdu": "انسان",
+      "english": "man"
+     },
+     {
+      "arabic": "مَا",
+      "urdu": "کیا ہے",
+      "english": "What"
+     },
+     {
+      "arabic": "لَهَا ۚ",
+      "urdu": "اس کو",
+      "english": "(is) with it"
+     }
+    ]
+   },
+   {
+    "number": 4,
+    "arabic": "يَوۡمَٮِٕذٍ تُحَدِّثُ اَخۡبَارَهَا ۙ",
+    "urdu": "اس روز وہ اپنے حالات بیان کردے گی",
+    "english": "That Day, it will report its news",
+    "words": [
+     {
+      "arabic": "يَوۡمَٮِٕذٍ",
+      "urdu": "اس دن",
+      "english": "That Day"
+     },
+     {
+      "arabic": "تُحَدِّثُ",
+      "urdu": "وہ بیان کرے گی",
+      "english": "it will report"
+     },
+     {
+      "arabic": "اَخۡبَارَهَا ۙ",
+      "urdu": "اپنی خبریں",
+      "english": "its news"
+     }
+    ]
+   },
+   {
+    "number": 5,
+    "arabic": "بِاَنَّ رَبَّكَ اَوۡحٰى لَهَا ؕ",
+    "urdu": "کیونکہ تمہارے پروردگار نے اس کو حکم بھیجا (ہوگا )",
+    "english": "Because your Lord has inspired [i.e., commanded] it.",
+    "words": [
+     {
+      "arabic": "بِاَنَّ",
+      "urdu": "کیونکہ",
+      "english": "Because"
+     },
+     {
+      "arabic": "رَبَّكَ",
+      "urdu": "تیرے رب نے",
+      "english": "your Lord"
+     },
+     {
+      "arabic": "اَوۡحٰى",
+      "urdu": "وحی کی",
+      "english": "inspired"
+     },
+     {
+      "arabic": "لَهَا ؕ",
+      "urdu": "اس کے لئے",
+      "english": "[to] it"
+     }
+    ]
+   },
+   {
+    "number": 6,
+    "arabic": "يَوۡمَٮِٕذٍ يَّصۡدُرُ النَّاسُ اَشۡتَاتًا ۙ لِّيُرَوۡا اَعۡمَالَهُمۡؕ",
+    "urdu": "اس دن لوگ گروہ گروہ ہو کر آئیں گے تاکہ ان کو ان کے اعمال دکھا دیئے جائیں",
+    "english": "That Day, the people will depart separated [into categories] to be shown [the result of] their deeds.",
+    "words": [
+     {
+      "arabic": "يَوۡمَٮِٕذٍ",
+      "urdu": "اس دن",
+      "english": "That Day"
+     },
+     {
+      "arabic": "يَّصۡدُرُ",
+      "urdu": "نکلیں گے/ پلٹیں گے",
+      "english": "will proceed"
+     },
+     {
+      "arabic": "النَّاسُ",
+      "urdu": "لوگ",
+      "english": "the mankind"
+     },
+     {
+      "arabic": "اَشۡتَاتًا ۙ",
+      "urdu": "مختلف حالت میں",
+      "english": "(in) scattered groups"
+     },
+     {
+      "arabic": "لِّيُرَوۡا",
+      "urdu": "تاکہ وہ دکھائے جائیں",
+      "english": "to be shown"
+     },
+     {
+      "arabic": "اَعۡمَالَهُمۡؕ",
+      "urdu": "اپنے اعمال",
+      "english": "their deeds"
+     }
+    ]
+   },
+   {
+    "number": 7,
+    "arabic": "فَمَنۡ يَّعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرًا يَّرَهٗ ؕ",
+    "urdu": "تو جس نے ذرہ بھر نیکی کی ہو گی وہ اس کو دیکھ لے گا",
+    "english": "So whoever does an atom's weight of good will see it,",
+    "words": [
+     {
+      "arabic": "فَمَنۡ",
+      "urdu": "تو جو کوئی",
+      "english": "So whoever"
+     },
+     {
+      "arabic": "يَّعۡمَلۡ",
+      "urdu": "عمل کرے",
+      "english": "does"
+     },
+     {
+      "arabic": "مِثۡقَالَ",
+      "urdu": "برابر",
+      "english": "(equal to the) weight"
+     },
+     {
+      "arabic": "ذَرَّةٍ",
+      "urdu": "ذرے کے",
+      "english": "(of) an atom"
+     },
+     {
+      "arabic": "خَيۡرًا",
+      "urdu": "بھلائی کا",
+      "english": "good"
+     },
+     {
+      "arabic": "يَّرَهٗ ؕ",
+      "urdu": "وہ دیکھ لے گا اس کو",
+      "english": "will see it"
+     }
+    ]
+   },
+   {
+    "number": 8,
+    "arabic": "وَمَنۡ يَّعۡمَلۡ مِثۡقَالَ ذَرَّةٍ شَرًّا يَّرَهٗ",
+    "urdu": "اور جس نے ذرہ بھر برائی کی ہوگی وہ اسے دیکھ لے گا",
+    "english": "And whoever does an atom's weight of evil will see it.",
+    "words": [
+     {
+      "arabic": "وَمَنۡ",
+      "urdu": "اور جو کوئی",
+      "english": "And whoever"
+     },
+     {
+      "arabic": "يَّعۡمَلۡ",
+      "urdu": "عمل کرے گا",
+      "english": "does"
+     },
+     {
+      "arabic": "مِثۡقَالَ",
+      "urdu": "برابر",
+      "english": "(equal to the) weight"
+     },
+     {
+      "arabic": "ذَرَّةٍ",
+      "urdu": "ذرے کے",
+      "english": "(of) an atom"
+     },
+     {
+      "arabic": "شَرًّا",
+      "urdu": "برائی کا",
+      "english": "evil"
+     },
+     {
+      "arabic": "يَّرَهٗ",
+      "urdu": "وہ دیکھ لے گا اس کو",
+      "english": "will see it"
+     }
+    ]
+   }
+  ],
+  "explanationEnglish": "The earthquake of the Last Day; every deed, even an atom’s weight, will be seen.",
+  "explanationUrdu": "قیامت کے زلزلے کا بیان؛ ہر ذرہ برابر نیکی اور برائی سامنے آ جائے گی۔",
+  "references": [
+   {
+    "type": "quran-text",
+    "text": "Arabic (Indo-Pak script) and word-by-word: Quran.com API v4 (Tanzil-based text)."
+   },
+   {
+    "type": "translation-ur",
+    "text": "Urdu: Fatah Muhammad Jalandhari (via Quran.com, resource 234)."
+   },
+   {
+    "type": "translation-en",
+    "text": "English: Saheeh International (via Quran.com, resource 20)."
+   }
+  ],
+  "verificationStatus": "needs-review",
+  "verificationNote": "Text imported programmatically; consonant skeleton cross-checked with Tanzil. Not yet compared with a printed Indo-Pak mushaf. Explanation is a brief original summary."
+ },
+ {
+  "id": "surah-bayyinah",
+  "surahNumber": 98,
+  "title": "Surah Al-Bayyinah",
+  "titleUrdu": "سورۃ البینہ",
+  "transliteration": "Al-Bayyinah, Bayyina, Lam yakunil ladhina kafaru",
+  "category": "short-surah",
+  "bismillah": true,
+  "arabic": "لَمۡ يَكُنِ الَّذِيۡنَ كَفَرُوۡا مِنۡ اَهۡلِ الۡكِتٰبِ وَالۡمُشۡرِكِيۡنَ مُنۡفَكِّيۡنَ حَتّٰى تَاۡتِيَهُمُ الۡبَيِّنَةُ ۙ رَسُوۡلٌ مِّنَ اللّٰهِ يَتۡلُوۡا صُحُفًا مُّطَهَّرَةً ۙ فِيۡهَا كُتُبٌ قَيِّمَةٌ ؕ وَمَا تَفَرَّقَ الَّذِيۡنَ اُوۡتُوا الۡكِتٰبَ اِلَّا مِنۡۢ بَعۡدِ مَا جَآءَتۡهُمُ الۡبَيِّنَةُ ؕ وَمَاۤ اُمِرُوۡۤا اِلَّا لِيَعۡبُدُوا اللّٰهَ مُخۡلِصِيۡنَ لَـهُ الدِّيۡنَۙ حُنَفَآءَ وَيُقِيۡمُوا الصَّلٰوةَ وَيُؤۡتُوا الزَّكٰوةَ وَذٰلِكَ دِيۡنُ الۡقَيِّمَةِ ؕ اِنَّ الَّذِيۡنَ كَفَرُوۡا مِنۡ اَهۡلِ الۡكِتٰبِ وَ الۡمُشۡرِكِيۡنَ فِىۡ نَارِ جَهَنَّمَ خٰلِدِيۡنَ فِيۡهَا ؕ اُولٰٓٮِٕكَ هُمۡ شَرُّ الۡبَرِيَّةِ ؕ اِنَّ الَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِۙ اُولٰٓٮِٕكَ هُمۡ خَيۡرُ الۡبَرِيَّةِ ؕ جَزَآؤُهُمۡ عِنۡدَ رَبِّهِمۡ جَنّٰتُ عَدۡنٍ تَجۡرِىۡ مِنۡ تَحۡتِهَا الۡاَنۡهٰرُ خٰلِدِيۡنَ فِيۡهَاۤ اَبَدًا ؕ رَضِىَ اللّٰهُ عَنۡهُمۡ وَرَضُوۡا عَنۡهُ ؕ ذٰلِكَ لِمَنۡ خَشِىَ رَبَّهٗ",
+  "verses": [
+   {
+    "number": 1,
+    "arabic": "لَمۡ يَكُنِ الَّذِيۡنَ كَفَرُوۡا مِنۡ اَهۡلِ الۡكِتٰبِ وَالۡمُشۡرِكِيۡنَ مُنۡفَكِّيۡنَ حَتّٰى تَاۡتِيَهُمُ الۡبَيِّنَةُ ۙ",
+    "urdu": "جو لوگ کافر ہیں (یعنی) اہل کتاب اور مشرک وہ (کفر سے) باز رہنے والے نہ تھے جب تک ان کے پاس کھلی دلیل (نہ) آتی",
+    "english": "Those who disbelieved among the People of the Scripture and the polytheists were not to be parted [from misbelief] until there came to them clear evidence",
+    "words": [
+     {
+      "arabic": "لَمۡ",
+      "urdu": "نہیں",
+      "english": "Not"
+     },
+     {
+      "arabic": "يَكُنِ",
+      "urdu": "تھے وہ",
+      "english": "were"
+     },
+     {
+      "arabic": "الَّذِيۡنَ",
+      "urdu": "لوگ",
+      "english": "those who"
+     },
+     {
+      "arabic": "كَفَرُوۡا",
+      "urdu": "جنہوں نے کفر کیا",
+      "english": "disbelieved"
+     },
+     {
+      "arabic": "مِنۡ",
+      "urdu": "سے",
+      "english": "from"
+     },
+     {
+      "arabic": "اَهۡلِ",
+      "urdu": "اہل",
+      "english": "(the) People"
+     },
+     {
+      "arabic": "الۡكِتٰبِ",
+      "urdu": "کتاب میں سے",
+      "english": "of the Book"
+     },
+     {
+      "arabic": "وَالۡمُشۡرِكِيۡنَ",
+      "urdu": "اور مشرکین میں سے",
+      "english": "and the polytheists"
+     },
+     {
+      "arabic": "مُنۡفَكِّيۡنَ",
+      "urdu": "باز آنے والے",
+      "english": "to be abandoned"
+     },
+     {
+      "arabic": "حَتّٰى",
+      "urdu": "یہاں تک کہ",
+      "english": "until"
+     },
+     {
+      "arabic": "تَاۡتِيَهُمُ",
+      "urdu": "آجائے ان کے پاس",
+      "english": "(there) comes to them"
+     },
+     {
+      "arabic": "الۡبَيِّنَةُ ۙ",
+      "urdu": "واضح دلیل",
+      "english": "the clear evidence"
+     }
+    ]
+   },
+   {
+    "number": 2,
+    "arabic": "رَسُوۡلٌ مِّنَ اللّٰهِ يَتۡلُوۡا صُحُفًا مُّطَهَّرَةً ۙ",
+    "urdu": "(یعنی) خدا کے پیغمبر جو پاک اوراق پڑھتے ہیں",
+    "english": "A Messenger from Allāh, reciting purified scriptures",
+    "words": [
+     {
+      "arabic": "رَسُوۡلٌ",
+      "urdu": "ایک رسول",
+      "english": "A Messenger"
+     },
+     {
+      "arabic": "مِّنَ",
+      "urdu": "سے",
+      "english": "from"
+     },
+     {
+      "arabic": "اللّٰهِ",
+      "urdu": "اللہ کی طرف (سے)",
+      "english": "Allah"
+     },
+     {
+      "arabic": "يَتۡلُوۡا",
+      "urdu": "جو پڑھتا ہے",
+      "english": "reciting"
+     },
+     {
+      "arabic": "صُحُفًا",
+      "urdu": "صحیفے",
+      "english": "pages"
+     },
+     {
+      "arabic": "مُّطَهَّرَةً ۙ",
+      "urdu": "پاکیزہ",
+      "english": "purified"
+     }
+    ]
+   },
+   {
+    "number": 3,
+    "arabic": "فِيۡهَا كُتُبٌ قَيِّمَةٌ ؕ",
+    "urdu": "جن میں( مستحکم) آیتیں لکھی ہوئی ہیں",
+    "english": "Within which are correct writings [i.e., rulings and laws].",
+    "words": [
+     {
+      "arabic": "فِيۡهَا",
+      "urdu": "اس میں",
+      "english": "Wherein"
+     },
+     {
+      "arabic": "كُتُبٌ",
+      "urdu": "احکام ہیں/ تحریریں ہیں",
+      "english": "(are) writings"
+     },
+     {
+      "arabic": "قَيِّمَةٌ ؕ",
+      "urdu": "درست",
+      "english": "correct"
+     }
+    ]
+   },
+   {
+    "number": 4,
+    "arabic": "وَمَا تَفَرَّقَ الَّذِيۡنَ اُوۡتُوا الۡكِتٰبَ اِلَّا مِنۡۢ بَعۡدِ مَا جَآءَتۡهُمُ الۡبَيِّنَةُ ؕ",
+    "urdu": "اور اہل کتاب جو متفرق (و مختلف) ہوئے ہیں تو دلیل واضح آنے کے بعد( ہوئے ہیں)",
+    "english": "Nor did those who were given the Scripture become divided until after there had come to them clear evidence.",
+    "words": [
+     {
+      "arabic": "وَمَا",
+      "urdu": "اور نہیں",
+      "english": "And not"
+     },
+     {
+      "arabic": "تَفَرَّقَ",
+      "urdu": "تفرقہ کیا",
+      "english": "became divided"
+     },
+     {
+      "arabic": "الَّذِيۡنَ",
+      "urdu": "ان لوگوں نے",
+      "english": "those who"
+     },
+     {
+      "arabic": "اُوۡتُوا",
+      "urdu": "جو دیئے گئے",
+      "english": "were given"
+     },
+     {
+      "arabic": "الۡكِتٰبَ",
+      "urdu": "کتاب",
+      "english": "the Book"
+     },
+     {
+      "arabic": "اِلَّا",
+      "urdu": "مگر",
+      "english": "until"
+     },
+     {
+      "arabic": "مِنۡۢ",
+      "urdu": "کے",
+      "english": "from"
+     },
+     {
+      "arabic": "بَعۡدِ",
+      "urdu": "بعد اس کے",
+      "english": "after"
+     },
+     {
+      "arabic": "مَا",
+      "urdu": "جو",
+      "english": "what"
+     },
+     {
+      "arabic": "جَآءَتۡهُمُ",
+      "urdu": "آئی ان کے پاس",
+      "english": "came (to) them"
+     },
+     {
+      "arabic": "الۡبَيِّنَةُ ؕ",
+      "urdu": "واضح بیان/واضح نصیحت/ واضح چیز",
+      "english": "(of) the clear evidence"
+     }
+    ]
+   },
+   {
+    "number": 5,
+    "arabic": "وَمَاۤ اُمِرُوۡۤا اِلَّا لِيَعۡبُدُوا اللّٰهَ مُخۡلِصِيۡنَ لَـهُ الدِّيۡنَۙ حُنَفَآءَ وَيُقِيۡمُوا الصَّلٰوةَ وَيُؤۡتُوا الزَّكٰوةَ وَذٰلِكَ دِيۡنُ الۡقَيِّمَةِ ؕ",
+    "urdu": "اور ان کو حکم تو یہی ہوا تھا کہ اخلاص عمل کے ساتھ خدا کی عبادت کریں (اور) یکسو ہو کراورنماز پڑھیں اور زکوٰة دیں اور یہی سچا دین ہے",
+    "english": "And they were not commanded except to worship Allāh, [being] sincere to Him in religion, inclining to truth, and to establish prayer and to give zakāh. And that is the correct religion.",
+    "words": [
+     {
+      "arabic": "وَمَاۤ",
+      "urdu": "اور نہیں",
+      "english": "And not"
+     },
+     {
+      "arabic": "اُمِرُوۡۤا",
+      "urdu": "وہ حکم دیئے گئے تھے",
+      "english": "they were commanded"
+     },
+     {
+      "arabic": "اِلَّا",
+      "urdu": "مگر",
+      "english": "except"
+     },
+     {
+      "arabic": "لِيَعۡبُدُوا",
+      "urdu": "یہ کہ وہ عبادت کرتے",
+      "english": "to worship"
+     },
+     {
+      "arabic": "اللّٰهَ",
+      "urdu": "اللہ کی",
+      "english": "Allah"
+     },
+     {
+      "arabic": "مُخۡلِصِيۡنَ",
+      "urdu": "خالص کرتے ہوئے",
+      "english": "(being) sincere"
+     },
+     {
+      "arabic": "لَـهُ",
+      "urdu": "اس کے لئے",
+      "english": "to Him"
+     },
+     {
+      "arabic": "الدِّيۡنَۙ",
+      "urdu": "دین کو",
+      "english": "(in) the religion"
+     },
+     {
+      "arabic": "حُنَفَآءَ",
+      "urdu": "یکسو ہوکر",
+      "english": "upright"
+     },
+     {
+      "arabic": "وَيُقِيۡمُوا",
+      "urdu": "اور وہ قائم کرتے",
+      "english": "and to establish"
+     },
+     {
+      "arabic": "الصَّلٰوةَ",
+      "urdu": "نماز",
+      "english": "the prayer"
+     },
+     {
+      "arabic": "وَيُؤۡتُوا",
+      "urdu": "اور ادا کرتے",
+      "english": "and to give"
+     },
+     {
+      "arabic": "الزَّكٰوةَ",
+      "urdu": "زکوٰۃ",
+      "english": "the zakah"
+     },
+     {
+      "arabic": "وَذٰلِكَ",
+      "urdu": "اور یہ ہے",
+      "english": "And that"
+     },
+     {
+      "arabic": "دِيۡنُ",
+      "urdu": "دین",
+      "english": "(is the) religion"
+     },
+     {
+      "arabic": "الۡقَيِّمَةِ ؕ",
+      "urdu": "درست",
+      "english": "the correct"
+     }
+    ]
+   },
+   {
+    "number": 6,
+    "arabic": "اِنَّ الَّذِيۡنَ كَفَرُوۡا مِنۡ اَهۡلِ الۡكِتٰبِ وَ الۡمُشۡرِكِيۡنَ فِىۡ نَارِ جَهَنَّمَ خٰلِدِيۡنَ فِيۡهَا ؕ اُولٰٓٮِٕكَ هُمۡ شَرُّ الۡبَرِيَّةِ ؕ",
+    "urdu": "جو لوگ کافر ہیں (یعنی) اہل کتاب اور مشرک وہ دوزخ کی آگ میں پڑیں گے (اور) ہمیشہ اس میں رہیں گے۔ یہ لوگ سب مخلوق سے بدتر ہیں",
+    "english": "Indeed, they who disbelieved among the People of the Scripture and the polytheists will be in the fire of Hell, abiding eternally therein. Those are the worst of creatures.",
+    "words": [
+     {
+      "arabic": "اِنَّ",
+      "urdu": "بیشک",
+      "english": "Indeed"
+     },
+     {
+      "arabic": "الَّذِيۡنَ",
+      "urdu": "وہ لوگ",
+      "english": "those who"
+     },
+     {
+      "arabic": "كَفَرُوۡا",
+      "urdu": "جنہوں نے کفر کیا",
+      "english": "disbelieve"
+     },
+     {
+      "arabic": "مِنۡ",
+      "urdu": "سے",
+      "english": "from"
+     },
+     {
+      "arabic": "اَهۡلِ",
+      "urdu": "اہل",
+      "english": "(the) People"
+     },
+     {
+      "arabic": "الۡكِتٰبِ",
+      "urdu": "کتاب میں (سے)",
+      "english": "(of) the Book"
+     },
+     {
+      "arabic": "وَ الۡمُشۡرِكِيۡنَ",
+      "urdu": "اور مشرکین میں سے",
+      "english": "and the polytheists"
+     },
+     {
+      "arabic": "فِىۡ",
+      "urdu": "میں",
+      "english": "(will be) in"
+     },
+     {
+      "arabic": "نَارِ",
+      "urdu": "آگ میں ہوں گے",
+      "english": "(the) Fire"
+     },
+     {
+      "arabic": "جَهَنَّمَ",
+      "urdu": "جہنم کی",
+      "english": "(of) Hell"
+     },
+     {
+      "arabic": "خٰلِدِيۡنَ",
+      "urdu": "ہمیشہ رہنے والے",
+      "english": "abiding eternally"
+     },
+     {
+      "arabic": "فِيۡهَا ؕ",
+      "urdu": "اس میں",
+      "english": "therein"
+     },
+     {
+      "arabic": "اُولٰٓٮِٕكَ",
+      "urdu": "یہی لوگ",
+      "english": "Those"
+     },
+     {
+      "arabic": "هُمۡ",
+      "urdu": "وہ",
+      "english": "they"
+     },
+     {
+      "arabic": "شَرُّ",
+      "urdu": "بدترین",
+      "english": "(are the) worst"
+     },
+     {
+      "arabic": "الۡبَرِيَّةِ ؕ",
+      "urdu": "مخلوق ہیں",
+      "english": "(of) the creatures"
+     }
+    ]
+   },
+   {
+    "number": 7,
+    "arabic": "اِنَّ الَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِۙ اُولٰٓٮِٕكَ هُمۡ خَيۡرُ الۡبَرِيَّةِ ؕ",
+    "urdu": "(اور) جو لوگ ایمان لائے اور نیک عمل کرتے رہے وہ تمام خلقت سے بہتر ہیں",
+    "english": "Indeed, they who have believed and done righteous deeds - those are the best of creatures.",
+    "words": [
+     {
+      "arabic": "اِنَّ",
+      "urdu": "بیشک",
+      "english": "Indeed"
+     },
+     {
+      "arabic": "الَّذِيۡنَ",
+      "urdu": "وہ لوگ",
+      "english": "those who"
+     },
+     {
+      "arabic": "اٰمَنُوۡا",
+      "urdu": "جو ایمان لائے",
+      "english": "believe"
+     },
+     {
+      "arabic": "وَعَمِلُوا",
+      "urdu": "اور انہوں نے عمل کئے",
+      "english": "and do"
+     },
+     {
+      "arabic": "الصّٰلِحٰتِۙ",
+      "urdu": "اچھے",
+      "english": "righteous deeds"
+     },
+     {
+      "arabic": "اُولٰٓٮِٕكَ",
+      "urdu": "یہی لوگ",
+      "english": "those"
+     },
+     {
+      "arabic": "هُمۡ",
+      "urdu": "وہ",
+      "english": "they"
+     },
+     {
+      "arabic": "خَيۡرُ",
+      "urdu": "بہترین",
+      "english": "(are the) best"
+     },
+     {
+      "arabic": "الۡبَرِيَّةِ ؕ",
+      "urdu": "مخلوق ہیں",
+      "english": "(of) the creatures"
+     }
+    ]
+   },
+   {
+    "number": 8,
+    "arabic": "جَزَآؤُهُمۡ عِنۡدَ رَبِّهِمۡ جَنّٰتُ عَدۡنٍ تَجۡرِىۡ مِنۡ تَحۡتِهَا الۡاَنۡهٰرُ خٰلِدِيۡنَ فِيۡهَاۤ اَبَدًا ؕ رَضِىَ اللّٰهُ عَنۡهُمۡ وَرَضُوۡا عَنۡهُ ؕ ذٰلِكَ لِمَنۡ خَشِىَ رَبَّهٗ",
+    "urdu": "ان کا صلہ ان کے پروردگار کے ہاں ہمیشہ رہنے کے باغ ہیں جن کے نیچے نہریں بہہ رہی ہیں ابدالاباد ان میں رہیں گے۔ خدا ان سے خوش اور وہ اس سے خوش۔ یہ (صلہ) اس کے لیے ہے جو اپنے پروردگار سے ڈرتا رہا",
+    "english": "Their reward with their Lord will be gardens of perpetual residence beneath which rivers flow, wherein they will abide forever, Allāh being pleased with them and they with Him. That is for whoever has feared his Lord.",
+    "words": [
+     {
+      "arabic": "جَزَآؤُهُمۡ",
+      "urdu": "ان کی جزا",
+      "english": "Their reward"
+     },
+     {
+      "arabic": "عِنۡدَ",
+      "urdu": "پاس",
+      "english": "(is) with"
+     },
+     {
+      "arabic": "رَبِّهِمۡ",
+      "urdu": "ان کے رب کے",
+      "english": "their Lord"
+     },
+     {
+      "arabic": "جَنّٰتُ",
+      "urdu": "باغات",
+      "english": "Gardens"
+     },
+     {
+      "arabic": "عَدۡنٍ",
+      "urdu": "ہمیشگی کے",
+      "english": "(of) Eternity"
+     },
+     {
+      "arabic": "تَجۡرِىۡ",
+      "urdu": "بہتی ہیں",
+      "english": "flow"
+     },
+     {
+      "arabic": "مِنۡ",
+      "urdu": "سے",
+      "english": "from"
+     },
+     {
+      "arabic": "تَحۡتِهَا",
+      "urdu": "ان کے نیچے سے",
+      "english": "underneath them"
+     },
+     {
+      "arabic": "الۡاَنۡهٰرُ",
+      "urdu": "نہریں",
+      "english": "the rivers"
+     },
+     {
+      "arabic": "خٰلِدِيۡنَ",
+      "urdu": "ہمیشہ رہنے والے ہیں",
+      "english": "will abide"
+     },
+     {
+      "arabic": "فِيۡهَاۤ",
+      "urdu": "اس میں",
+      "english": "therein"
+     },
+     {
+      "arabic": "اَبَدًا ؕ",
+      "urdu": "ہمیشہ ہمیشہ",
+      "english": "forever"
+     },
+     {
+      "arabic": "رَضِىَ",
+      "urdu": "راضی ہوگیا",
+      "english": "(will be) pleased"
+     },
+     {
+      "arabic": "اللّٰهُ",
+      "urdu": "اللہ",
+      "english": "Allah"
+     },
+     {
+      "arabic": "عَنۡهُمۡ",
+      "urdu": "ان سے",
+      "english": "with them"
+     },
+     {
+      "arabic": "وَرَضُوۡا",
+      "urdu": "اور وہ راضی ہوگئے",
+      "english": "and they (will be) pleased"
+     },
+     {
+      "arabic": "عَنۡهُ ؕ",
+      "urdu": "اس سے",
+      "english": "with Him"
+     },
+     {
+      "arabic": "ذٰلِكَ",
+      "urdu": "یہ",
+      "english": "That"
+     },
+     {
+      "arabic": "لِمَنۡ",
+      "urdu": "واسطے اس کے ہے جو",
+      "english": "(is) for whoever"
+     },
+     {
+      "arabic": "خَشِىَ",
+      "urdu": "ڈرتا ہو",
+      "english": "feared"
+     },
+     {
+      "arabic": "رَبَّهٗ",
+      "urdu": "اپنے رب سے",
+      "english": "his Lord"
+     }
+    ]
+   }
+  ],
+  "explanationEnglish": "The Clear Proof — the Messenger and pure scriptures; sincere worship, prayer and zakat are the right religion; the fate of believers and rejecters.",
+  "explanationUrdu": "روشن دلیل (رسول اور پاک صحیفے)؛ خالص عبادت، نماز اور زکوٰۃ ہی سیدھا دین ہے؛ ایمان والوں اور منکروں کا انجام۔",
+  "references": [
+   {
+    "type": "quran-text",
+    "text": "Arabic (Indo-Pak script) and word-by-word: Quran.com API v4 (Tanzil-based text)."
+   },
+   {
+    "type": "translation-ur",
+    "text": "Urdu: Fatah Muhammad Jalandhari (via Quran.com, resource 234)."
+   },
+   {
+    "type": "translation-en",
+    "text": "English: Saheeh International (via Quran.com, resource 20)."
+   }
+  ],
+  "verificationStatus": "needs-review",
+  "verificationNote": "Text imported programmatically; consonant skeleton cross-checked with Tanzil. Not yet compared with a printed Indo-Pak mushaf. Explanation is a brief original summary."
+ },
+ {
+  "id": "surah-alaq",
+  "surahNumber": 96,
+  "title": "Surah Al-‘Alaq",
+  "titleUrdu": "سورۃ العلق",
+  "transliteration": "Al-Alaq, Iqra, Iqra bismi rabbika",
+  "category": "short-surah",
+  "bismillah": true,
+  "arabic": "اِقۡرَاۡ بِاسۡمِ رَبِّكَ الَّذِىۡ خَلَقَۚ خَلَقَ الۡاِنۡسَانَ مِنۡ عَلَقٍۚ اِقۡرَاۡ وَرَبُّكَ الۡاَكۡرَمُۙ الَّذِىۡ عَلَّمَ بِالۡقَلَمِۙ عَلَّمَ الۡاِنۡسَانَ مَا لَمۡ يَعۡلَمۡؕ كَلَّاۤ اِنَّ الۡاِنۡسَانَ لَيَطۡغٰٓىۙ اَنۡ رَّاٰهُ اسۡتَغۡنٰىؕ اِنَّ اِلٰى رَبِّكَ الرُّجۡعٰىؕ اَرَءَيۡتَ الَّذِىۡ يَنۡهٰىؕ عَبۡدًا اِذَا صَلّٰىؕ اَرَءَيۡتَ اِنۡ كَانَ عَلَى الۡهُدٰٓىۙ اَوۡ اَمَرَ بِالتَّقۡوٰىۙ اَرَءَيۡتَ اِنۡ كَذَّبَ وَتَوَلّٰىؕ اَلَمۡ يَعۡلَمۡ بِاَنَّ اللّٰهَ يَرٰىؕ كَلَّا لَٮِٕنۡ لَّمۡ يَنۡتَهِ ۙ لَنَسۡفَعًۢا بِالنَّاصِيَةِۙ نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍ ۚ فَلۡيَدۡعُ نَادِيَهٗ ۙ سَنَدۡعُ الزَّبَانِيَةَ ۙ كَلَّاؕ لَا تُطِعۡهُ وَاسۡجُدۡ وَاقۡتَرِبْ",
+  "verses": [
+   {
+    "number": 1,
+    "arabic": "اِقۡرَاۡ بِاسۡمِ رَبِّكَ الَّذِىۡ خَلَقَۚ",
+    "urdu": "(اے محمدﷺ) اپنے پروردگار کا نام لے کر پڑھو جس نے (عالم کو) پیدا کیا",
+    "english": "Recite in the name of your Lord who created",
+    "words": [
+     {
+      "arabic": "اِقۡرَاۡ",
+      "urdu": "پڑھو",
+      "english": "Read"
+     },
+     {
+      "arabic": "بِاسۡمِ",
+      "urdu": "ساتھ نام کے",
+      "english": "in (the) name"
+     },
+     {
+      "arabic": "رَبِّكَ",
+      "urdu": "اپنے رب کے",
+      "english": "(of) your Lord"
+     },
+     {
+      "arabic": "الَّذِىۡ",
+      "urdu": "وہ جس نے",
+      "english": "the One Who"
+     },
+     {
+      "arabic": "خَلَقَۚ",
+      "urdu": "پیدا کیا",
+      "english": "created"
+     }
+    ]
+   },
+   {
+    "number": 2,
+    "arabic": "خَلَقَ الۡاِنۡسَانَ مِنۡ عَلَقٍۚ",
+    "urdu": "جس نے انسان کو خون کی پھٹکی سے بنایا",
+    "english": "Created man from a clinging substance.",
+    "words": [
+     {
+      "arabic": "خَلَقَ",
+      "urdu": "پیدا کی",
+      "english": "He created"
+     },
+     {
+      "arabic": "الۡاِنۡسَانَ",
+      "urdu": "انسان کو",
+      "english": "man"
+     },
+     {
+      "arabic": "مِنۡ",
+      "urdu": "سے",
+      "english": "from"
+     },
+     {
+      "arabic": "عَلَقٍۚ",
+      "urdu": "جمے ہوئے خون (سے)",
+      "english": "a clinging substance"
+     }
+    ]
+   },
+   {
+    "number": 3,
+    "arabic": "اِقۡرَاۡ وَرَبُّكَ الۡاَكۡرَمُۙ",
+    "urdu": "پڑھو اور تمہارا پروردگار بڑا کریم ہے",
+    "english": "Recite, and your Lord is the most Generous -",
+    "words": [
+     {
+      "arabic": "اِقۡرَاۡ",
+      "urdu": "پڑھو",
+      "english": "Read"
+     },
+     {
+      "arabic": "وَرَبُّكَ",
+      "urdu": "اور رب تیرا",
+      "english": "and your Lord"
+     },
+     {
+      "arabic": "الۡاَكۡرَمُۙ",
+      "urdu": "بڑا کریم ہے",
+      "english": "(is) the Most Generous"
+     }
+    ]
+   },
+   {
+    "number": 4,
+    "arabic": "الَّذِىۡ عَلَّمَ بِالۡقَلَمِۙ",
+    "urdu": "جس نے قلم کے ذریعے سے علم سکھایا",
+    "english": "Who taught by the pen",
+    "words": [
+     {
+      "arabic": "الَّذِىۡ",
+      "urdu": "وہ جس نے",
+      "english": "The One Who"
+     },
+     {
+      "arabic": "عَلَّمَ",
+      "urdu": "سکھایا",
+      "english": "taught"
+     },
+     {
+      "arabic": "بِالۡقَلَمِۙ",
+      "urdu": "ساتھ قلم کے",
+      "english": "by the pen"
+     }
+    ]
+   },
+   {
+    "number": 5,
+    "arabic": "عَلَّمَ الۡاِنۡسَانَ مَا لَمۡ يَعۡلَمۡؕ",
+    "urdu": "اور انسان کو وہ باتیں سکھائیں جس کا اس کو علم نہ تھا",
+    "english": "Taught man that which he knew not.",
+    "words": [
+     {
+      "arabic": "عَلَّمَ",
+      "urdu": "سکھایا",
+      "english": "Taught"
+     },
+     {
+      "arabic": "الۡاِنۡسَانَ",
+      "urdu": "انسان کو",
+      "english": "man"
+     },
+     {
+      "arabic": "مَا",
+      "urdu": "وہ جو",
+      "english": "what"
+     },
+     {
+      "arabic": "لَمۡ",
+      "urdu": "نہیں",
+      "english": "not"
+     },
+     {
+      "arabic": "يَعۡلَمۡؕ",
+      "urdu": "وہ جانتا تھا",
+      "english": "he knew"
+     }
+    ]
+   },
+   {
+    "number": 6,
+    "arabic": "كَلَّاۤ اِنَّ الۡاِنۡسَانَ لَيَطۡغٰٓىۙ",
+    "urdu": "مگر انسان سرکش ہو جاتا ہے",
+    "english": "No! [But] indeed, man transgresses",
+    "words": [
+     {
+      "arabic": "كَلَّاۤ",
+      "urdu": "ہرگز نہیں",
+      "english": "Nay"
+     },
+     {
+      "arabic": "اِنَّ",
+      "urdu": "بیشک",
+      "english": "Indeed"
+     },
+     {
+      "arabic": "الۡاِنۡسَانَ",
+      "urdu": "انسان",
+      "english": "man"
+     },
+     {
+      "arabic": "لَيَطۡغٰٓىۙ",
+      "urdu": "البتہ سرکشی کرتا ہے",
+      "english": "surely transgresses"
+     }
+    ]
+   },
+   {
+    "number": 7,
+    "arabic": "اَنۡ رَّاٰهُ اسۡتَغۡنٰىؕ",
+    "urdu": "جب کہ اپنے تیئں غنی دیکھتا ہے",
+    "english": "Because he sees himself self-sufficient.",
+    "words": [
+     {
+      "arabic": "اَنۡ",
+      "urdu": "کہ",
+      "english": "That"
+     },
+     {
+      "arabic": "رَّاٰهُ",
+      "urdu": "دیکھتا ہے خود کو",
+      "english": "he sees himself"
+     },
+     {
+      "arabic": "اسۡتَغۡنٰىؕ",
+      "urdu": "بےنیاز",
+      "english": "self-sufficient"
+     }
+    ]
+   },
+   {
+    "number": 8,
+    "arabic": "اِنَّ اِلٰى رَبِّكَ الرُّجۡعٰىؕ",
+    "urdu": "کچھ شک نہیں کہ (اس کو) تمہارے پروردگار ہی کی طرف لوٹ کر جانا ہے",
+    "english": "Indeed, to your Lord is the return.",
+    "words": [
+     {
+      "arabic": "اِنَّ",
+      "urdu": "بیشک",
+      "english": "Indeed"
+     },
+     {
+      "arabic": "اِلٰى",
+      "urdu": "طرف",
+      "english": "to"
+     },
+     {
+      "arabic": "رَبِّكَ",
+      "urdu": "تیرے رب کی",
+      "english": "your Lord"
+     },
+     {
+      "arabic": "الرُّجۡعٰىؕ",
+      "urdu": "پلٹنا ہے",
+      "english": "(is) the return"
+     }
+    ]
+   },
+   {
+    "number": 9,
+    "arabic": "اَرَءَيۡتَ الَّذِىۡ يَنۡهٰىؕ",
+    "urdu": "بھلا تم نے اس شخص کو دیکھا جو منع کرتا ہے",
+    "english": "Have you seen the one who forbids",
+    "words": [
+     {
+      "arabic": "اَرَءَيۡتَ",
+      "urdu": "کیا تم نے دیکھا",
+      "english": "Have you seen"
+     },
+     {
+      "arabic": "الَّذِىۡ",
+      "urdu": "اس شخص کو",
+      "english": "the one who"
+     },
+     {
+      "arabic": "يَنۡهٰىؕ",
+      "urdu": "جو روکتا ہے",
+      "english": "forbids"
+     }
+    ]
+   },
+   {
+    "number": 10,
+    "arabic": "عَبۡدًا اِذَا صَلّٰىؕ",
+    "urdu": "(یعنی) ایک بندے کو جب وہ نماز پڑھنے لگتا ہے",
+    "english": "A servant when he prays?",
+    "words": [
+     {
+      "arabic": "عَبۡدًا",
+      "urdu": "ایک بندے کو",
+      "english": "A slave"
+     },
+     {
+      "arabic": "اِذَا",
+      "urdu": "جب",
+      "english": "when"
+     },
+     {
+      "arabic": "صَلّٰىؕ",
+      "urdu": "وہ نماز پڑھتا ہے",
+      "english": "he prays"
+     }
+    ]
+   },
+   {
+    "number": 11,
+    "arabic": "اَرَءَيۡتَ اِنۡ كَانَ عَلَى الۡهُدٰٓىۙ",
+    "urdu": "بھلا دیکھو تو اگر یہ راہِ راست پر ہو",
+    "english": "Have you seen if he is upon guidance",
+    "words": [
+     {
+      "arabic": "اَرَءَيۡتَ",
+      "urdu": "کیا دیکھا تم نے",
+      "english": "Have you seen"
+     },
+     {
+      "arabic": "اِنۡ",
+      "urdu": "اگر",
+      "english": "if"
+     },
+     {
+      "arabic": "كَانَ",
+      "urdu": "ہو وہ",
+      "english": "he is"
+     },
+     {
+      "arabic": "عَلَى",
+      "urdu": "پر",
+      "english": "upon"
+     },
+     {
+      "arabic": "الۡهُدٰٓىۙ",
+      "urdu": "ہدایت (پر)",
+      "english": "[the] guidance"
+     }
+    ]
+   },
+   {
+    "number": 12,
+    "arabic": "اَوۡ اَمَرَ بِالتَّقۡوٰىۙ",
+    "urdu": "یا پرہیز گاری کا حکم کرے (تو منع کرنا کیسا)",
+    "english": "Or enjoins righteousness?",
+    "words": [
+     {
+      "arabic": "اَوۡ",
+      "urdu": "یا",
+      "english": "Or"
+     },
+     {
+      "arabic": "اَمَرَ",
+      "urdu": "اس نے حکم دیا",
+      "english": "he enjoins"
+     },
+     {
+      "arabic": "بِالتَّقۡوٰىۙ",
+      "urdu": "تقویٰ کا",
+      "english": "[of the] righteousness"
+     }
+    ]
+   },
+   {
+    "number": 13,
+    "arabic": "اَرَءَيۡتَ اِنۡ كَذَّبَ وَتَوَلّٰىؕ",
+    "urdu": "اور دیکھو تو اگر اس نے دین حق کو جھٹلایا اور اس سے منہ موڑا (تو کیا ہوا)",
+    "english": "Have you seen if he denies and turns away -",
+    "words": [
+     {
+      "arabic": "اَرَءَيۡتَ",
+      "urdu": "کیا غور کیا تم نے",
+      "english": "Have you seen"
+     },
+     {
+      "arabic": "اِنۡ",
+      "urdu": "اگر",
+      "english": "if"
+     },
+     {
+      "arabic": "كَذَّبَ",
+      "urdu": "اس نے جھٹلایا",
+      "english": "he denies"
+     },
+     {
+      "arabic": "وَتَوَلّٰىؕ",
+      "urdu": "اور منہ موڑا",
+      "english": "and turns away"
+     }
+    ]
+   },
+   {
+    "number": 14,
+    "arabic": "اَلَمۡ يَعۡلَمۡ بِاَنَّ اللّٰهَ يَرٰىؕ",
+    "urdu": "کیااس کو معلوم نہیں کہ خدا دیکھ رہا ہے",
+    "english": "Does he not know that Allāh sees?",
+    "words": [
+     {
+      "arabic": "اَلَمۡ",
+      "urdu": "کیا نہیں",
+      "english": "Does not"
+     },
+     {
+      "arabic": "يَعۡلَمۡ",
+      "urdu": "وہ جانتا",
+      "english": "he know"
+     },
+     {
+      "arabic": "بِاَنَّ",
+      "urdu": "کہ بیشک",
+      "english": "that"
+     },
+     {
+      "arabic": "اللّٰهَ",
+      "urdu": "اللہ تعالیٰ",
+      "english": "Allah"
+     },
+     {
+      "arabic": "يَرٰىؕ",
+      "urdu": "دیکھتا ہے",
+      "english": "sees"
+     }
+    ]
+   },
+   {
+    "number": 15,
+    "arabic": "كَلَّا لَٮِٕنۡ لَّمۡ يَنۡتَهِ ۙ لَنَسۡفَعًۢا بِالنَّاصِيَةِۙ",
+    "urdu": "دیکھو اگر وہ باز نہ آئے گا تو ہم (اس کی) پیشانی کے بال پکڑ گھسیٹیں گے",
+    "english": "No! If he does not desist, We will surely drag him by the forelock",
+    "words": [
+     {
+      "arabic": "كَلَّا",
+      "urdu": "ہرگز نہیں",
+      "english": "Nay"
+     },
+     {
+      "arabic": "لَٮِٕنۡ",
+      "urdu": "البتہ اگر",
+      "english": "If"
+     },
+     {
+      "arabic": "لَّمۡ",
+      "urdu": "نہ",
+      "english": "not"
+     },
+     {
+      "arabic": "يَنۡتَهِ ۙ",
+      "urdu": "وہ باز آیا",
+      "english": "he desists"
+     },
+     {
+      "arabic": "لَنَسۡفَعًۢا",
+      "urdu": "البتہ ہم ضرور کھینچیں گے/شدت کے ساتھ گھسیٹیں گے",
+      "english": "surely We will drag him"
+     },
+     {
+      "arabic": "بِالنَّاصِيَةِۙ",
+      "urdu": "پیشانی کو",
+      "english": "by the forelock"
+     }
+    ]
+   },
+   {
+    "number": 16,
+    "arabic": "نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍ ۚ",
+    "urdu": "یعنی اس جھوٹے خطاکار کی پیشانی کے بال",
+    "english": "A lying, sinning forelock.",
+    "words": [
+     {
+      "arabic": "نَاصِيَةٍ",
+      "urdu": "پیشانی",
+      "english": "A forelock"
+     },
+     {
+      "arabic": "كَاذِبَةٍ",
+      "urdu": "جھوٹی",
+      "english": "lying"
+     },
+     {
+      "arabic": "خَاطِئَةٍ ۚ",
+      "urdu": "خطا کار کو",
+      "english": "sinful"
+     }
+    ]
+   },
+   {
+    "number": 17,
+    "arabic": "فَلۡيَدۡعُ نَادِيَهٗ ۙ",
+    "urdu": "تو وہ اپنے یاروں کی مجلس کو بلالے",
+    "english": "Then let him call his associates;",
+    "words": [
+     {
+      "arabic": "فَلۡيَدۡعُ",
+      "urdu": "پس چاہیے کہ پکارے/ بلا لے",
+      "english": "Then let him call"
+     },
+     {
+      "arabic": "نَادِيَهٗ ۙ",
+      "urdu": "اپنے ہم نواؤں کو/ اپنے حامیوں کو",
+      "english": "his associates"
+     }
+    ]
+   },
+   {
+    "number": 18,
+    "arabic": "سَنَدۡعُ الزَّبَانِيَةَ ۙ",
+    "urdu": "ہم بھی اپنے موکلانِ دوزخ کو بلا لیں گے",
+    "english": "We will call the angels of Hell.",
+    "words": [
+     {
+      "arabic": "سَنَدۡعُ",
+      "urdu": "عنقریب ہم پکاریں گے",
+      "english": "We will call"
+     },
+     {
+      "arabic": "الزَّبَانِيَةَ ۙ",
+      "urdu": "فرشتوں کو",
+      "english": "the Angels of Hell"
+     }
+    ]
+   },
+   {
+    "number": 19,
+    "arabic": "كَلَّاؕ لَا تُطِعۡهُ وَاسۡجُدۡ وَاقۡتَرِبْ",
+    "urdu": "دیکھو اس کا کہا نہ ماننا اور قربِ (خدا) حاصل کرتے رہنا",
+    "english": "No! Do not obey him. But prostrate and draw near [to Allāh].",
+    "words": [
+     {
+      "arabic": "كَلَّاؕ",
+      "urdu": "ہرگز نہیں",
+      "english": "Nay"
+     },
+     {
+      "arabic": "لَا",
+      "urdu": "نہ",
+      "english": "(Do) not"
+     },
+     {
+      "arabic": "تُطِعۡهُ",
+      "urdu": "تم اطاعت کرو اس کی",
+      "english": "obey him"
+     },
+     {
+      "arabic": "وَاسۡجُدۡ",
+      "urdu": "اور سجدہ کرو",
+      "english": "But prostrate"
+     },
+     {
+      "arabic": "وَاقۡتَرِبْ",
+      "urdu": "اور قریب ہوجاؤ",
+      "english": "and draw near (to Allah)"
+     }
+    ]
+   }
+  ],
+  "explanationEnglish": "The first revelation: “Read in the name of your Lord”; creation of man, the pen, and the warning against transgression.",
+  "explanationUrdu": "پہلی وحی: “اپنے رب کے نام سے پڑھیے”؛ انسان کی تخلیق، قلم کی نعمت اور سرکشی پر تنبیہ۔",
+  "notesEnglish": "Hanafi note: this Surah contains a sajdah of recitation (Sajdat at-Tilawah) at verse 19.",
+  "notesUrdu": "حنفی فقہ کے مطابق اس سورت کی آیت 19 پر سجدۂ تلاوت ہے۔",
+  "references": [
+   {
+    "type": "quran-text",
+    "text": "Arabic (Indo-Pak script) and word-by-word: Quran.com API v4 (Tanzil-based text)."
+   },
+   {
+    "type": "translation-ur",
+    "text": "Urdu: Fatah Muhammad Jalandhari (via Quran.com, resource 234)."
+   },
+   {
+    "type": "translation-en",
+    "text": "English: Saheeh International (via Quran.com, resource 20)."
+   }
+  ],
+  "verificationStatus": "needs-review",
+  "verificationNote": "Text imported programmatically; consonant skeleton cross-checked with Tanzil. Not yet compared with a printed Indo-Pak mushaf. Explanation is a brief original summary."
+ },
+ {
+  "id": "surah-sharh",
+  "surahNumber": 94,
+  "title": "Surah Ash-Sharh (Al-Inshirah)",
+  "titleUrdu": "سورۃ الشرح (الانشراح)",
+  "transliteration": "Ash-Sharh, Inshirah, Alam nashrah laka sadrak",
+  "category": "short-surah",
+  "bismillah": true,
+  "arabic": "اَلَمۡ نَشۡرَحۡ لَـكَ صَدۡرَكَۙ وَوَضَعۡنَا عَنۡكَ وِزۡرَكَۙ الَّذِىۡۤ اَنۡقَضَ ظَهۡرَكَۙ وَرَفَعۡنَا لَـكَ ذِكۡرَكَؕ فَاِنَّ مَعَ الۡعُسۡرِ يُسۡرًا ۙ اِنَّ مَعَ الۡعُسۡرِ يُسۡرًا ؕ فَاِذَا فَرَغۡتَ فَانۡصَبۡۙ وَاِلٰى رَبِّكَ فَارۡغَب",
+  "verses": [
+   {
+    "number": 1,
+    "arabic": "اَلَمۡ نَشۡرَحۡ لَـكَ صَدۡرَكَۙ",
+    "urdu": "(اے محمدﷺ) کیا ہم نے تمہارا سینہ کھول نہیں دیا؟ (بےشک کھول دیا)",
+    "english": "Did We not expand for you, [O Muḥammad], your breast?",
+    "words": [
+     {
+      "arabic": "اَلَمۡ",
+      "urdu": "کیا نہیں",
+      "english": "Have not"
+     },
+     {
+      "arabic": "نَشۡرَحۡ",
+      "urdu": "ہم نے کھول دیا",
+      "english": "We expanded"
+     },
+     {
+      "arabic": "لَـكَ",
+      "urdu": "تیرے لئے",
+      "english": "for you"
+     },
+     {
+      "arabic": "صَدۡرَكَۙ",
+      "urdu": "سینہ تیرا",
+      "english": "your breast"
+     }
+    ]
+   },
+   {
+    "number": 2,
+    "arabic": "وَوَضَعۡنَا عَنۡكَ وِزۡرَكَۙ",
+    "urdu": "اور تم پر سے بوجھ بھی اتار دیا",
+    "english": "And We removed from you your burden",
+    "words": [
+     {
+      "arabic": "وَوَضَعۡنَا",
+      "urdu": "اور اٹھالیا ہم نے",
+      "english": "And We removed"
+     },
+     {
+      "arabic": "عَنۡكَ",
+      "urdu": "تجھ سے",
+      "english": "from you"
+     },
+     {
+      "arabic": "وِزۡرَكَۙ",
+      "urdu": "بوجھ تیرا",
+      "english": "your burden"
+     }
+    ]
+   },
+   {
+    "number": 3,
+    "arabic": "الَّذِىۡۤ اَنۡقَضَ ظَهۡرَكَۙ",
+    "urdu": "جس نے تمہاری پیٹھ توڑ رکھی تھی",
+    "english": "Which had weighed upon your back",
+    "words": [
+     {
+      "arabic": "الَّذِىۡۤ",
+      "urdu": "وہ جس نے",
+      "english": "Which"
+     },
+     {
+      "arabic": "اَنۡقَضَ",
+      "urdu": "توڑ دی تھی",
+      "english": "weighed upon"
+     },
+     {
+      "arabic": "ظَهۡرَكَۙ",
+      "urdu": "تیری کمر",
+      "english": "your back"
+     }
+    ]
+   },
+   {
+    "number": 4,
+    "arabic": "وَرَفَعۡنَا لَـكَ ذِكۡرَكَؕ",
+    "urdu": "اور تمہارا ذکر بلند کیا",
+    "english": "And raised high for you your repute.",
+    "words": [
+     {
+      "arabic": "وَرَفَعۡنَا",
+      "urdu": "اور بلند کیا ہم نے",
+      "english": "And We raised high"
+     },
+     {
+      "arabic": "لَـكَ",
+      "urdu": "تیرے لئے",
+      "english": "for you"
+     },
+     {
+      "arabic": "ذِكۡرَكَؕ",
+      "urdu": "تیرا ذکر",
+      "english": "your reputation"
+     }
+    ]
+   },
+   {
+    "number": 5,
+    "arabic": "فَاِنَّ مَعَ الۡعُسۡرِ يُسۡرًا ۙ",
+    "urdu": "ہاں ہاں مشکل کے ساتھ آسانی بھی ہے",
+    "english": "For indeed, with hardship [will be] ease [i.e., relief].",
+    "words": [
+     {
+      "arabic": "فَاِنَّ",
+      "urdu": "پس یقیناً",
+      "english": "So indeed"
+     },
+     {
+      "arabic": "مَعَ",
+      "urdu": "ساتھ",
+      "english": "with"
+     },
+     {
+      "arabic": "الۡعُسۡرِ",
+      "urdu": "تنگی کے",
+      "english": "the hardship"
+     },
+     {
+      "arabic": "يُسۡرًا ۙ",
+      "urdu": "آسانی ہے",
+      "english": "(is) ease"
+     }
+    ]
+   },
+   {
+    "number": 6,
+    "arabic": "اِنَّ مَعَ الۡعُسۡرِ يُسۡرًا ؕ",
+    "urdu": "(اور) بے شک مشکل کے ساتھ آسانی ہے",
+    "english": "Indeed, with hardship [will be] ease.",
+    "words": [
+     {
+      "arabic": "اِنَّ",
+      "urdu": "بیشک",
+      "english": "Indeed"
+     },
+     {
+      "arabic": "مَعَ",
+      "urdu": "ساتھ",
+      "english": "with"
+     },
+     {
+      "arabic": "الۡعُسۡرِ",
+      "urdu": "تنگی کے",
+      "english": "the hardship"
+     },
+     {
+      "arabic": "يُسۡرًا ؕ",
+      "urdu": "آسانی ہے",
+      "english": "(is) ease"
+     }
+    ]
+   },
+   {
+    "number": 7,
+    "arabic": "فَاِذَا فَرَغۡتَ فَانۡصَبۡۙ",
+    "urdu": "تو جب فارغ ہوا کرو تو (عبادت میں) محنت کیا کرو",
+    "english": "So when you have finished [your duties], then stand up [for worship].",
+    "words": [
+     {
+      "arabic": "فَاِذَا",
+      "urdu": "پس جب",
+      "english": "So when"
+     },
+     {
+      "arabic": "فَرَغۡتَ",
+      "urdu": "تم فارغ ہوجاؤ",
+      "english": "you have finished"
+     },
+     {
+      "arabic": "فَانۡصَبۡۙ",
+      "urdu": "تو محنت کرو/ کھڑے ہوجاؤ",
+      "english": "then labor hard"
+     }
+    ]
+   },
+   {
+    "number": 8,
+    "arabic": "وَاِلٰى رَبِّكَ فَارۡغَب",
+    "urdu": "اور اپنے پروردگار کی طرف متوجہ ہو جایا کرو",
+    "english": "And to your Lord direct [your] longing.",
+    "words": [
+     {
+      "arabic": "وَاِلٰى",
+      "urdu": "اور طرف",
+      "english": "And to"
+     },
+     {
+      "arabic": "رَبِّكَ",
+      "urdu": "اپنے رب کی",
+      "english": "your Lord"
+     },
+     {
+      "arabic": "فَارۡغَب",
+      "urdu": "پس راغب ہوجاؤ/ رغبت کرو",
+      "english": "turn your attention"
+     }
+    ]
+   }
+  ],
+  "explanationEnglish": "Allah relieved the Prophet ﷺ’s heart; with hardship comes ease.",
+  "explanationUrdu": "اللہ نے نبی ﷺ کا سینہ کھول دیا؛ بے شک ہر مشکل کے ساتھ آسانی ہے۔",
+  "references": [
+   {
+    "type": "quran-text",
+    "text": "Arabic (Indo-Pak script) and word-by-word: Quran.com API v4 (Tanzil-based text)."
+   },
+   {
+    "type": "translation-ur",
+    "text": "Urdu: Fatah Muhammad Jalandhari (via Quran.com, resource 234)."
+   },
+   {
+    "type": "translation-en",
+    "text": "English: Saheeh International (via Quran.com, resource 20)."
+   }
+  ],
+  "verificationStatus": "needs-review",
+  "verificationNote": "Text imported programmatically; consonant skeleton cross-checked with Tanzil. Not yet compared with a printed Indo-Pak mushaf. Explanation is a brief original summary."
+ },
+ {
+  "id": "surah-duha",
+  "surahNumber": 93,
+  "title": "Surah Ad-Duha",
+  "titleUrdu": "سورۃ الضحیٰ",
+  "transliteration": "Ad-Duhaa, Duha, Wad duha",
+  "category": "short-surah",
+  "bismillah": true,
+  "arabic": "وَالضُّحٰىۙ وَالَّيۡلِ اِذَا سَجٰىۙ مَا وَدَّعَكَ رَبُّكَ وَمَا قَلٰىؕ وَلَـلۡاٰخِرَةُ خَيۡرٌ لَّكَ مِنَ الۡاُوۡلٰىؕ وَلَسَوۡفَ يُعۡطِيۡكَ رَبُّكَ فَتَرۡضٰىؕ اَلَمۡ يَجِدۡكَ يَتِيۡمًا فَاٰوٰى وَوَجَدَكَ ضَآ لًّا فَهَدٰى وَوَجَدَكَ عَآٮِٕلًا فَاَغۡنٰىؕ فَاَمَّا الۡيَتِيۡمَ فَلَا تَقۡهَرۡؕ وَاَمَّا السَّآٮِٕلَ فَلَا تَنۡهَرۡؕ وَاَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ",
+  "verses": [
+   {
+    "number": 1,
+    "arabic": "وَالضُّحٰىۙ",
+    "urdu": "آفتاب کی روشنی کی قسم",
+    "english": "By the morning brightness",
+    "words": [
+     {
+      "arabic": "وَالضُّحٰىۙ",
+      "urdu": "قسم ہے روز روشن کی",
+      "english": "By the morning brightness"
+     }
+    ]
+   },
+   {
+    "number": 2,
+    "arabic": "وَالَّيۡلِ اِذَا سَجٰىۙ",
+    "urdu": "اور رات (کی تاریکی) کی جب چھا جائے",
+    "english": "And [by] the night when it covers with darkness,",
+    "words": [
+     {
+      "arabic": "وَالَّيۡلِ",
+      "urdu": "اور رات کی",
+      "english": "And the night"
+     },
+     {
+      "arabic": "اِذَا",
+      "urdu": "جب",
+      "english": "when"
+     },
+     {
+      "arabic": "سَجٰىۙ",
+      "urdu": "وہ ڈھانپ لے",
+      "english": "it covers with darkness"
+     }
+    ]
+   },
+   {
+    "number": 3,
+    "arabic": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلٰىؕ",
+    "urdu": "کہ (اے محمدﷺ) تمہارے پروردگار نے نہ تو تم کو چھوڑا اور نہ( تم سے )ناراض ہوا",
+    "english": "Your Lord has not taken leave of you, [O Muḥammad], nor has He detested [you].",
+    "words": [
+     {
+      "arabic": "مَا",
+      "urdu": "نہیں",
+      "english": "Not"
+     },
+     {
+      "arabic": "وَدَّعَكَ",
+      "urdu": "چھوڑا تجھ کو",
+      "english": "has forsaken you"
+     },
+     {
+      "arabic": "رَبُّكَ",
+      "urdu": "تیرے رب نے",
+      "english": "your Lord"
+     },
+     {
+      "arabic": "وَمَا",
+      "urdu": "اور نہ",
+      "english": "and not"
+     },
+     {
+      "arabic": "قَلٰىؕ",
+      "urdu": "وہ ناراض ہوا",
+      "english": "He is displeased"
+     }
+    ]
+   },
+   {
+    "number": 4,
+    "arabic": "وَلَـلۡاٰخِرَةُ خَيۡرٌ لَّكَ مِنَ الۡاُوۡلٰىؕ",
+    "urdu": "اور آخرت تمہارے لیے پہلی (حالت یعنی دنیا) سے کہیں بہتر ہے",
+    "english": "And the Hereafter is better for you than the first [life].",
+    "words": [
+     {
+      "arabic": "وَلَـلۡاٰخِرَةُ",
+      "urdu": "اور البتہ آخرت/ انجام",
+      "english": "And surely the Hereafter"
+     },
+     {
+      "arabic": "خَيۡرٌ",
+      "urdu": "بہتر ہے",
+      "english": "(is) better"
+     },
+     {
+      "arabic": "لَّكَ",
+      "urdu": "تیرے لئے",
+      "english": "for you"
+     },
+     {
+      "arabic": "مِنَ",
+      "urdu": "سے",
+      "english": "than"
+     },
+     {
+      "arabic": "الۡاُوۡلٰىؕ",
+      "urdu": "آغاز سے/ ابتداء سے",
+      "english": "the first"
+     }
+    ]
+   },
+   {
+    "number": 5,
+    "arabic": "وَلَسَوۡفَ يُعۡطِيۡكَ رَبُّكَ فَتَرۡضٰىؕ",
+    "urdu": "اور تمہیں پروردگار عنقریب وہ کچھ عطا فرمائے گا کہ تم خوش ہو جاؤ گے",
+    "english": "And your Lord is going to give you, and you will be satisfied.",
+    "words": [
+     {
+      "arabic": "وَلَسَوۡفَ",
+      "urdu": "اور البتہ عنقریب",
+      "english": "And soon"
+     },
+     {
+      "arabic": "يُعۡطِيۡكَ",
+      "urdu": "عطا کرے گا تجھ کو",
+      "english": "will give you"
+     },
+     {
+      "arabic": "رَبُّكَ",
+      "urdu": "تیرا رب",
+      "english": "your Lord"
+     },
+     {
+      "arabic": "فَتَرۡضٰىؕ",
+      "urdu": "تو تو راضی ہوجائے گا/ خوش ہوجائے گا",
+      "english": "then you will be satisfied"
+     }
+    ]
+   },
+   {
+    "number": 6,
+    "arabic": "اَلَمۡ يَجِدۡكَ يَتِيۡمًا فَاٰوٰى",
+    "urdu": "بھلا اس نے تمہیں یتیم پا کر جگہ نہیں دی؟ (بےشک دی)",
+    "english": "Did He not find you an orphan and give [you] refuge?",
+    "words": [
+     {
+      "arabic": "اَلَمۡ",
+      "urdu": "کیا نہیں",
+      "english": "Did not"
+     },
+     {
+      "arabic": "يَجِدۡكَ",
+      "urdu": "پایا تجھ کو",
+      "english": "He find you"
+     },
+     {
+      "arabic": "يَتِيۡمًا",
+      "urdu": "یتیم",
+      "english": "an orphan"
+     },
+     {
+      "arabic": "فَاٰوٰى",
+      "urdu": "پھر اس نے ٹھکانہ فراہم کیا",
+      "english": "and give shelter"
+     }
+    ]
+   },
+   {
+    "number": 7,
+    "arabic": "وَوَجَدَكَ ضَآ لًّا فَهَدٰى",
+    "urdu": "اور رستے سے ناواقف دیکھا تو رستہ دکھایا",
+    "english": "And He found you lost and guided [you],",
+    "words": [
+     {
+      "arabic": "وَوَجَدَكَ",
+      "urdu": "اور پایا تجھ کو",
+      "english": "And He found you"
+     },
+     {
+      "arabic": "ضَآ",
+      "urdu": "راہ بھولا",
+      "english": "lost"
+     },
+     {
+      "arabic": "لًّا فَهَدٰى",
+      "urdu": "تو اس نے ہدایت بخشی/ رہنمائی کی",
+      "english": "so He guided"
+     }
+    ]
+   },
+   {
+    "number": 8,
+    "arabic": "وَوَجَدَكَ عَآٮِٕلًا فَاَغۡنٰىؕ",
+    "urdu": "اور تنگ دست پایا تو غنی کر دیا",
+    "english": "And He found you poor and made [you] self-sufficient.",
+    "words": [
+     {
+      "arabic": "وَوَجَدَكَ",
+      "urdu": "اور پایا تجھ کو",
+      "english": "And He found you"
+     },
+     {
+      "arabic": "عَآٮِٕلًا",
+      "urdu": "مفلس",
+      "english": "in need"
+     },
+     {
+      "arabic": "فَاَغۡنٰىؕ",
+      "urdu": "تو اس نے غنی کردیا",
+      "english": "so He made self-sufficient"
+     }
+    ]
+   },
+   {
+    "number": 9,
+    "arabic": "فَاَمَّا الۡيَتِيۡمَ فَلَا تَقۡهَرۡؕ",
+    "urdu": "تو تم بھی یتیم پر ستم نہ کرنا",
+    "english": "So as for the orphan, do not oppress [him].",
+    "words": [
+     {
+      "arabic": "فَاَمَّا",
+      "urdu": "تو رہا",
+      "english": "So as for"
+     },
+     {
+      "arabic": "الۡيَتِيۡمَ",
+      "urdu": "یتیم",
+      "english": "the orphan"
+     },
+     {
+      "arabic": "فَلَا",
+      "urdu": "پس نہ",
+      "english": "then (do) not"
+     },
+     {
+      "arabic": "تَقۡهَرۡؕ",
+      "urdu": "سختی کر",
+      "english": "oppress"
+     }
+    ]
+   },
+   {
+    "number": 10,
+    "arabic": "وَاَمَّا السَّآٮِٕلَ فَلَا تَنۡهَرۡؕ",
+    "urdu": "اور مانگنے والے کو جھڑکی نہ دینا",
+    "english": "And as for the petitioner, do not repel [him].",
+    "words": [
+     {
+      "arabic": "وَاَمَّا",
+      "urdu": "اور رہا",
+      "english": "And as for"
+     },
+     {
+      "arabic": "السَّآٮِٕلَ",
+      "urdu": "سوالی",
+      "english": "one who asks"
+     },
+     {
+      "arabic": "فَلَا",
+      "urdu": "پس نہ",
+      "english": "then (do) not"
+     },
+     {
+      "arabic": "تَنۡهَرۡؕ",
+      "urdu": "جھڑکو",
+      "english": "repel"
+     }
+    ]
+   },
+   {
+    "number": 11,
+    "arabic": "وَاَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ",
+    "urdu": "اور اپنے پروردگار کی نعمتوں کا بیان کرتے رہنا",
+    "english": "But as for the favor of your Lord, report [it].",
+    "words": [
+     {
+      "arabic": "وَاَمَّا",
+      "urdu": "اور رہی",
+      "english": "But as for"
+     },
+     {
+      "arabic": "بِنِعۡمَةِ",
+      "urdu": "نعمت",
+      "english": "(the) Favor"
+     },
+     {
+      "arabic": "رَبِّكَ",
+      "urdu": "اپنے رب کی",
+      "english": "(of) your Lord"
+     },
+     {
+      "arabic": "فَحَدِّثۡ",
+      "urdu": "پس بیان کرو",
+      "english": "narrate"
+     }
+    ]
+   }
+  ],
+  "explanationEnglish": "Allah has not abandoned His Messenger; a reminder of His favours and the duty to care for the orphan and the beggar.",
+  "explanationUrdu": "اللہ نے اپنے رسول کو نہ چھوڑا نہ ناراض ہوا؛ اپنی نعمتوں کی یاد دہانی اور یتیم و سائل کے ساتھ حسنِ سلوک کا حکم۔",
+  "references": [
+   {
+    "type": "quran-text",
+    "text": "Arabic (Indo-Pak script) and word-by-word: Quran.com API v4 (Tanzil-based text)."
+   },
+   {
+    "type": "translation-ur",
+    "text": "Urdu: Fatah Muhammad Jalandhari (via Quran.com, resource 234)."
+   },
+   {
+    "type": "translation-en",
+    "text": "English: Saheeh International (via Quran.com, resource 20)."
+   }
+  ],
+  "verificationStatus": "needs-review",
+  "verificationNote": "Text imported programmatically; consonant skeleton cross-checked with Tanzil. Not yet compared with a printed Indo-Pak mushaf. Explanation is a brief original summary."
+ }
+]

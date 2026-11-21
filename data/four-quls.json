@@ -1,0 +1,710 @@
+[
+ {
+  "id": "surah-kafirun",
+  "surahNumber": 109,
+  "title": "Surah Al-Kafirun",
+  "titleUrdu": "سورۃ الکافرون",
+  "transliteration": "Al-Kaafiroon, Kafiroon, Qul ya ayyuhal kafirun",
+  "category": "four-quls",
+  "bismillah": true,
+  "arabic": "قُلۡ يٰۤاَيُّهَا الۡكٰفِرُوۡنَۙ لَاۤ اَعۡبُدُ مَا تَعۡبُدُوۡنَۙ وَلَاۤ اَنۡـتُمۡ عٰبِدُوۡنَ مَاۤ اَعۡبُدُ ۚ وَلَاۤ اَنَا عَابِدٌ مَّا عَبَدۡتُّمۡۙ وَ لَاۤ اَنۡـتُمۡ عٰبِدُوۡنَ مَاۤ اَعۡبُدُ ؕ لَـكُمۡ دِيۡنُكُمۡ وَلِىَ دِيۡنِ",
+  "verses": [
+   {
+    "number": 1,
+    "arabic": "قُلۡ يٰۤاَيُّهَا الۡكٰفِرُوۡنَۙ",
+    "urdu": "(اے پیغمبر ان منکران اسلام سے) کہہ دو کہ اے کافرو!",
+    "english": "Say, \"O disbelievers,",
+    "words": [
+     {
+      "arabic": "قُلۡ",
+      "urdu": "کہہ دیجئے",
+      "english": "Say"
+     },
+     {
+      "arabic": "يٰۤاَيُّهَا",
+      "urdu": "اے",
+      "english": "O"
+     },
+     {
+      "arabic": "الۡكٰفِرُوۡنَۙ",
+      "urdu": "کافرو",
+      "english": "disbelievers"
+     }
+    ]
+   },
+   {
+    "number": 2,
+    "arabic": "لَاۤ اَعۡبُدُ مَا تَعۡبُدُوۡنَۙ",
+    "urdu": "جن (بتوں) کو تم پوچتے ہو ان کو میں نہیں پوجتا",
+    "english": "I do not worship what you worship.",
+    "words": [
+     {
+      "arabic": "لَاۤ",
+      "urdu": "نہیں",
+      "english": "Not"
+     },
+     {
+      "arabic": "اَعۡبُدُ",
+      "urdu": "میں عبادت کرتا",
+      "english": "I worship"
+     },
+     {
+      "arabic": "مَا",
+      "urdu": "جس کی",
+      "english": "what"
+     },
+     {
+      "arabic": "تَعۡبُدُوۡنَۙ",
+      "urdu": "تم عبادت کرتے ہو",
+      "english": "you worship"
+     }
+    ]
+   },
+   {
+    "number": 3,
+    "arabic": "وَلَاۤ اَنۡـتُمۡ عٰبِدُوۡنَ مَاۤ اَعۡبُدُ ۚ",
+    "urdu": "اور جس (خدا) کی میں عبادت کرتا ہوں اس کی تم عبادت نہیں کرتے",
+    "english": "Nor are you worshippers of what I worship.",
+    "words": [
+     {
+      "arabic": "وَلَاۤ",
+      "urdu": "اور نہ",
+      "english": "And not"
+     },
+     {
+      "arabic": "اَنۡـتُمۡ",
+      "urdu": "تم",
+      "english": "you"
+     },
+     {
+      "arabic": "عٰبِدُوۡنَ",
+      "urdu": "عبادت کرنے والے ہو",
+      "english": "(are) worshippers"
+     },
+     {
+      "arabic": "مَاۤ",
+      "urdu": "جس کی",
+      "english": "(of) what"
+     },
+     {
+      "arabic": "اَعۡبُدُ ۚ",
+      "urdu": "میں عبادت کرتا ہوں",
+      "english": "I worship"
+     }
+    ]
+   },
+   {
+    "number": 4,
+    "arabic": "وَلَاۤ اَنَا عَابِدٌ مَّا عَبَدۡتُّمۡۙ",
+    "urdu": "اور( میں پھر کہتا ہوں کہ) جن کی تم پرستش کرتے ہوں ان کی میں پرستش کرنے والا نہیں ہوں",
+    "english": "Nor will I be a worshipper of what you worship.",
+    "words": [
+     {
+      "arabic": "وَلَاۤ",
+      "urdu": "اور نہ",
+      "english": "And not"
+     },
+     {
+      "arabic": "اَنَا",
+      "urdu": "میں",
+      "english": "I am"
+     },
+     {
+      "arabic": "عَابِدٌ",
+      "urdu": "عبادت کرنے والا ہوں",
+      "english": "a worshipper"
+     },
+     {
+      "arabic": "مَّا",
+      "urdu": "جس کی",
+      "english": "(of) what"
+     },
+     {
+      "arabic": "عَبَدۡتُّمۡۙ",
+      "urdu": "تم نے عبادت کی",
+      "english": "you worship"
+     }
+    ]
+   },
+   {
+    "number": 5,
+    "arabic": "وَ لَاۤ اَنۡـتُمۡ عٰبِدُوۡنَ مَاۤ اَعۡبُدُ ؕ",
+    "urdu": "اور نہ تم اس کی بندگی کرنے والے (معلوم ہوتے) ہو جس کی میں بندگی کرتا ہوں",
+    "english": "Nor will you be worshippers of what I worship.",
+    "words": [
+     {
+      "arabic": "وَ",
+      "urdu": "اور نہ",
+      "english": "And not"
+     },
+     {
+      "arabic": "لَاۤ",
+      "urdu": "تم",
+      "english": "you"
+     },
+     {
+      "arabic": "اَنۡـتُمۡ",
+      "urdu": "عبادت کرنے والے ہو",
+      "english": "(are) worshippers"
+     },
+     {
+      "arabic": "عٰبِدُوۡنَ",
+      "urdu": "جس کی",
+      "english": "(of) what"
+     },
+     {
+      "arabic": "مَاۤ اَعۡبُدُ ؕ",
+      "urdu": "میں عبادت کرتا ہوں",
+      "english": "I worship"
+     }
+    ]
+   },
+   {
+    "number": 6,
+    "arabic": "لَـكُمۡ دِيۡنُكُمۡ وَلِىَ دِيۡنِ",
+    "urdu": "تم اپنے دین پر میں اپنے دین پر",
+    "english": "For you is your religion, and for me is my religion.\"",
+    "words": [
+     {
+      "arabic": "لَـكُمۡ",
+      "urdu": "تمہارے لئے",
+      "english": "For you"
+     },
+     {
+      "arabic": "دِيۡنُكُمۡ",
+      "urdu": "تمہارا دین ہے",
+      "english": "(is) your religion"
+     },
+     {
+      "arabic": "وَلِىَ",
+      "urdu": "اور میرے لئے",
+      "english": "and for me"
+     },
+     {
+      "arabic": "دِيۡنِ",
+      "urdu": "میرا دین ہے",
+      "english": "(is) my religion"
+     }
+    ]
+   }
+  ],
+  "explanationEnglish": "A clear declaration of freedom from disbelief and of devotion to worshipping Allah alone.",
+  "explanationUrdu": "کفر سے براءت اور صرف اللہ کی عبادت کا واضح اعلان۔",
+  "references": [
+   {
+    "type": "quran-text",
+    "text": "Arabic (Indo-Pak script) and word-by-word: Quran.com API v4 (Tanzil-based text)."
+   },
+   {
+    "type": "translation-ur",
+    "text": "Urdu: Fatah Muhammad Jalandhari (via Quran.com, resource 234)."
+   },
+   {
+    "type": "translation-en",
+    "text": "English: Saheeh International (via Quran.com, resource 20)."
+   }
+  ],
+  "verificationStatus": "needs-review",
+  "verificationNote": "Text imported programmatically; consonant skeleton cross-checked with Tanzil. Not yet compared with a printed Indo-Pak mushaf. Explanation is a brief original summary."
+ },
+ {
+  "id": "surah-ikhlas",
+  "surahNumber": 112,
+  "title": "Surah Al-Ikhlas",
+  "titleUrdu": "سورۃ الاخلاص",
+  "transliteration": "Al-Ikhlaas, Ikhlaas, Qul huwallahu ahad",
+  "category": "four-quls",
+  "bismillah": true,
+  "arabic": "قُلۡ هُوَ اللّٰهُ اَحَدٌ ۚ اَللّٰهُ الصَّمَدُ ۚ لَمۡ يَلِدۡ ۙ وَلَمۡ يُوۡلَدۡ ۙ وَلَمۡ يَكُنۡ لَّهٗ كُفُوًا اَحَدٌ",
+  "verses": [
+   {
+    "number": 1,
+    "arabic": "قُلۡ هُوَ اللّٰهُ اَحَدٌ ۚ",
+    "urdu": "کہو کہ وہ (ذات پاک جس کا نام) الله (ہے) ایک ہے",
+    "english": "Say, \"He is Allāh, [who is] One,",
+    "words": [
+     {
+      "arabic": "قُلۡ",
+      "urdu": "کہہ دیجئے",
+      "english": "Say"
+     },
+     {
+      "arabic": "هُوَ",
+      "urdu": "وہ",
+      "english": "He"
+     },
+     {
+      "arabic": "اللّٰهُ",
+      "urdu": "اللہ",
+      "english": "(is) Allah"
+     },
+     {
+      "arabic": "اَحَدٌ ۚ",
+      "urdu": "ایک ہے",
+      "english": "the One"
+     }
+    ]
+   },
+   {
+    "number": 2,
+    "arabic": "اَللّٰهُ الصَّمَدُ ۚ",
+    "urdu": "معبود برحق جو بےنیاز ہے",
+    "english": "Allāh, the Eternal Refuge.",
+    "words": [
+     {
+      "arabic": "اَللّٰهُ",
+      "urdu": "اللہ",
+      "english": "Allah"
+     },
+     {
+      "arabic": "الصَّمَدُ ۚ",
+      "urdu": "بےنیاز ہے",
+      "english": "the Eternal, the Absolute"
+     }
+    ]
+   },
+   {
+    "number": 3,
+    "arabic": "لَمۡ يَلِدۡ ۙ وَلَمۡ يُوۡلَدۡ ۙ",
+    "urdu": "نہ کسی کا باپ ہے اور نہ کسی کا بیٹا",
+    "english": "He neither begets nor is born,",
+    "words": [
+     {
+      "arabic": "لَمۡ",
+      "urdu": "نہ",
+      "english": "Not"
+     },
+     {
+      "arabic": "يَلِدۡ ۙ",
+      "urdu": "اس نے جنا",
+      "english": "He begets"
+     },
+     {
+      "arabic": "وَلَمۡ",
+      "urdu": "اور نہ",
+      "english": "and not"
+     },
+     {
+      "arabic": "يُوۡلَدۡ ۙ",
+      "urdu": "وہ جنا گیا",
+      "english": "He is begotten"
+     }
+    ]
+   },
+   {
+    "number": 4,
+    "arabic": "وَلَمۡ يَكُنۡ لَّهٗ كُفُوًا اَحَدٌ",
+    "urdu": "اور کوئی اس کا ہمسر نہیں",
+    "english": "Nor is there to Him any equivalent.\"",
+    "words": [
+     {
+      "arabic": "وَلَمۡ",
+      "urdu": "اور نہیں",
+      "english": "And not"
+     },
+     {
+      "arabic": "يَكُنۡ",
+      "urdu": "ہے",
+      "english": "is"
+     },
+     {
+      "arabic": "لَّهٗ",
+      "urdu": "اس کے لئے",
+      "english": "for Him"
+     },
+     {
+      "arabic": "كُفُوًا",
+      "urdu": "برابر کا",
+      "english": "equivalent"
+     },
+     {
+      "arabic": "اَحَدٌ",
+      "urdu": "کوئی ایک بھی",
+      "english": "any [one]"
+     }
+    ]
+   }
+  ],
+  "explanationEnglish": "The pure statement of Allah’s oneness: He is One, Self-Sufficient, neither begets nor is begotten, and has no equal.",
+  "explanationUrdu": "اللہ تعالیٰ کی توحید کا خالص بیان: وہ ایک ہے، بے نیاز ہے، نہ اس کی اولاد ہے نہ وہ کسی کی اولاد، اور اس کا کوئی ہمسر نہیں۔",
+  "references": [
+   {
+    "type": "quran-text",
+    "text": "Arabic (Indo-Pak script) and word-by-word: Quran.com API v4 (Tanzil-based text)."
+   },
+   {
+    "type": "translation-ur",
+    "text": "Urdu: Fatah Muhammad Jalandhari (via Quran.com, resource 234)."
+   },
+   {
+    "type": "translation-en",
+    "text": "English: Saheeh International (via Quran.com, resource 20)."
+   }
+  ],
+  "verificationStatus": "needs-review",
+  "verificationNote": "Text imported programmatically; consonant skeleton cross-checked with Tanzil. Not yet compared with a printed Indo-Pak mushaf. Explanation is a brief original summary."
+ },
+ {
+  "id": "surah-falaq",
+  "surahNumber": 113,
+  "title": "Surah Al-Falaq",
+  "titleUrdu": "سورۃ الفلق",
+  "transliteration": "Al-Falaq, Falaq, Qul audhu bi rabbil falaq",
+  "category": "four-quls",
+  "bismillah": true,
+  "arabic": "قُلۡ اَعُوۡذُ بِرَبِّ الۡفَلَقِۙ مِنۡ شَرِّ مَا خَلَقَۙ وَمِنۡ شَرِّ غَاسِقٍ اِذَا وَقَبَۙ وَمِنۡ شَرِّ النَّفّٰثٰتِ فِى الۡعُقَدِۙ وَمِنۡ شَرِّ حَاسِدٍ اِذَا حَسَدَ",
+  "verses": [
+   {
+    "number": 1,
+    "arabic": "قُلۡ اَعُوۡذُ بِرَبِّ الۡفَلَقِۙ",
+    "urdu": "کہو کہ میں صبح کے پروردگار کی پناہ مانگتا ہوں",
+    "english": "Say, \"I seek refuge in the Lord of daybreak",
+    "words": [
+     {
+      "arabic": "قُلۡ",
+      "urdu": "کہہ دیجئے",
+      "english": "Say"
+     },
+     {
+      "arabic": "اَعُوۡذُ",
+      "urdu": "میں پناہ چاہتا ہوں",
+      "english": "I seek refuge"
+     },
+     {
+      "arabic": "بِرَبِّ",
+      "urdu": "رب کی",
+      "english": "in (the) Lord"
+     },
+     {
+      "arabic": "الۡفَلَقِۙ",
+      "urdu": "صبح کے",
+      "english": "(of) the dawn"
+     }
+    ]
+   },
+   {
+    "number": 2,
+    "arabic": "مِنۡ شَرِّ مَا خَلَقَۙ",
+    "urdu": "ہر چیز کی بدی سے جو اس نے پیدا کی",
+    "english": "From the evil of that which He created",
+    "words": [
+     {
+      "arabic": "مِنۡ",
+      "urdu": "سے",
+      "english": "From"
+     },
+     {
+      "arabic": "شَرِّ",
+      "urdu": "شر",
+      "english": "(the) evil"
+     },
+     {
+      "arabic": "مَا",
+      "urdu": "ہر اس چیز کے جو",
+      "english": "(of) what"
+     },
+     {
+      "arabic": "خَلَقَۙ",
+      "urdu": "اس نے پیدا کی",
+      "english": "He created"
+     }
+    ]
+   },
+   {
+    "number": 3,
+    "arabic": "وَمِنۡ شَرِّ غَاسِقٍ اِذَا وَقَبَۙ",
+    "urdu": "اور شب تاریکی کی برائی سے جب اس کااندھیرا چھا جائے",
+    "english": "And from the evil of darkness when it settles",
+    "words": [
+     {
+      "arabic": "وَمِنۡ",
+      "urdu": "اور سے",
+      "english": "And from"
+     },
+     {
+      "arabic": "شَرِّ",
+      "urdu": "شر",
+      "english": "(the) evil"
+     },
+     {
+      "arabic": "غَاسِقٍ",
+      "urdu": "اندھیرا کرنے والی کے",
+      "english": "(of) darkness"
+     },
+     {
+      "arabic": "اِذَا",
+      "urdu": "جب",
+      "english": "when"
+     },
+     {
+      "arabic": "وَقَبَۙ",
+      "urdu": "وہ داخل ہوجائے",
+      "english": "it spreads"
+     }
+    ]
+   },
+   {
+    "number": 4,
+    "arabic": "وَمِنۡ شَرِّ النَّفّٰثٰتِ فِى الۡعُقَدِۙ",
+    "urdu": "اور گنڈوں پر (پڑھ پڑھ کر) پھونکنے والیوں کی برائی سے",
+    "english": "And from the evil of the blowers in knots",
+    "words": [
+     {
+      "arabic": "وَمِنۡ",
+      "urdu": "اور سے",
+      "english": "And from"
+     },
+     {
+      "arabic": "شَرِّ",
+      "urdu": "شر",
+      "english": "(the) evil"
+     },
+     {
+      "arabic": "النَّفّٰثٰتِ",
+      "urdu": "پھونکنے والیوں کے",
+      "english": "(of) the blowers"
+     },
+     {
+      "arabic": "فِى",
+      "urdu": "میں",
+      "english": "in"
+     },
+     {
+      "arabic": "الۡعُقَدِۙ",
+      "urdu": "گرہوں (میں)",
+      "english": "the knots"
+     }
+    ]
+   },
+   {
+    "number": 5,
+    "arabic": "وَمِنۡ شَرِّ حَاسِدٍ اِذَا حَسَدَ",
+    "urdu": "اور حسد کرنے والے کی برائی سے جب حسد کرنے لگے",
+    "english": "And from the evil of an envier when he envies.\"",
+    "words": [
+     {
+      "arabic": "وَمِنۡ",
+      "urdu": "اور سے",
+      "english": "And from"
+     },
+     {
+      "arabic": "شَرِّ",
+      "urdu": "شر",
+      "english": "(the) evil"
+     },
+     {
+      "arabic": "حَاسِدٍ",
+      "urdu": "حاسد کے",
+      "english": "(of) an envier"
+     },
+     {
+      "arabic": "اِذَا",
+      "urdu": "جب",
+      "english": "when"
+     },
+     {
+      "arabic": "حَسَدَ",
+      "urdu": "وہ حسد کرے",
+      "english": "he envies"
+     }
+    ]
+   }
+  ],
+  "explanationEnglish": "Seeking refuge with the Lord of daybreak from the evil of creation, darkness, sorcery and envy.",
+  "explanationUrdu": "صبح کے رب کی پناہ مانگنا: مخلوق کے شر، اندھیرے، جادو اور حسد کے شر سے۔",
+  "references": [
+   {
+    "type": "quran-text",
+    "text": "Arabic (Indo-Pak script) and word-by-word: Quran.com API v4 (Tanzil-based text)."
+   },
+   {
+    "type": "translation-ur",
+    "text": "Urdu: Fatah Muhammad Jalandhari (via Quran.com, resource 234)."
+   },
+   {
+    "type": "translation-en",
+    "text": "English: Saheeh International (via Quran.com, resource 20)."
+   }
+  ],
+  "verificationStatus": "needs-review",
+  "verificationNote": "Text imported programmatically; consonant skeleton cross-checked with Tanzil. Not yet compared with a printed Indo-Pak mushaf. Explanation is a brief original summary."
+ },
+ {
+  "id": "surah-nas",
+  "surahNumber": 114,
+  "title": "Surah An-Nas",
+  "titleUrdu": "سورۃ الناس",
+  "transliteration": "An-Naas, Naas, Qul audhu bi rabbin nas",
+  "category": "four-quls",
+  "bismillah": true,
+  "arabic": "قُلۡ اَعُوۡذُ بِرَبِّ النَّاسِۙ مَلِكِ النَّاسِۙ اِلٰهِ النَّاسِۙ مِنۡ شَرِّ الۡوَسۡوَاسِ ۙ الۡخَـنَّاسِ ۙ الَّذِىۡ يُوَسۡوِسُ فِىۡ صُدُوۡرِ النَّاسِۙ مِنَ الۡجِنَّةِ وَالنَّاسِ",
+  "verses": [
+   {
+    "number": 1,
+    "arabic": "قُلۡ اَعُوۡذُ بِرَبِّ النَّاسِۙ",
+    "urdu": "کہو کہ میں لوگوں کے پروردگار کی پناہ مانگتا ہوں",
+    "english": "Say, \"I seek refuge in the Lord of mankind,",
+    "words": [
+     {
+      "arabic": "قُلۡ",
+      "urdu": "کہہ دیجئے",
+      "english": "Say"
+     },
+     {
+      "arabic": "اَعُوۡذُ",
+      "urdu": "میں پناہ چاہتا ہوں",
+      "english": "I seek refuge"
+     },
+     {
+      "arabic": "بِرَبِّ",
+      "urdu": "رب کی",
+      "english": "in (the) Lord"
+     },
+     {
+      "arabic": "النَّاسِۙ",
+      "urdu": "انسانوں کے",
+      "english": "(of) mankind"
+     }
+    ]
+   },
+   {
+    "number": 2,
+    "arabic": "مَلِكِ النَّاسِۙ",
+    "urdu": "(یعنی) لوگوں کے حقیقی بادشاہ کی",
+    "english": "The Sovereign of mankind,",
+    "words": [
+     {
+      "arabic": "مَلِكِ",
+      "urdu": "بادشاہ",
+      "english": "(The) King"
+     },
+     {
+      "arabic": "النَّاسِۙ",
+      "urdu": "انسانوں کے",
+      "english": "(of) mankind"
+     }
+    ]
+   },
+   {
+    "number": 3,
+    "arabic": "اِلٰهِ النَّاسِۙ",
+    "urdu": "لوگوں کے معبود برحق کی",
+    "english": "The God of mankind,",
+    "words": [
+     {
+      "arabic": "اِلٰهِ",
+      "urdu": "الٰہ کی/معبود کی",
+      "english": "(The) God"
+     },
+     {
+      "arabic": "النَّاسِۙ",
+      "urdu": "انسانوں کے",
+      "english": "(of) mankind"
+     }
+    ]
+   },
+   {
+    "number": 4,
+    "arabic": "مِنۡ شَرِّ الۡوَسۡوَاسِ ۙ الۡخَـنَّاسِ ۙ",
+    "urdu": "(شیطان) وسوسہ انداز کی برائی سے جو (خدا کا نام سن کر) پیچھے ہٹ جاتا ہے",
+    "english": "From the evil of the retreating whisperer -",
+    "words": [
+     {
+      "arabic": "مِنۡ",
+      "urdu": "سے",
+      "english": "From"
+     },
+     {
+      "arabic": "شَرِّ",
+      "urdu": "شر",
+      "english": "(the) evil"
+     },
+     {
+      "arabic": "الۡوَسۡوَاسِ ۙ",
+      "urdu": "وسوسہ ڈالنے والے",
+      "english": "(of) the whisperer"
+     },
+     {
+      "arabic": "الۡخَـنَّاسِ ۙ",
+      "urdu": "بار بار پلٹ کر آنے والے کے",
+      "english": "the one who withdraws"
+     }
+    ]
+   },
+   {
+    "number": 5,
+    "arabic": "الَّذِىۡ يُوَسۡوِسُ فِىۡ صُدُوۡرِ النَّاسِۙ",
+    "urdu": "جو لوگوں کے دلوں میں وسوسے ڈالتا ہے",
+    "english": "Who whispers [evil] into the breasts of mankind -",
+    "words": [
+     {
+      "arabic": "الَّذِىۡ",
+      "urdu": "وہ جو",
+      "english": "The one who"
+     },
+     {
+      "arabic": "يُوَسۡوِسُ",
+      "urdu": "وسوسہ ڈالتا ہے",
+      "english": "whispers"
+     },
+     {
+      "arabic": "فِىۡ",
+      "urdu": "میں",
+      "english": "in"
+     },
+     {
+      "arabic": "صُدُوۡرِ",
+      "urdu": "سینوں",
+      "english": "(the) breasts"
+     },
+     {
+      "arabic": "النَّاسِۙ",
+      "urdu": "انسانوں کے",
+      "english": "(of) mankind"
+     }
+    ]
+   },
+   {
+    "number": 6,
+    "arabic": "مِنَ الۡجِنَّةِ وَالنَّاسِ",
+    "urdu": "وہ جنّات میں سے (ہو) یا انسانوں میں سے",
+    "english": "From among the jinn and mankind\".",
+    "words": [
+     {
+      "arabic": "مِنَ",
+      "urdu": "سے",
+      "english": "From"
+     },
+     {
+      "arabic": "الۡجِنَّةِ",
+      "urdu": "جنوں میں",
+      "english": "the jinn"
+     },
+     {
+      "arabic": "وَالنَّاسِ",
+      "urdu": "اور انسانوں میں",
+      "english": "and men"
+     }
+    ]
+   }
+  ],
+  "explanationEnglish": "Seeking refuge with the Lord, King and God of mankind from the whispering of the retreating whisperer.",
+  "explanationUrdu": "انسانوں کے رب، بادشاہ اور معبود کی پناہ مانگنا: وسوسہ ڈالنے والے پیچھے ہٹ جانے والے کے شر سے۔",
+  "references": [
+   {
+    "type": "quran-text",
+    "text": "Arabic (Indo-Pak script) and word-by-word: Quran.com API v4 (Tanzil-based text)."
+   },
+   {
+    "type": "translation-ur",
+    "text": "Urdu: Fatah Muhammad Jalandhari (via Quran.com, resource 234)."
+   },
+   {
+    "type": "translation-en",
+    "text": "English: Saheeh International (via Quran.com, resource 20)."
+   }
+  ],
+  "verificationStatus": "needs-review",
+  "verificationNote": "Text imported programmatically; consonant skeleton cross-checked with Tanzil. Not yet compared with a printed Indo-Pak mushaf. Explanation is a brief original summary."
+ }
+]

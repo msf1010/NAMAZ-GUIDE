@@ -1,0 +1,1456 @@
+[
+ {
+  "verificationStatus": "needs-review",
+  "category": "namaz",
+  "group": "prayer",
+  "step": 1,
+  "id": "namaz-takbeer-tahreema",
+  "title": "Takbeer-e-Tahreema",
+  "titleUrdu": "تکبیرِ تحریمہ",
+  "aliases": "Allahu Akbar, opening takbeer, Takbir Tahrima, niyyat, start of namaz",
+  "ruling": "Fard",
+  "rulingUrdu": "فرض",
+  "posture": "Standing (Qiyam). Men raise both hands to the ears, then fold them below the navel (right hand over left). Make the intention (niyyah) in the heart.",
+  "verses": [
+   {
+    "arabic": "اللّٰهُ أَكْبَرُ",
+    "urdu": "اللہ سب سے بڑا ہے۔",
+    "english": "Allah is the Greatest.",
+    "words": [
+     {
+      "arabic": "اللّٰهُ",
+      "urdu": "اللہ",
+      "english": "Allah"
+     },
+     {
+      "arabic": "أَكْبَرُ",
+      "urdu": "سب سے بڑا ہے",
+      "english": "(is) the Greatest"
+     }
+    ]
+   }
+  ],
+  "explanationEnglish": "Saying “Allahu Akbar” begins the prayer; from this point worldly speech and actions are forbidden.",
+  "explanationUrdu": "اللہ اکبر کہنے سے نماز شروع ہوتی ہے؛ اس کے بعد دنیوی کلام اور کام حرام ہو جاتے ہیں۔",
+  "references": [
+   {
+    "text": "Abu Dawud 61; Jami at-Tirmidhi 3 — “its tahrim is the takbir”"
+   }
+  ],
+  "verificationNote": "Arabic wording and Urdu/English translations entered by hand; hadith references given from memory — confirm the book and number (e.g. on sunnah.com) before marking verified.",
+  "arabic": "اللّٰهُ أَكْبَرُ"
+ },
+ {
+  "verificationStatus": "needs-review",
+  "category": "namaz",
+  "group": "prayer",
+  "step": 2,
+  "id": "namaz-sana",
+  "title": "Sana (Thana)",
+  "titleUrdu": "ثنا",
+  "aliases": "Subhanakallahumma, Subhanaka Allahumma, Thana, opening supplication",
+  "ruling": "Sunnah",
+  "rulingUrdu": "سنت",
+  "posture": "Standing, hands folded. Read silently after the Takbeer-e-Tahreema.",
+  "verses": [
+   {
+    "arabic": "سُبْحَانَكَ اللّٰهُمَّ وَبِحَمْدِكَ وَتَبَارَكَ اسْمُكَ وَتَعَالَىٰ جَدُّكَ وَلَا إِلٰهَ غَيْرُكَ",
+    "urdu": "اے اللہ! تو پاک ہے اور تیری تعریف کے ساتھ، تیرا نام بابرکت ہے، تیری شان بلند ہے، اور تیرے سوا کوئی معبود نہیں۔",
+    "english": "Glory be to You, O Allah, and with Your praise; blessed is Your name, exalted is Your majesty, and there is no god other than You.",
+    "words": [
+     {
+      "arabic": "سُبْحَانَكَ",
+      "urdu": "تو پاک ہے",
+      "english": "Glory be to You"
+     },
+     {
+      "arabic": "اللّٰهُمَّ",
+      "urdu": "اے اللہ",
+      "english": "O Allah"
+     },
+     {
+      "arabic": "وَبِحَمْدِكَ",
+      "urdu": "اور تیری تعریف کے ساتھ",
+      "english": "and with Your praise"
+     },
+     {
+      "arabic": "وَتَبَارَكَ",
+      "urdu": "اور بابرکت ہے",
+      "english": "and blessed is"
+     },
+     {
+      "arabic": "اسْمُكَ",
+      "urdu": "تیرا نام",
+      "english": "Your name"
+     },
+     {
+      "arabic": "وَتَعَالَىٰ",
+      "urdu": "اور بلند ہے",
+      "english": "and exalted is"
+     },
+     {
+      "arabic": "جَدُّكَ",
+      "urdu": "تیری شان",
+      "english": "Your majesty"
+     },
+     {
+      "arabic": "وَلَا إِلٰهَ",
+      "urdu": "اور کوئی معبود نہیں",
+      "english": "and there is no god"
+     },
+     {
+      "arabic": "غَيْرُكَ",
+      "urdu": "تیرے سوا",
+      "english": "other than You"
+     }
+    ]
+   }
+  ],
+  "notesEnglish": "Recited only in the first rak‘ah, silently. A Hanafi practice; other schools prefer other opening supplications.",
+  "notesUrdu": "صرف پہلی رکعت میں آہستہ پڑھی جاتی ہے۔ یہ حنفی معمول ہے۔",
+  "references": [
+   {
+    "text": "Abu Dawud 775; Jami at-Tirmidhi 243 (Hanafi practice is also based on the report from ‘Umar, may Allah be pleased with him)"
+   }
+  ],
+  "verificationNote": "Arabic wording and Urdu/English translations entered by hand; hadith references given from memory — confirm the book and number (e.g. on sunnah.com) before marking verified.",
+  "arabic": "سُبْحَانَكَ اللّٰهُمَّ وَبِحَمْدِكَ وَتَبَارَكَ اسْمُكَ وَتَعَالَىٰ جَدُّكَ وَلَا إِلٰهَ غَيْرُكَ"
+ },
+ {
+  "verificationStatus": "needs-review",
+  "category": "namaz",
+  "group": "prayer",
+  "step": 3,
+  "id": "namaz-tawwudh",
+  "title": "Ta‘awwudh",
+  "titleUrdu": "تعوذ",
+  "aliases": "Audhu billahi minash shaytanir rajeem, Aoozu billah, seeking refuge",
+  "ruling": "Sunnah",
+  "rulingUrdu": "سنت",
+  "posture": "Standing; silent, before reciting the Qur’an.",
+  "verses": [
+   {
+    "arabic": "أَعُوذُ بِاللّٰهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+    "urdu": "میں اللہ کی پناہ مانگتا ہوں شیطان مردود سے۔",
+    "english": "I seek refuge in Allah from the accursed Shaytan.",
+    "words": [
+     {
+      "arabic": "أَعُوذُ",
+      "urdu": "میں پناہ مانگتا ہوں",
+      "english": "I seek refuge"
+     },
+     {
+      "arabic": "بِاللّٰهِ",
+      "urdu": "اللہ کی",
+      "english": "in Allah"
+     },
+     {
+      "arabic": "مِنَ الشَّيْطَانِ",
+      "urdu": "شیطان سے",
+      "english": "from the Shaytan"
+     },
+     {
+      "arabic": "الرَّجِيمِ",
+      "urdu": "مردود",
+      "english": "the accursed"
+     }
+    ]
+   }
+  ],
+  "notesEnglish": "Recited once, at the beginning of the first rak‘ah only.",
+  "notesUrdu": "صرف پہلی رکعت کے شروع میں ایک بار پڑھا جاتا ہے۔",
+  "references": [
+   {
+    "text": "Qur’an 16:98"
+   }
+  ],
+  "verificationNote": "Arabic wording and Urdu/English translations entered by hand; hadith references given from memory — confirm the book and number (e.g. on sunnah.com) before marking verified.",
+  "arabic": "أَعُوذُ بِاللّٰهِ مِنَ الشَّيْطَانِ الرَّجِيمِ"
+ },
+ {
+  "verificationStatus": "needs-review",
+  "category": "namaz",
+  "group": "prayer",
+  "step": 4,
+  "id": "namaz-tasmiyah",
+  "title": "Tasmiyah (Bismillah)",
+  "titleUrdu": "تسمیہ",
+  "aliases": "Bismillahir Rahmanir Raheem, Bismillah",
+  "ruling": "Sunnah",
+  "rulingUrdu": "سنت",
+  "posture": "Standing; silent, before Surah Al-Fatiha.",
+  "verses": [
+   {
+    "arabic": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيمِ",
+    "urdu": "اللہ کے نام سے جو نہایت مہربان، بہت رحم والا ہے۔",
+    "english": "In the name of Allah, the Most Gracious, the Most Merciful.",
+    "words": [
+     {
+      "arabic": "بِسْمِ",
+      "urdu": "نام سے",
+      "english": "In the name"
+     },
+     {
+      "arabic": "اللّٰهِ",
+      "urdu": "اللہ کے",
+      "english": "of Allah"
+     },
+     {
+      "arabic": "الرَّحْمٰنِ",
+      "urdu": "نہایت مہربان",
+      "english": "the Most Gracious"
+     },
+     {
+      "arabic": "الرَّحِيمِ",
+      "urdu": "بہت رحم والا",
+      "english": "the Most Merciful"
+     }
+    ]
+   }
+  ],
+  "notesEnglish": "In the Hanafi school it is recited silently, even in loud (jahri) prayers, at the start of the rak‘ah before Al-Fatiha. Scholars differ on repeating it before the additional Surah — ask your scholar.",
+  "notesUrdu": "حنفی مسلک میں جہری نمازوں میں بھی تسمیہ آہستہ پڑھی جاتی ہے۔ سورت سے پہلے دوبارہ پڑھنے کے بارے میں علماء کا اختلاف ہے۔",
+  "references": [
+   {
+    "text": "Hanafi fiqh manuals (e.g. Radd al-Muhtar) — exact page references to be added"
+   }
+  ],
+  "verificationNote": "Arabic wording and Urdu/English translations entered by hand; hadith references given from memory — confirm the book and number (e.g. on sunnah.com) before marking verified.",
+  "arabic": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيمِ"
+ },
+ {
+  "verificationStatus": "needs-review",
+  "category": "namaz",
+  "group": "prayer",
+  "step": 5,
+  "id": "namaz-fatiha",
+  "title": "Surah Al-Fatiha",
+  "titleUrdu": "سورۃ الفاتحہ",
+  "aliases": "Alhamdu, Fatihah, Alhamdu lillahi rabbil alameen, Ameen",
+  "ruling": "Wajib",
+  "rulingUrdu": "واجب",
+  "surahRef": "surah-fatiha",
+  "posture": "Standing. Recited in the first two rak‘ahs of every Fard prayer and in every rak‘ah of Sunnah, Nafl and Witr. After it, say “Ameen” silently.",
+  "notesEnglish": "In the 3rd and 4th rak‘ah of a Fard prayer only Al-Fatiha is recited (no additional Surah), and reciting it is preferred over silence or tasbih. The muqtadi (follower) does not recite behind the imam in Hanafi fiqh. “Ameen” is said silently.",
+  "notesUrdu": "فرض کی تیسری اور چوتھی رکعت میں صرف سورۃ الفاتحہ پڑھی جاتی ہے، کوئی اور سورت نہیں۔ حنفی مسلک میں مقتدی امام کے پیچھے نہیں پڑھتا۔ آمین آہستہ کہی جاتی ہے۔",
+  "references": [
+   {
+    "text": "Qur’an 1:1-7 (see the full Surah page)"
+   }
+  ],
+  "verificationNote": "Text, translations and word-by-word are shown from the canonical Surah entry."
+ },
+ {
+  "verificationStatus": "needs-review",
+  "category": "namaz",
+  "group": "prayer",
+  "step": 6,
+  "id": "namaz-additional-surah",
+  "title": "Additional Surah",
+  "titleUrdu": "ملائی جانے والی سورت",
+  "aliases": "zam surah, Surah milana, Qul huwallahu ahad, short surah in namaz",
+  "ruling": "Wajib",
+  "rulingUrdu": "واجب",
+  "surahRefs": [
+   "surah-ikhlas",
+   "surah-kafirun",
+   "surah-kawthar",
+   "surah-asr",
+   "surah-nasr",
+   "surah-falaq",
+   "surah-nas",
+   "surah-quraysh",
+   "surah-fil",
+   "surah-maun"
+  ],
+  "posture": "Standing, after Al-Fatiha.",
+  "explanationEnglish": "Choose any Surah (or three short verses / one long verse). Common choices are linked below — each opens its complete page with translation.",
+  "explanationUrdu": "فاتحہ کے بعد کوئی بھی سورت (یا تین چھوٹی آیات / ایک بڑی آیت) پڑھی جاتی ہے۔ عام طور پر پڑھی جانے والی سورتیں نیچے دی گئی ہیں۔",
+  "notesEnglish": "Wajib in the first two rak‘ahs of a Fard prayer and in every rak‘ah of Sunnah, Nafl and Witr. Not recited in the 3rd/4th rak‘ah of a Fard prayer.",
+  "notesUrdu": "فرض کی پہلی دو رکعتوں میں اور سنت، نفل اور وتر کی ہر رکعت میں واجب ہے۔ فرض کی تیسری/چوتھی رکعت میں نہیں پڑھی جاتی۔",
+  "references": [
+   {
+    "text": "Hanafi fiqh manuals — to be referenced"
+   }
+  ],
+  "verificationNote": "Ruling summary needs checking against a Hanafi text."
+ },
+ {
+  "verificationStatus": "needs-review",
+  "category": "namaz",
+  "group": "prayer",
+  "step": 7,
+  "id": "namaz-takbeer-ruku",
+  "title": "Takbeer for Ruku",
+  "titleUrdu": "رکوع کی تکبیر",
+  "aliases": "Allahu Akbar going into ruku",
+  "ruling": "Sunnah",
+  "rulingUrdu": "سنت",
+  "posture": "Say “Allahu Akbar” while bowing down into Ruku (hands are not raised again).",
+  "verses": [
+   {
+    "arabic": "اللّٰهُ أَكْبَرُ",
+    "urdu": "اللہ سب سے بڑا ہے۔",
+    "english": "Allah is the Greatest.",
+    "words": [
+     {
+      "arabic": "اللّٰهُ",
+      "urdu": "اللہ",
+      "english": "Allah"
+     },
+     {
+      "arabic": "أَكْبَرُ",
+      "urdu": "سب سے بڑا ہے",
+      "english": "(is) the Greatest"
+     }
+    ]
+   }
+  ],
+  "references": [
+   {
+    "text": "Sahih al-Bukhari / Sahih Muslim (Kitab al-Adhan) — numbers to be added"
+   }
+  ],
+  "verificationNote": "Arabic wording and Urdu/English translations entered by hand; hadith references given from memory — confirm the book and number (e.g. on sunnah.com) before marking verified.",
+  "arabic": "اللّٰهُ أَكْبَرُ"
+ },
+ {
+  "verificationStatus": "needs-review",
+  "category": "namaz",
+  "group": "prayer",
+  "step": 8,
+  "id": "namaz-ruku",
+  "title": "Ruku Tasbeeh",
+  "titleUrdu": "رکوع کی تسبیح",
+  "aliases": "Subhana Rabbiyal Azeem, Subhaana Rabbiyal Adheem, Ruku, Rukoo, Glory be to my Lord the Magnificent, bowing",
+  "ruling": "Ruku is Fard; the tasbeeh is Sunnah",
+  "rulingUrdu": "رکوع فرض ہے؛ تسبیح سنت ہے",
+  "posture": "Bowing with back level, hands on knees. Recite three times (an odd number is preferred).",
+  "verses": [
+   {
+    "arabic": "سُبْحَانَ رَبِّيَ الْعَظِيمِ",
+    "urdu": "پاک ہے میرا رب جو بڑی عظمت والا ہے۔",
+    "english": "Glory be to my Lord, the Magnificent.",
+    "words": [
+     {
+      "arabic": "سُبْحَانَ",
+      "urdu": "پاک ہے",
+      "english": "Glory be"
+     },
+     {
+      "arabic": "رَبِّيَ",
+      "urdu": "میرا رب",
+      "english": "(to) my Lord"
+     },
+     {
+      "arabic": "الْعَظِيمِ",
+      "urdu": "بڑی عظمت والا",
+      "english": "the Magnificent"
+     }
+    ]
+   }
+  ],
+  "references": [
+   {
+    "text": "Sahih Muslim 772 (Hudhayfah, may Allah be pleased with him); Abu Dawud 869, Jami at-Tirmidhi 261 (Ibn Mas‘ud) — verify"
+   }
+  ],
+  "verificationNote": "Arabic wording and Urdu/English translations entered by hand; hadith references given from memory — confirm the book and number (e.g. on sunnah.com) before marking verified.",
+  "arabic": "سُبْحَانَ رَبِّيَ الْعَظِيمِ"
+ },
+ {
+  "verificationStatus": "needs-review",
+  "category": "namaz",
+  "group": "prayer",
+  "step": 9,
+  "id": "namaz-tasmee",
+  "title": "Qawmah: Sami‘Allahu liman hamidah",
+  "titleUrdu": "قومہ: سمع اللہ لمن حمدہ",
+  "aliases": "Sami Allahu liman hamidah, Samiallahu, tasmee, rising from ruku",
+  "ruling": "Sunnah",
+  "rulingUrdu": "سنت",
+  "posture": "Rising from Ruku to stand straight (Qawmah). Hands hang at the sides.",
+  "verses": [
+   {
+    "arabic": "سَمِعَ اللّٰهُ لِمَنْ حَمِدَهُ",
+    "urdu": "اللہ نے اس کی سن لی جس نے اس کی تعریف کی۔",
+    "english": "Allah has heard the one who praises Him.",
+    "words": [
+     {
+      "arabic": "سَمِعَ",
+      "urdu": "سن لی",
+      "english": "has heard"
+     },
+     {
+      "arabic": "اللّٰهُ",
+      "urdu": "اللہ نے",
+      "english": "Allah"
+     },
+     {
+      "arabic": "لِمَنْ",
+      "urdu": "اس کی",
+      "english": "(the one) who"
+     },
+     {
+      "arabic": "حَمِدَهُ",
+      "urdu": "جس نے اس کی تعریف کی",
+      "english": "praised Him"
+     }
+    ]
+   }
+  ],
+  "notesEnglish": "Hanafi: the imam says only “Sami‘Allahu liman hamidah”; the muqtadi (follower) says only “Rabbana lakal hamd”; one praying alone says both.",
+  "notesUrdu": "حنفی مسلک: امام صرف “سمع اللہ لمن حمدہ” کہتا ہے، مقتدی صرف “ربنا لک الحمد”، اور اکیلا نمازی دونوں کہتا ہے۔",
+  "references": [
+   {
+    "text": "Sahih al-Bukhari / Sahih Muslim (Kitab al-Adhan) — numbers to be added"
+   }
+  ],
+  "verificationNote": "Arabic wording and Urdu/English translations entered by hand; hadith references given from memory — confirm the book and number (e.g. on sunnah.com) before marking verified.",
+  "arabic": "سَمِعَ اللّٰهُ لِمَنْ حَمِدَهُ"
+ },
+ {
+  "verificationStatus": "needs-review",
+  "category": "namaz",
+  "group": "prayer",
+  "step": 10,
+  "id": "namaz-tahmeed",
+  "title": "Rabbana Lakal Hamd",
+  "titleUrdu": "ربنا لک الحمد",
+  "aliases": "Rabbana lakal hamd, Rabbana wa lakal hamd, tahmeed, Allahumma Rabbana",
+  "ruling": "Sunnah",
+  "rulingUrdu": "سنت",
+  "posture": "Standing straight after Ruku.",
+  "verses": [
+   {
+    "label": "Common wording",
+    "arabic": "رَبَّنَا لَكَ الْحَمْدُ",
+    "urdu": "اے ہمارے رب! تیرے ہی لیے تمام تعریف ہے۔",
+    "english": "Our Lord, to You belongs all praise.",
+    "words": [
+     {
+      "arabic": "رَبَّنَا",
+      "urdu": "اے ہمارے رب",
+      "english": "Our Lord"
+     },
+     {
+      "arabic": "لَكَ",
+      "urdu": "تیرے ہی لیے",
+      "english": "to You"
+     },
+     {
+      "arabic": "الْحَمْدُ",
+      "urdu": "تمام تعریف",
+      "english": "(is) all praise"
+     }
+    ]
+   },
+   {
+    "label": "Variant with “wa”",
+    "arabic": "رَبَّنَا وَلَكَ الْحَمْدُ",
+    "urdu": "اے ہمارے رب! اور تیرے ہی لیے تمام تعریف ہے۔",
+    "english": "Our Lord, and to You belongs all praise.",
+    "words": [
+     {
+      "arabic": "رَبَّنَا",
+      "urdu": "اے ہمارے رب",
+      "english": "Our Lord"
+     },
+     {
+      "arabic": "وَلَكَ",
+      "urdu": "اور تیرے ہی لیے",
+      "english": "and to You"
+     },
+     {
+      "arabic": "الْحَمْدُ",
+      "urdu": "تمام تعریف",
+      "english": "(is) all praise"
+     }
+    ]
+   }
+  ],
+  "notesEnglish": "Both wordings are reported in hadith. See the note under Qawmah for who says what.",
+  "notesUrdu": "دونوں الفاظ حدیث میں آئے ہیں۔ کون کیا کہے گا، اس کے لیے قومہ کا نوٹ دیکھیں۔",
+  "references": [
+   {
+    "text": "Sahih al-Bukhari / Sahih Muslim (Kitab al-Adhan) — numbers to be added"
+   }
+  ],
+  "verificationNote": "Arabic wording and Urdu/English translations entered by hand; hadith references given from memory — confirm the book and number (e.g. on sunnah.com) before marking verified.",
+  "arabic": "رَبَّنَا لَكَ الْحَمْدُ رَبَّنَا وَلَكَ الْحَمْدُ"
+ },
+ {
+  "verificationStatus": "needs-review",
+  "category": "namaz",
+  "group": "prayer",
+  "step": 11,
+  "id": "namaz-takbeer-sajdah",
+  "title": "Takbeer for Sajdah",
+  "titleUrdu": "سجدہ کی تکبیر",
+  "aliases": "Allahu Akbar going to sajda sujood",
+  "ruling": "Sunnah",
+  "rulingUrdu": "سنت",
+  "posture": "Say “Allahu Akbar” while going down into Sajdah (knees, then hands, then nose and forehead).",
+  "verses": [
+   {
+    "arabic": "اللّٰهُ أَكْبَرُ",
+    "urdu": "اللہ سب سے بڑا ہے۔",
+    "english": "Allah is the Greatest.",
+    "words": [
+     {
+      "arabic": "اللّٰهُ",
+      "urdu": "اللہ",
+      "english": "Allah"
+     },
+     {
+      "arabic": "أَكْبَرُ",
+      "urdu": "سب سے بڑا ہے",
+      "english": "(is) the Greatest"
+     }
+    ]
+   }
+  ],
+  "references": [
+   {
+    "text": "Sahih al-Bukhari / Sahih Muslim — numbers to be added"
+   }
+  ],
+  "verificationNote": "Arabic wording and Urdu/English translations entered by hand; hadith references given from memory — confirm the book and number (e.g. on sunnah.com) before marking verified.",
+  "arabic": "اللّٰهُ أَكْبَرُ"
+ },
+ {
+  "verificationStatus": "needs-review",
+  "category": "namaz",
+  "group": "prayer",
+  "step": 12,
+  "id": "namaz-sajdah-tasbeeh",
+  "title": "Sajdah Tasbeeh",
+  "titleUrdu": "سجدہ کی تسبیح",
+  "aliases": "Subhana Rabbiyal A'la, Subhaana Rabbiyal Ala, Sajda, Sujood, prostration, Glory be to my Lord the Most High",
+  "ruling": "Sajdah is Fard (two per rak‘ah); the tasbeeh is Sunnah",
+  "rulingUrdu": "سجدہ فرض ہے (ہر رکعت میں دو)؛ تسبیح سنت ہے",
+  "posture": "Forehead, nose, both palms, both knees and toes touching the ground. Recite three times (odd number preferred).",
+  "verses": [
+   {
+    "arabic": "سُبْحَانَ رَبِّيَ الْأَعْلَىٰ",
+    "urdu": "پاک ہے میرا رب جو سب سے بلند ہے۔",
+    "english": "Glory be to my Lord, the Most High.",
+    "words": [
+     {
+      "arabic": "سُبْحَانَ",
+      "urdu": "پاک ہے",
+      "english": "Glory be"
+     },
+     {
+      "arabic": "رَبِّيَ",
+      "urdu": "میرا رب",
+      "english": "(to) my Lord"
+     },
+     {
+      "arabic": "الْأَعْلَىٰ",
+      "urdu": "سب سے بلند",
+      "english": "the Most High"
+     }
+    ]
+   }
+  ],
+  "references": [
+   {
+    "text": "Sahih Muslim 772 (Hudhayfah); Abu Dawud 870, Jami at-Tirmidhi 262 (Ibn Mas‘ud) — verify"
+   }
+  ],
+  "verificationNote": "Arabic wording and Urdu/English translations entered by hand; hadith references given from memory — confirm the book and number (e.g. on sunnah.com) before marking verified.",
+  "arabic": "سُبْحَانَ رَبِّيَ الْأَعْلَىٰ"
+ },
+ {
+  "verificationStatus": "needs-review",
+  "category": "namaz",
+  "group": "prayer",
+  "step": 13,
+  "id": "namaz-jalsa",
+  "title": "Jalsa (Sitting between the two Sajdahs)",
+  "titleUrdu": "جلسہ (دو سجدوں کے درمیان بیٹھنا)",
+  "aliases": "sitting between sajdas, jalsah, qa'dah",
+  "ruling": "Sitting calmly is Wajib (ta‘dil al-arkan)",
+  "rulingUrdu": "اطمینان سے بیٹھنا واجب ہے",
+  "posture": "Say “Allahu Akbar” while rising from the first Sajdah and sit upright on the left foot with the right foot upright; hands on thighs. Pause until settled, then say “Allahu Akbar” and go into the second Sajdah.",
+  "see": [
+   "namaz-takbeer-sajdah"
+  ],
+  "references": [
+   {
+    "text": "Hanafi fiqh manuals — to be referenced"
+   }
+  ],
+  "verificationNote": "Ruling and posture summary to be checked against a Hanafi text."
+ },
+ {
+  "verificationStatus": "needs-review",
+  "category": "namaz",
+  "group": "prayer",
+  "step": 14,
+  "id": "namaz-jalsa-dua",
+  "title": "Dua between the two Sajdahs",
+  "titleUrdu": "دو سجدوں کے درمیان کی دعا",
+  "aliases": "Rabbighfir li, Allahummaghfir li warhamni, jalsa dua",
+  "ruling": "Not required in Hanafi Fard prayers; permitted/commonly read in Nafl",
+  "rulingUrdu": "حنفی مسلک میں فرض میں لازم نہیں؛ نفل میں پڑھنا جائز ہے",
+  "posture": "Sitting between the two Sajdahs.",
+  "verses": [
+   {
+    "label": "Short wording",
+    "arabic": "رَبِّ اغْفِرْ لِي رَبِّ اغْفِرْ لِي",
+    "urdu": "اے میرے رب! مجھے بخش دے، اے میرے رب! مجھے بخش دے۔",
+    "english": "My Lord, forgive me; my Lord, forgive me.",
+    "words": [
+     {
+      "arabic": "رَبِّ",
+      "urdu": "اے میرے رب",
+      "english": "My Lord"
+     },
+     {
+      "arabic": "اغْفِرْ",
+      "urdu": "بخش دے",
+      "english": "forgive"
+     },
+     {
+      "arabic": "لِي",
+      "urdu": "مجھے",
+      "english": "me"
+     }
+    ]
+   },
+   {
+    "label": "Longer wording",
+    "arabic": "اللّٰهُمَّ اغْفِرْ لِي وَارْحَمْنِي وَاهْدِنِي وَعَافِنِي وَارْزُقْنِي",
+    "urdu": "اے اللہ! مجھے بخش دے، مجھ پر رحم فرما، مجھے ہدایت دے، مجھے عافیت دے اور مجھے رزق دے۔",
+    "english": "O Allah, forgive me, have mercy on me, guide me, grant me well-being and provide for me.",
+    "words": [
+     {
+      "arabic": "اللّٰهُمَّ",
+      "urdu": "اے اللہ",
+      "english": "O Allah"
+     },
+     {
+      "arabic": "اغْفِرْ لِي",
+      "urdu": "مجھے بخش دے",
+      "english": "forgive me"
+     },
+     {
+      "arabic": "وَارْحَمْنِي",
+      "urdu": "اور مجھ پر رحم کر",
+      "english": "and have mercy on me"
+     },
+     {
+      "arabic": "وَاهْدِنِي",
+      "urdu": "اور مجھے ہدایت دے",
+      "english": "and guide me"
+     },
+     {
+      "arabic": "وَعَافِنِي",
+      "urdu": "اور مجھے عافیت دے",
+      "english": "and grant me well-being"
+     },
+     {
+      "arabic": "وَارْزُقْنِي",
+      "urdu": "اور مجھے رزق دے",
+      "english": "and provide for me"
+     }
+    ]
+   }
+  ],
+  "notesEnglish": "Hanafi books generally describe only sitting calmly between the two Sajdahs in Fard prayers; these supplications are reported in hadith and are commonly read in Nafl prayers. This is a point where practice differs — confirm with your scholar.",
+  "notesUrdu": "حنفی کتب میں فرض نمازوں میں عموماً صرف اطمینان سے بیٹھنے کا ذکر ہے؛ یہ دعائیں احادیث میں آئی ہیں اور نفل میں عموماً پڑھی جاتی ہیں۔ اس بارے میں اپنے عالم سے رجوع کریں۔",
+  "references": [
+   {
+    "text": "Abu Dawud 874 (Hudhayfah, short wording); Abu Dawud 850 / Ibn Majah 898 (Ibn ‘Abbas, longer wording) — verify numbers"
+   }
+  ],
+  "verificationNote": "Arabic wording and Urdu/English translations entered by hand; hadith references given from memory — confirm the book and number (e.g. on sunnah.com) before marking verified. Hanafi ruling needs checking.",
+  "arabic": "رَبِّ اغْفِرْ لِي رَبِّ اغْفِرْ لِي اللّٰهُمَّ اغْفِرْ لِي وَارْحَمْنِي وَاهْدِنِي وَعَافِنِي وَارْزُقْنِي"
+ },
+ {
+  "verificationStatus": "needs-review",
+  "category": "namaz",
+  "group": "prayer",
+  "step": 15,
+  "id": "namaz-second-sajdah",
+  "title": "Second Sajdah",
+  "titleUrdu": "دوسرا سجدہ",
+  "aliases": "second prostration, rising for next rakat",
+  "posture": "Say “Allahu Akbar”, go into the second Sajdah and recite the Sajdah tasbeeh again. Then rise (hands on knees) saying “Allahu Akbar” for the next rak‘ah, or sit for Tashahhud after the 2nd/last rak‘ah.",
+  "see": [
+   "namaz-takbeer-sajdah",
+   "namaz-sajdah-tasbeeh"
+  ],
+  "references": [
+   {
+    "text": "—"
+   }
+  ],
+  "verificationNote": "Instructional summary."
+ },
+ {
+  "verificationStatus": "needs-review",
+  "category": "namaz",
+  "group": "prayer",
+  "step": 16,
+  "id": "namaz-tashahhud",
+  "title": "Tashahhud (At-Tahiyyat)",
+  "titleUrdu": "تشہد (التحیات)",
+  "aliases": "Attahiyyat, Attahiyyatu, At-Tahiyyat, Attahiyat, Tahiyat, Tashahud, Tashahhud, sitting in namaz, qa'da",
+  "ruling": "Wajib (in the 2nd-rak‘ah sitting and in the final sitting)",
+  "rulingUrdu": "واجب (دوسری رکعت کے قعدہ اور قعدۂ اخیرہ میں)",
+  "posture": "Sit on the left foot with the right foot upright (men). At “Ash-hadu an lā ilāha” raise the index finger, and lower it at “illallāh” (Hanafi practice). In a 3- or 4-rak‘ah prayer recite Tashahhud only in the first sitting, then stand up for the next rak‘ah.",
+  "verses": [
+   {
+    "arabic": "التَّحِيَّاتُ لِلّٰهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَعَلَىٰ عِبَادِ اللّٰهِ الصَّالِحِينَ، أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا اللّٰهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
+    "urdu": "تمام قولی، بدنی اور مالی عبادتیں اللہ ہی کے لیے ہیں۔ اے نبی! آپ پر سلام ہو اور اللہ کی رحمت اور برکتیں۔ ہم پر اور اللہ کے نیک بندوں پر سلام ہو۔ میں گواہی دیتا ہوں کہ اللہ کے سوا کوئی معبود نہیں اور میں گواہی دیتا ہوں کہ محمد (ﷺ) اللہ کے بندے اور اس کے رسول ہیں۔",
+    "english": "All greetings, prayers and good words are for Allah. Peace be upon you, O Prophet, and the mercy of Allah and His blessings. Peace be upon us and upon the righteous servants of Allah. I bear witness that there is no god but Allah, and I bear witness that Muhammad is His servant and Messenger.",
+    "words": [
+     {
+      "arabic": "التَّحِيَّاتُ",
+      "urdu": "تمام قولی عبادتیں اور تعظیمیں",
+      "english": "All greetings"
+     },
+     {
+      "arabic": "لِلّٰهِ",
+      "urdu": "اللہ کے لیے",
+      "english": "are for Allah"
+     },
+     {
+      "arabic": "وَالصَّلَوَاتُ",
+      "urdu": "اور تمام بدنی عبادتیں",
+      "english": "and the prayers"
+     },
+     {
+      "arabic": "وَالطَّيِّبَاتُ",
+      "urdu": "اور تمام مالی عبادتیں / پاکیزہ باتیں",
+      "english": "and the good words"
+     },
+     {
+      "arabic": "اَلسَّلَامُ",
+      "urdu": "سلام",
+      "english": "Peace"
+     },
+     {
+      "arabic": "عَلَيْكَ",
+      "urdu": "آپ پر",
+      "english": "be upon you"
+     },
+     {
+      "arabic": "أَيُّهَا النَّبِيُّ",
+      "urdu": "اے نبی",
+      "english": "O Prophet"
+     },
+     {
+      "arabic": "وَرَحْمَةُ اللّٰهِ",
+      "urdu": "اور اللہ کی رحمت",
+      "english": "and the mercy of Allah"
+     },
+     {
+      "arabic": "وَبَرَكَاتُهُ",
+      "urdu": "اور اس کی برکتیں",
+      "english": "and His blessings"
+     },
+     {
+      "arabic": "اَلسَّلَامُ",
+      "urdu": "سلام",
+      "english": "Peace"
+     },
+     {
+      "arabic": "عَلَيْنَا",
+      "urdu": "ہم پر",
+      "english": "be upon us"
+     },
+     {
+      "arabic": "وَعَلَىٰ عِبَادِ اللّٰهِ",
+      "urdu": "اور اللہ کے بندوں پر",
+      "english": "and upon the servants of Allah"
+     },
+     {
+      "arabic": "الصَّالِحِينَ",
+      "urdu": "نیک",
+      "english": "the righteous"
+     },
+     {
+      "arabic": "أَشْهَدُ",
+      "urdu": "میں گواہی دیتا ہوں",
+      "english": "I bear witness"
+     },
+     {
+      "arabic": "أَنْ لَا إِلٰهَ",
+      "urdu": "کہ کوئی معبود نہیں",
+      "english": "that there is no god"
+     },
+     {
+      "arabic": "إِلَّا اللّٰهُ",
+      "urdu": "سوائے اللہ کے",
+      "english": "except Allah"
+     },
+     {
+      "arabic": "وَأَشْهَدُ",
+      "urdu": "اور میں گواہی دیتا ہوں",
+      "english": "and I bear witness"
+     },
+     {
+      "arabic": "أَنَّ مُحَمَّدًا",
+      "urdu": "کہ محمد",
+      "english": "that Muhammad"
+     },
+     {
+      "arabic": "عَبْدُهُ",
+      "urdu": "اس کے بندے",
+      "english": "(is) His servant"
+     },
+     {
+      "arabic": "وَرَسُولُهُ",
+      "urdu": "اور اس کے رسول ہیں",
+      "english": "and His Messenger"
+     }
+    ]
+   }
+  ],
+  "references": [
+   {
+    "text": "Sahih al-Bukhari 831; Sahih Muslim 402 (Ibn Mas‘ud, may Allah be pleased with him) — wording as adopted by the Hanafi school"
+   }
+  ],
+  "verificationNote": "Arabic wording and Urdu/English translations entered by hand; hadith references given from memory — confirm the book and number (e.g. on sunnah.com) before marking verified.",
+  "arabic": "التَّحِيَّاتُ لِلّٰهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَعَلَىٰ عِبَادِ اللّٰهِ الصَّالِحِينَ، أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا اللّٰهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ"
+ },
+ {
+  "verificationStatus": "needs-review",
+  "category": "namaz",
+  "group": "prayer",
+  "step": 17,
+  "id": "namaz-durood",
+  "title": "Durood Ibrahim",
+  "titleUrdu": "درودِ ابراہیمی",
+  "aliases": "Durood Ibrahimi, Durood Sharif, Salawat, Allahumma salli ala Muhammad, Salli ala",
+  "ruling": "Sunnah (in the final sitting)",
+  "rulingUrdu": "سنت (قعدۂ اخیرہ میں)",
+  "posture": "Final sitting only, after the Tashahhud.",
+  "verses": [
+   {
+    "arabic": "اللّٰهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَعَلَىٰ آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَىٰ إِبْرَاهِيمَ وَعَلَىٰ آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ",
+    "urdu": "اے اللہ! محمد (ﷺ) پر اور آلِ محمد پر رحمت نازل فرما، جیسا کہ تو نے ابراہیم (علیہ السلام) پر اور آلِ ابراہیم پر رحمت نازل فرمائی؛ بے شک تو تعریف کے لائق، بڑی شان والا ہے۔",
+    "english": "O Allah, send blessings upon Muhammad and the family of Muhammad, as You sent blessings upon Ibrahim and the family of Ibrahim; indeed You are Praiseworthy and Glorious.",
+    "words": [
+     {
+      "arabic": "اللّٰهُمَّ",
+      "urdu": "اے اللہ",
+      "english": "O Allah"
+     },
+     {
+      "arabic": "صَلِّ",
+      "urdu": "رحمت نازل فرما",
+      "english": "send blessings"
+     },
+     {
+      "arabic": "عَلَىٰ مُحَمَّدٍ",
+      "urdu": "محمد ﷺ پر",
+      "english": "upon Muhammad"
+     },
+     {
+      "arabic": "وَعَلَىٰ آلِ مُحَمَّدٍ",
+      "urdu": "اور آلِ محمد پر",
+      "english": "and upon the family of Muhammad"
+     },
+     {
+      "arabic": "كَمَا صَلَّيْتَ",
+      "urdu": "جیسا کہ تو نے رحمت نازل فرمائی",
+      "english": "as You sent blessings"
+     },
+     {
+      "arabic": "عَلَىٰ إِبْرَاهِيمَ",
+      "urdu": "ابراہیم پر",
+      "english": "upon Ibrahim"
+     },
+     {
+      "arabic": "وَعَلَىٰ آلِ إِبْرَاهِيمَ",
+      "urdu": "اور آلِ ابراہیم پر",
+      "english": "and upon the family of Ibrahim"
+     },
+     {
+      "arabic": "إِنَّكَ",
+      "urdu": "بے شک تو",
+      "english": "indeed You"
+     },
+     {
+      "arabic": "حَمِيدٌ",
+      "urdu": "تعریف کے لائق",
+      "english": "(are) Praiseworthy"
+     },
+     {
+      "arabic": "مَجِيدٌ",
+      "urdu": "بڑی شان والا",
+      "english": "Glorious"
+     }
+    ]
+   },
+   {
+    "arabic": "اللّٰهُمَّ بَارِكْ عَلَىٰ مُحَمَّدٍ وَعَلَىٰ آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَىٰ إِبْرَاهِيمَ وَعَلَىٰ آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ",
+    "urdu": "اے اللہ! محمد (ﷺ) پر اور آلِ محمد پر برکت نازل فرما، جیسا کہ تو نے ابراہیم (علیہ السلام) پر اور آلِ ابراہیم پر برکت نازل فرمائی؛ بے شک تو تعریف کے لائق، بڑی شان والا ہے۔",
+    "english": "O Allah, bless Muhammad and the family of Muhammad, as You blessed Ibrahim and the family of Ibrahim; indeed You are Praiseworthy and Glorious.",
+    "words": [
+     {
+      "arabic": "اللّٰهُمَّ",
+      "urdu": "اے اللہ",
+      "english": "O Allah"
+     },
+     {
+      "arabic": "بَارِكْ",
+      "urdu": "برکت نازل فرما",
+      "english": "bless"
+     },
+     {
+      "arabic": "عَلَىٰ مُحَمَّدٍ",
+      "urdu": "محمد ﷺ پر",
+      "english": "upon Muhammad"
+     },
+     {
+      "arabic": "وَعَلَىٰ آلِ مُحَمَّدٍ",
+      "urdu": "اور آلِ محمد پر",
+      "english": "and upon the family of Muhammad"
+     },
+     {
+      "arabic": "كَمَا بَارَكْتَ",
+      "urdu": "جیسا کہ تو نے برکت نازل فرمائی",
+      "english": "as You blessed"
+     },
+     {
+      "arabic": "عَلَىٰ إِبْرَاهِيمَ",
+      "urdu": "ابراہیم پر",
+      "english": "upon Ibrahim"
+     },
+     {
+      "arabic": "وَعَلَىٰ آلِ إِبْرَاهِيمَ",
+      "urdu": "اور آلِ ابراہیم پر",
+      "english": "and upon the family of Ibrahim"
+     },
+     {
+      "arabic": "إِنَّكَ",
+      "urdu": "بے شک تو",
+      "english": "indeed You"
+     },
+     {
+      "arabic": "حَمِيدٌ",
+      "urdu": "تعریف کے لائق",
+      "english": "(are) Praiseworthy"
+     },
+     {
+      "arabic": "مَجِيدٌ",
+      "urdu": "بڑی شان والا",
+      "english": "Glorious"
+     }
+    ]
+   }
+  ],
+  "references": [
+   {
+    "text": "Sahih al-Bukhari 3370 and Sahih Muslim 406 (Ka‘b ibn ‘Ujrah, may Allah be pleased with him) — verify"
+   }
+  ],
+  "verificationNote": "Arabic wording and Urdu/English translations entered by hand; hadith references given from memory — confirm the book and number (e.g. on sunnah.com) before marking verified.",
+  "arabic": "اللّٰهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَعَلَىٰ آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَىٰ إِبْرَاهِيمَ وَعَلَىٰ آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ اللّٰهُمَّ بَارِكْ عَلَىٰ مُحَمَّدٍ وَعَلَىٰ آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَىٰ إِبْرَاهِيمَ وَعَلَىٰ آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ"
+ },
+ {
+  "verificationStatus": "needs-review",
+  "category": "namaz",
+  "group": "prayer",
+  "step": 18,
+  "id": "namaz-dua-after-durood",
+  "title": "Dua after Durood",
+  "titleUrdu": "درود کے بعد کی دعا",
+  "aliases": "Dua e Masura, Dua-e-Masura, Allahumma inni zalamtu nafsi, Rabbana atina, Rabbij alni muqeemas salah",
+  "ruling": "Sunnah / recommended (final sitting)",
+  "rulingUrdu": "سنت / مستحب (قعدۂ اخیرہ میں)",
+  "posture": "Final sitting, after Durood and before Salam. Any one of the following may be read.",
+  "verses": [
+   {
+    "label": "Hadith dua",
+    "arabic": "اللّٰهُمَّ إِنِّي ظَلَمْتُ نَفْسِي ظُلْمًا كَثِيرًا وَلَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ فَاغْفِرْ لِي مَغْفِرَةً مِنْ عِنْدِكَ وَارْحَمْنِي إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ",
+    "urdu": "اے اللہ! میں نے اپنی جان پر بہت ظلم کیا اور تیرے سوا کوئی گناہوں کو نہیں بخش سکتا؛ پس تو اپنی طرف سے مجھے بخش دے اور مجھ پر رحم فرما، بے شک تو ہی بخشنے والا، مہربان ہے۔",
+    "english": "O Allah, I have greatly wronged myself, and none forgives sins except You. So grant me forgiveness from Yourself and have mercy on me; indeed You are the Forgiving, the Merciful.",
+    "words": [
+     {
+      "arabic": "اللّٰهُمَّ",
+      "urdu": "اے اللہ",
+      "english": "O Allah"
+     },
+     {
+      "arabic": "إِنِّي ظَلَمْتُ",
+      "urdu": "بے شک میں نے ظلم کیا",
+      "english": "indeed I have wronged"
+     },
+     {
+      "arabic": "نَفْسِي",
+      "urdu": "اپنی جان پر",
+      "english": "myself"
+     },
+     {
+      "arabic": "ظُلْمًا كَثِيرًا",
+      "urdu": "بہت زیادہ ظلم",
+      "english": "a great wrong"
+     },
+     {
+      "arabic": "وَلَا يَغْفِرُ الذُّنُوبَ",
+      "urdu": "اور گناہ کوئی نہیں بخشتا",
+      "english": "and none forgives sins"
+     },
+     {
+      "arabic": "إِلَّا أَنْتَ",
+      "urdu": "سوائے تیرے",
+      "english": "except You"
+     },
+     {
+      "arabic": "فَاغْفِرْ لِي",
+      "urdu": "پس مجھے بخش دے",
+      "english": "so forgive me"
+     },
+     {
+      "arabic": "مَغْفِرَةً",
+      "urdu": "بخشش",
+      "english": "a forgiveness"
+     },
+     {
+      "arabic": "مِنْ عِنْدِكَ",
+      "urdu": "اپنی طرف سے",
+      "english": "from Yourself"
+     },
+     {
+      "arabic": "وَارْحَمْنِي",
+      "urdu": "اور مجھ پر رحم کر",
+      "english": "and have mercy on me"
+     },
+     {
+      "arabic": "إِنَّكَ أَنْتَ",
+      "urdu": "بے شک تو ہی",
+      "english": "indeed You are"
+     },
+     {
+      "arabic": "الْغَفُورُ",
+      "urdu": "بخشنے والا",
+      "english": "the Forgiving"
+     },
+     {
+      "arabic": "الرَّحِيمُ",
+      "urdu": "مہربان",
+      "english": "the Merciful"
+     }
+    ]
+   },
+   {
+    "label": "Qur’an 2:201",
+    "arabic": "وَمِنۡهُمۡ مَّنۡ يَّقُوۡلُ رَبَّنَآ اٰتِنَا فِى الدُّنۡيَا حَسَنَةً وَّفِى الۡاٰخِرَةِ حَسَنَةً وَّ قِنَا عَذَابَ النَّارِ",
+    "urdu": "اور بعضے ایسے ہیں کہ دعا کرتے ہیں کہ پروردگار ہم کو دنیا میں بھی نعمت عطا فرما اور آخرت میں بھی نعمت بخشیو اور دوزخ کے عذاب سے محفوظ رکھیو",
+    "english": "But among them is he who says, \"Our Lord, give us in this world [that which is] good and in the Hereafter [that which is] good and protect us from the punishment of the Fire.\"",
+    "words": [
+     {
+      "arabic": "وَمِنۡهُمۡ",
+      "urdu": "اور ان میں سے",
+      "english": "And from those"
+     },
+     {
+      "arabic": "مَّنۡ",
+      "urdu": "کوئی",
+      "english": "who"
+     },
+     {
+      "arabic": "يَّقُوۡلُ",
+      "urdu": "کہتا ہے",
+      "english": "say"
+     },
+     {
+      "arabic": "رَبَّنَآ",
+      "urdu": "اے ہمارے رب",
+      "english": "Our Lord"
+     },
+     {
+      "arabic": "اٰتِنَا",
+      "urdu": "دے ہم کو",
+      "english": "Grant us"
+     },
+     {
+      "arabic": "فِى",
+      "urdu": "میں",
+      "english": "in"
+     },
+     {
+      "arabic": "الدُّنۡيَا",
+      "urdu": "دنیا",
+      "english": "the world"
+     },
+     {
+      "arabic": "حَسَنَةً",
+      "urdu": "بھلائی",
+      "english": "good"
+     },
+     {
+      "arabic": "وَّفِى",
+      "urdu": "اور میں",
+      "english": "and in"
+     },
+     {
+      "arabic": "الۡاٰخِرَةِ",
+      "urdu": "آخرت",
+      "english": "the Hereafter"
+     },
+     {
+      "arabic": "حَسَنَةً",
+      "urdu": "بھلائی",
+      "english": "good"
+     },
+     {
+      "arabic": "وَّ قِنَا",
+      "urdu": "اور تو بچا ہم کو",
+      "english": "and save us"
+     },
+     {
+      "arabic": "عَذَابَ",
+      "urdu": "عذاب سے",
+      "english": "(from the) punishment"
+     },
+     {
+      "arabic": "النَّارِ",
+      "urdu": "آگ کے",
+      "english": "(of) the Fire"
+     }
+    ]
+   },
+   {
+    "label": "Qur’an 14:40",
+    "arabic": "رَبِّ اجۡعَلۡنِىۡ مُقِيۡمَ الصَّلٰوةِ وَمِنۡ ذُرِّيَّتِىۡ ۖ  رَبَّنَا وَتَقَبَّلۡ دُعَآءِ",
+    "urdu": "اے پروردگار مجھ کو (ایسی توفیق عنایت) کر کہ نماز پڑھتا رہوں اور میری اولاد کو بھی (یہ توفیق بخش) اے پروردگار میری دعا قبول فرما",
+    "english": "My Lord, make me an establisher of prayer, and [many] from my descendants. Our Lord, and accept my supplication.",
+    "words": [
+     {
+      "arabic": "رَبِّ",
+      "urdu": "اے میرے رب",
+      "english": "My Lord"
+     },
+     {
+      "arabic": "اجۡعَلۡنِىۡ",
+      "urdu": "بنا مجھ کو",
+      "english": "Make me"
+     },
+     {
+      "arabic": "مُقِيۡمَ",
+      "urdu": "قائم کرنے والا",
+      "english": "an establisher"
+     },
+     {
+      "arabic": "الصَّلٰوةِ",
+      "urdu": "نماز",
+      "english": "(of) the prayer"
+     },
+     {
+      "arabic": "وَمِنۡ",
+      "urdu": "اور سے",
+      "english": "and from"
+     },
+     {
+      "arabic": "ذُرِّيَّتِىۡ ۖ ",
+      "urdu": "میری اولاد میں (سے)",
+      "english": "my offsprings"
+     },
+     {
+      "arabic": "رَبَّنَا",
+      "urdu": "اے ہمارے رب",
+      "english": "Our Lord"
+     },
+     {
+      "arabic": "وَتَقَبَّلۡ",
+      "urdu": "اور تو قبول کرلے",
+      "english": "and accept"
+     },
+     {
+      "arabic": "دُعَآءِ",
+      "urdu": "دعا میری",
+      "english": "my prayer"
+     }
+    ]
+   },
+   {
+    "label": "Qur’an 14:41",
+    "arabic": "رَبَّنَا اغۡفِرۡ لِىۡ وَلـِوَالِدَىَّ وَلِلۡمُؤۡمِنِيۡنَ يَوۡمَ يَقُوۡمُ الۡحِسَابُ",
+    "urdu": "اے پروردگار حساب (کتاب) کے دن مجھ کو اور میرے ماں باپ کو اور مومنوں کو مغفرت کیجیو",
+    "english": "Our Lord, forgive me and my parents and the believers the Day the account is established.\"",
+    "words": [
+     {
+      "arabic": "رَبَّنَا",
+      "urdu": "اے ہمارے رب",
+      "english": "Our Lord"
+     },
+     {
+      "arabic": "اغۡفِرۡ",
+      "urdu": "بخش دے",
+      "english": "Forgive"
+     },
+     {
+      "arabic": "لِىۡ",
+      "urdu": "مجھ کو",
+      "english": "me"
+     },
+     {
+      "arabic": "وَلـِوَالِدَىَّ",
+      "urdu": "اور میرے والدین کو",
+      "english": "and my parents"
+     },
+     {
+      "arabic": "وَلِلۡمُؤۡمِنِيۡنَ",
+      "urdu": "اور مومنوں کو",
+      "english": "and the believers"
+     },
+     {
+      "arabic": "يَوۡمَ",
+      "urdu": "جس دن",
+      "english": "(on) the Day"
+     },
+     {
+      "arabic": "يَقُوۡمُ",
+      "urdu": "قائم ہو",
+      "english": "will (be) established"
+     },
+     {
+      "arabic": "الۡحِسَابُ",
+      "urdu": "حساب",
+      "english": "the account"
+     }
+    ]
+   }
+  ],
+  "notesEnglish": "Hanafi fiqh requires the dua in prayer to resemble the words of the Qur’an and Sunnah (not ordinary requests in one’s own words). Any one of the supplications above may be recited.",
+  "notesUrdu": "حنفی فقہ کے مطابق نماز میں وہی دعا پڑھی جائے جو قرآن و سنت کے الفاظ سے ملتی ہو؛ اوپر دی گئی دعاؤں میں سے کوئی ایک پڑھی جا سکتی ہے۔",
+  "references": [
+   {
+    "text": "Sahih al-Bukhari 834 and Sahih Muslim 2705 (Abu Bakr as-Siddiq, may Allah be pleased with him)"
+   },
+   {
+    "text": "Qur’an 2:201; Qur’an 14:40-41"
+   }
+  ],
+  "verificationNote": "Arabic wording and Urdu/English translations entered by hand; hadith references given from memory — confirm the book and number (e.g. on sunnah.com) before marking verified. Quranic text, Urdu (Jalandhari), English (Saheeh International) and word meanings imported from Quran.com; not yet compared with a printed Indo-Pak mushaf.",
+  "arabic": "اللّٰهُمَّ إِنِّي ظَلَمْتُ نَفْسِي ظُلْمًا كَثِيرًا وَلَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ فَاغْفِرْ لِي مَغْفِرَةً مِنْ عِنْدِكَ وَارْحَمْنِي إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ وَمِنۡهُمۡ مَّنۡ يَّقُوۡلُ رَبَّنَآ اٰتِنَا فِى الدُّنۡيَا حَسَنَةً وَّفِى الۡاٰخِرَةِ حَسَنَةً وَّ قِنَا عَذَابَ النَّارِ رَبِّ اجۡعَلۡنِىۡ مُقِيۡمَ الصَّلٰوةِ وَمِنۡ ذُرِّيَّتِىۡ ۖ  رَبَّنَا وَتَقَبَّلۡ دُعَآءِ رَبَّنَا اغۡفِرۡ لِىۡ وَلـِوَالِدَىَّ وَلِلۡمُؤۡمِنِيۡنَ يَوۡمَ يَقُوۡمُ الۡحِسَابُ"
+ },
+ {
+  "verificationStatus": "needs-review",
+  "category": "namaz",
+  "group": "prayer",
+  "step": 19,
+  "id": "namaz-salam",
+  "title": "Salam",
+  "titleUrdu": "سلام",
+  "aliases": "Assalamu Alaikum wa Rahmatullah, Assalamualaikum, ending namaz, tasleem",
+  "ruling": "Wajib",
+  "rulingUrdu": "واجب",
+  "posture": "Say first to the right, then to the left, turning the face so the cheek is visible; intend greeting the angels and the worshippers. The prayer ends here.",
+  "verses": [
+   {
+    "arabic": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ",
+    "urdu": "تم پر سلامتی ہو اور اللہ کی رحمت۔",
+    "english": "Peace be upon you and the mercy of Allah.",
+    "words": [
+     {
+      "arabic": "اَلسَّلَامُ",
+      "urdu": "سلامتی",
+      "english": "Peace"
+     },
+     {
+      "arabic": "عَلَيْكُمْ",
+      "urdu": "تم پر",
+      "english": "be upon you"
+     },
+     {
+      "arabic": "وَرَحْمَةُ اللّٰهِ",
+      "urdu": "اور اللہ کی رحمت",
+      "english": "and the mercy of Allah"
+     }
+    ]
+   }
+  ],
+  "references": [
+   {
+    "text": "Abu Dawud 996; Jami at-Tirmidhi 295 (Ibn Mas‘ud); Sahih Muslim 582 (Sa‘d) — verify"
+   }
+  ],
+  "verificationNote": "Arabic wording and Urdu/English translations entered by hand; hadith references given from memory — confirm the book and number (e.g. on sunnah.com) before marking verified.",
+  "arabic": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ"
+ },
+ {
+  "verificationStatus": "needs-review",
+  "category": "namaz",
+  "group": "witr",
+  "step": 1,
+  "id": "namaz-witr-overview",
+  "title": "Witr Prayer — Overview",
+  "titleUrdu": "نمازِ وتر — مختصر طریقہ",
+  "aliases": "Witr, Vitr, Isha witr, three rakat",
+  "ruling": "Wajib (Hanafi)",
+  "rulingUrdu": "واجب (حنفی)",
+  "posture": "Three rak‘ahs with one Salam. Sit after the 2nd rak‘ah and recite Tashahhud only, then stand. In the 3rd rak‘ah recite Al-Fatiha and a Surah, then say “Allahu Akbar” raising the hands to the ears, fold the hands and recite Dua-e-Qunoot, then go into Ruku. Finish the 3rd rak‘ah with Tashahhud, Durood, dua and Salam as usual.",
+  "see": [
+   "namaz-qunoot"
+  ],
+  "references": [
+   {
+    "text": "Hanafi fiqh manuals — to be referenced"
+   }
+  ],
+  "verificationNote": "Method summary needs checking against a Hanafi text."
+ },
+ {
+  "verificationStatus": "needs-review",
+  "category": "namaz",
+  "group": "witr",
+  "step": 2,
+  "id": "namaz-qunoot",
+  "title": "Dua-e-Qunoot",
+  "titleUrdu": "دعائے قنوت",
+  "aliases": "Dua Qunoot, Qunut, Allahumma inna nasta inuka, Allahumma inna nastaeenuka, witr dua",
+  "ruling": "Wajib (in the 3rd rak‘ah of Witr)",
+  "rulingUrdu": "واجب (وتر کی تیسری رکعت میں)",
+  "posture": "Standing in the 3rd rak‘ah of Witr, after the Surah and before Ruku.",
+  "verses": [
+   {
+    "arabic": "اللّٰهُمَّ إِنَّا نَسْتَعِينُكَ وَنَسْتَغْفِرُكَ وَنُؤْمِنُ بِكَ وَنَتَوَكَّلُ عَلَيْكَ وَنُثْنِي عَلَيْكَ الْخَيْرَ وَنَشْكُرُكَ وَلَا نَكْفُرُكَ وَنَخْلَعُ وَنَتْرُكُ مَنْ يَفْجُرُكَ",
+    "urdu": "اے اللہ! ہم تجھ سے مدد مانگتے ہیں اور تجھ سے بخشش طلب کرتے ہیں، تجھ پر ایمان رکھتے ہیں اور تجھ پر بھروسا کرتے ہیں، اور بہترین انداز میں تیری تعریف کرتے ہیں، تیرا شکر ادا کرتے ہیں اور تیری ناشکری نہیں کرتے، اور ہم اس شخص سے الگ ہوتے اور اسے چھوڑتے ہیں جو تیری نافرمانی کرے۔",
+    "english": "O Allah, we seek Your help and Your forgiveness; we believe in You and rely on You; we praise You with the best of praise, we thank You and are not ungrateful to You; and we cast off and forsake whoever disobeys You.",
+    "words": [
+     {
+      "arabic": "اللّٰهُمَّ",
+      "urdu": "اے اللہ",
+      "english": "O Allah"
+     },
+     {
+      "arabic": "إِنَّا نَسْتَعِينُكَ",
+      "urdu": "ہم تجھ سے مدد مانگتے ہیں",
+      "english": "we seek Your help"
+     },
+     {
+      "arabic": "وَنَسْتَغْفِرُكَ",
+      "urdu": "اور تجھ سے بخشش مانگتے ہیں",
+      "english": "and Your forgiveness"
+     },
+     {
+      "arabic": "وَنُؤْمِنُ بِكَ",
+      "urdu": "اور تجھ پر ایمان لاتے ہیں",
+      "english": "and we believe in You"
+     },
+     {
+      "arabic": "وَنَتَوَكَّلُ عَلَيْكَ",
+      "urdu": "اور تجھ پر بھروسا کرتے ہیں",
+      "english": "and we rely on You"
+     },
+     {
+      "arabic": "وَنُثْنِي عَلَيْكَ",
+      "urdu": "اور تیری تعریف کرتے ہیں",
+      "english": "and we praise You"
+     },
+     {
+      "arabic": "الْخَيْرَ",
+      "urdu": "بہترین طریقے سے",
+      "english": "with the best (praise)"
+     },
+     {
+      "arabic": "وَنَشْكُرُكَ",
+      "urdu": "اور تیرا شکر کرتے ہیں",
+      "english": "and we thank You"
+     },
+     {
+      "arabic": "وَلَا نَكْفُرُكَ",
+      "urdu": "اور تیری ناشکری نہیں کرتے",
+      "english": "and we are not ungrateful to You"
+     },
+     {
+      "arabic": "وَنَخْلَعُ",
+      "urdu": "اور ہم الگ ہوتے ہیں",
+      "english": "and we cast off"
+     },
+     {
+      "arabic": "وَنَتْرُكُ",
+      "urdu": "اور چھوڑتے ہیں",
+      "english": "and forsake"
+     },
+     {
+      "arabic": "مَنْ يَفْجُرُكَ",
+      "urdu": "جو تیری نافرمانی کرے",
+      "english": "whoever disobeys You"
+     }
+    ]
+   },
+   {
+    "arabic": "اللّٰهُمَّ إِيَّاكَ نَعْبُدُ وَلَكَ نُصَلِّي وَنَسْجُدُ وَإِلَيْكَ نَسْعَىٰ وَنَحْفِدُ وَنَرْجُو رَحْمَتَكَ وَنَخْشَىٰ عَذَابَكَ إِنَّ عَذَابَكَ بِالْكُفَّارِ مُلْحِقٌ",
+    "urdu": "اے اللہ! ہم تیری ہی عبادت کرتے ہیں، اور تیرے ہی لیے نماز پڑھتے اور سجدہ کرتے ہیں، اور تیری ہی طرف دوڑتے اور حاضر ہوتے ہیں، تیری رحمت کی امید رکھتے ہیں اور تیرے عذاب سے ڈرتے ہیں؛ بے شک تیرا عذاب کافروں کو پہنچنے والا ہے۔",
+    "english": "O Allah, You alone we worship; to You we pray and prostrate; to You we hasten and are ready to serve; we hope for Your mercy and fear Your punishment. Indeed Your punishment will overtake the disbelievers.",
+    "words": [
+     {
+      "arabic": "اللّٰهُمَّ",
+      "urdu": "اے اللہ",
+      "english": "O Allah"
+     },
+     {
+      "arabic": "إِيَّاكَ نَعْبُدُ",
+      "urdu": "ہم تیری ہی عبادت کرتے ہیں",
+      "english": "You alone we worship"
+     },
+     {
+      "arabic": "وَلَكَ نُصَلِّي",
+      "urdu": "اور تیرے ہی لیے نماز پڑھتے ہیں",
+      "english": "and to You we pray"
+     },
+     {
+      "arabic": "وَنَسْجُدُ",
+      "urdu": "اور سجدہ کرتے ہیں",
+      "english": "and prostrate"
+     },
+     {
+      "arabic": "وَإِلَيْكَ نَسْعَىٰ",
+      "urdu": "اور تیری ہی طرف دوڑتے ہیں",
+      "english": "and to You we hasten"
+     },
+     {
+      "arabic": "وَنَحْفِدُ",
+      "urdu": "اور خدمت میں حاضر ہوتے ہیں",
+      "english": "and are ready to serve"
+     },
+     {
+      "arabic": "وَنَرْجُو رَحْمَتَكَ",
+      "urdu": "اور تیری رحمت کی امید رکھتے ہیں",
+      "english": "and we hope for Your mercy"
+     },
+     {
+      "arabic": "وَنَخْشَىٰ عَذَابَكَ",
+      "urdu": "اور تیرے عذاب سے ڈرتے ہیں",
+      "english": "and fear Your punishment"
+     },
+     {
+      "arabic": "إِنَّ عَذَابَكَ",
+      "urdu": "بے شک تیرا عذاب",
+      "english": "indeed Your punishment"
+     },
+     {
+      "arabic": "بِالْكُفَّارِ",
+      "urdu": "کافروں کو",
+      "english": "(will) the disbelievers"
+     },
+     {
+      "arabic": "مُلْحِقٌ",
+      "urdu": "پہنچنے والا ہے",
+      "english": "overtake"
+     }
+    ]
+   }
+  ],
+  "notesEnglish": "If you do not yet know Dua-e-Qunoot, Hanafi scholars say to recite “Rabbana atina fid-dunya hasanatan wa fil-akhirati hasanatan wa qina ‘adhaban-nar” (2:201), or “Allahummaghfir li” three times, until it is memorised — confirm with your scholar.",
+  "notesUrdu": "اگر دعائے قنوت یاد نہ ہو تو یاد ہونے تک علماء “ربنا آتنا فی الدنیا حسنۃ…” (2:201) یا تین بار “اللہم اغفر لی” پڑھنے کی گنجائش بتاتے ہیں — اپنے عالم سے تصدیق کریں۔",
+  "references": [
+   {
+    "text": "Reported from ‘Umar, may Allah be pleased with him (Musannaf Ibn Abi Shaybah; Sunan al-Bayhaqi) and adopted in Hanafi books — exact numbers to be added"
+   }
+  ],
+  "verificationNote": "Wording is the standard Hanafi text; check against a printed Hanafi manual and add precise references.",
+  "arabic": "اللّٰهُمَّ إِنَّا نَسْتَعِينُكَ وَنَسْتَغْفِرُكَ وَنُؤْمِنُ بِكَ وَنَتَوَكَّلُ عَلَيْكَ وَنُثْنِي عَلَيْكَ الْخَيْرَ وَنَشْكُرُكَ وَلَا نَكْفُرُكَ وَنَخْلَعُ وَنَتْرُكُ مَنْ يَفْجُرُكَ اللّٰهُمَّ إِيَّاكَ نَعْبُدُ وَلَكَ نُصَلِّي وَنَسْجُدُ وَإِلَيْكَ نَسْعَىٰ وَنَحْفِدُ وَنَرْجُو رَحْمَتَكَ وَنَخْشَىٰ عَذَابَكَ إِنَّ عَذَابَكَ بِالْكُفَّارِ مُلْحِقٌ"
+ }
+]
