@@ -80,11 +80,11 @@ export function entryHtml(item, opts = {}) {
 </section>`;
 }
 
-/** Sticky learning toolbar: language toggles, word meanings, self-test cover, quick Arabic size. */
+/** Sticky learning toolbar: language toggles, word meanings, quick Arabic size. */
 export function toolbarHtml() {
   const t = (k, label, lang) => `<button class="tb" data-toggle="${k}" aria-pressed="true"${lang ? ` lang="${lang}"` : ''}>${label}</button>`;
   return `<div class="rtoolbar" role="toolbar" aria-label="Reading options">
-    ${t('ur', 'اردو', 'ur')}${t('en', 'English')}${t('words', 'Words')}${t('cover', 'Test me')}
+    ${t('ur', 'اردو', 'ur')}${t('en', 'English')}${t('words', 'Words')}
     <span class="sizes"><button class="tb sq" data-bump="-1" aria-label="Smaller Arabic">ع−</button><button class="tb sq" data-bump="1" aria-label="Larger Arabic">ع+</button></span>
   </div>`;
 }

@@ -1,7 +1,7 @@
 /* My Salah service worker.
    Bump VERSION whenever any cached file changes: the old cache is deleted on activate,
    so outdated content never lingers. User preferences live in localStorage and are never touched. */
-const VERSION = 'v1.1.0';
+const VERSION = 'v1.1.1';
 const CACHE = 'my-salah-' + VERSION;
 
 // Everything the app needs offline (all paths relative to this file, so it works under /my-salah/).

@@ -43,11 +43,6 @@ function wireGlobalEvents() {
     const bp = e.target.closest('[data-bump]');
     if (bp) { bump('ar', Number(bp.dataset.bump)); return; }
 
-    // "Test me": tap a verse to reveal its translation
-    if (document.documentElement.classList.contains('cover')) {
-      const v = e.target.closest('.verse');
-      if (v && !e.target.closest('summary')) { v.classList.toggle('revealed'); return; }
-    }
 
     if (e.target.closest('#q-clear')) { const q = $('#q'); q.value = ''; q.focus(); onQuery(''); return; }
   });

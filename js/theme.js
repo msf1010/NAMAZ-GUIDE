@@ -27,14 +27,13 @@ export function applySizes() {
   }
 }
 
-// ---- reading view toggles (learning aids): hide Urdu / English, always show word meanings, cover translations to test yourself
-export const view = { ur: true, en: true, words: false, cover: false };
+// ---- reading view toggles (learning aids): hide Urdu / English, always show word meanings, (learning aids)
+export const view = { ur: true, en: true, words: false };
 export function applyView() {
   const c = document.documentElement.classList;
-  c.toggle('no-ur', !view.ur); c.toggle('no-en', !view.en); c.toggle('words-on', view.words); c.toggle('cover', view.cover);
+  c.toggle('no-ur', !view.ur); c.toggle('no-en', !view.en); c.toggle('words-on', view.words);
   document.querySelectorAll('[data-toggle]').forEach(b => b.setAttribute('aria-pressed', String(!!view[b.dataset.toggle])));
   document.querySelectorAll('#view details.wbw').forEach(d => (d.open = view.words));
-  document.querySelectorAll('#view .verse.revealed').forEach(v => v.classList.remove('revealed'));
 }
 export function toggleView(k) { view[k] = !view[k]; set('view', JSON.stringify(view)); applyView(); }
 export function bump(k, dir) {

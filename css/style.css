@@ -231,9 +231,6 @@ mark { background: var(--mark); color: inherit; border-radius: 3px; padding: 0 1
 .entry { scroll-margin-top: calc(var(--top-h) + 64px); }
 html.no-ur .verse .ur, html.no-ur .w-ur { display: none; }
 html.no-en .verse .en, html.no-en .w-en { display: none; }
-html.cover .verse:not(.revealed) .ur, html.cover .verse:not(.revealed) .en,
-html.cover .verse:not(.revealed) .w-ur, html.cover .verse:not(.revealed) .w-en { filter: blur(8px); user-select: none; cursor: pointer; }
-html.cover .verse:not(.revealed)::after { content: 'Tap to reveal'; display: block; text-align: center; font-size: .72rem; color: var(--muted); letter-spacing: .06em; text-transform: uppercase; }
 .pager { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 28px; }
 .pager a { display: flex; flex-direction: column; gap: 2px; padding: 12px 14px; min-height: 64px; border-radius: 14px; background: var(--surface); border: 1px solid var(--border); }
 .pager a small { color: var(--muted); font-size: .75rem; }
