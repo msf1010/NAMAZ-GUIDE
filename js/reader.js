@@ -10,7 +10,8 @@ const STATUS = {
 
 function wordsBlock(words) {
   if (!words || !words.length) return '';
-  return `<details class="wbw"><summary><span>Word by word</span><span class="ur-s" lang="ur">لفظی ترجمہ</span></summary>
+  const open = document.documentElement.classList.contains('words-on') ? ' open' : '';
+  return `<details class="wbw"${open}><summary><span>Word by word</span><span class="ur-s" lang="ur">لفظی ترجمہ</span></summary>
     <div class="words" dir="rtl">${words.map(w => `<div class="w"><span class="w-ar" lang="ar">${esc(w.arabic)}</span><span class="w-ur" lang="ur">${esc(w.urdu)}</span><span class="w-en" lang="en" dir="ltr">${esc(w.english)}</span></div>`).join('')}</div></details>`;
 }
 
@@ -79,13 +80,32 @@ export function entryHtml(item, opts = {}) {
 </section>`;
 }
 
+/** Sticky learning toolbar: language toggles, word meanings, self-test cover, quick Arabic size. */
+export function toolbarHtml() {
+  const t = (k, label, lang) => `<button class="tb" data-toggle="${k}" aria-pressed="true"${lang ? ` lang="${lang}"` : ''}>${label}</button>`;
+  return `<div class="rtoolbar" role="toolbar" aria-label="Reading options">
+    ${t('ur', 'اردو', 'ur')}${t('en', 'English')}${t('words', 'Words')}${t('cover', 'Test me')}
+    <span class="sizes"><button class="tb sq" data-bump="-1" aria-label="Smaller Arabic">ع−</button><button class="tb sq" data-bump="1" aria-label="Larger Arabic">ع+</button></span>
+  </div>`;
+}
+
+function pagerHtml(item) {
+  const list = store.sets[item.set] || [];
+  const i = list.findIndex(x => x.id === item.id);
+  const prev = list[i - 1], next = list[i + 1];
+  if (!prev && !next) return '';
+  const a = (it, cls, txt) => it ? `<a class="${cls}" href="${routeFor(it)}"><small>${txt}</small><strong>${esc(it.title)}</strong></a>` : '<span></span>';
+  return `<nav class="pager" aria-label="Previous and next">${a(prev, 'prev', '‹ Previous')}${a(next, 'next', 'Next ›')}</nav>`;
+}
+
 /** Full page for a single item (Surah, Dua, …). */
 export function itemPage(item) {
   const back = { 'four-quls': ['#/quls', 'Four Quls'], 'short-surah': ['#/surahs', 'Short Surahs'], dua: ['#/duas', 'Duas & Adhkar'], namaz: ['#/namaz', 'Complete Namaz'] }[item.category] || ['#/', 'Home'];
   return `<div class="page reading">
     <a class="back" href="${back[0]}">‹ ${esc(back[1])}</a>
-    <div class="page-tools"><button class="btn-soft" id="btn-wbw" aria-pressed="false">Expand all word meanings</button></div>
+    ${toolbarHtml()}
     ${entryHtml(item)}
+    ${pagerHtml(item)}
   </div>`;
 }
 

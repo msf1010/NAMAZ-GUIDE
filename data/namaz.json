@@ -469,8 +469,8 @@
     ]
    }
   ],
-  "notesEnglish": "Both wordings are reported in hadith. See the note under Qawmah for who says what.",
-  "notesUrdu": "دونوں الفاظ حدیث میں آئے ہیں۔ کون کیا کہے گا، اس کے لیے قومہ کا نوٹ دیکھیں۔",
+  "notesEnglish": "Both wordings are acceptable. See the note under Qawmah for who says what.",
+  "notesUrdu": "دونوں الفاظ درست ہیں۔ کون کیا کہے گا، اس کے لیے قومہ کا نوٹ دیکھیں۔",
   "references": [
    {
     "text": "Sahih al-Bukhari / Sahih Muslim (Kitab al-Adhan) — numbers to be added"
@@ -659,7 +659,7 @@
     ]
    }
   ],
-  "notesEnglish": "Hanafi books generally describe only sitting calmly between the two Sajdahs in Fard prayers; these supplications are reported in hadith and are commonly read in Nafl prayers. This is a point where practice differs — confirm with your scholar.",
+  "notesEnglish": "Hanafi books generally describe only sitting calmly between the two Sajdahs in Fard prayers; these supplications are commonly read in Nafl prayers. This is a point where practice differs — confirm with your scholar.",
   "notesUrdu": "حنفی کتب میں فرض نمازوں میں عموماً صرف اطمینان سے بیٹھنے کا ذکر ہے؛ یہ دعائیں احادیث میں آئی ہیں اور نفل میں عموماً پڑھی جاتی ہیں۔ اس بارے میں اپنے عالم سے رجوع کریں۔",
   "references": [
    {
@@ -969,7 +969,7 @@
   "posture": "Final sitting, after Durood and before Salam. Any one of the following may be read.",
   "verses": [
    {
-    "label": "Hadith dua",
+    "label": "Dua",
     "arabic": "اللّٰهُمَّ إِنِّي ظَلَمْتُ نَفْسِي ظُلْمًا كَثِيرًا وَلَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ فَاغْفِرْ لِي مَغْفِرَةً مِنْ عِنْدِكَ وَارْحَمْنِي إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ",
     "urdu": "اے اللہ! میں نے اپنی جان پر بہت ظلم کیا اور تیرے سوا کوئی گناہوں کو نہیں بخش سکتا؛ پس تو اپنی طرف سے مجھے بخش دے اور مجھ پر رحم فرما، بے شک تو ہی بخشنے والا، مہربان ہے۔",
     "english": "O Allah, I have greatly wronged myself, and none forgives sins except You. So grant me forgiveness from Yourself and have mercy on me; indeed You are the Forgiving, the Merciful.",

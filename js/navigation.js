@@ -1,8 +1,8 @@
 // Hash-based router (works on GitHub Pages sub-paths without server config) and page views.
 import { store, routeFor, CATEGORY_LABEL } from './content-loader.js';
-import { entryHtml, itemPage, esc, categoryLabel } from './reader.js';
+import { entryHtml, itemPage, esc, categoryLabel, toolbarHtml } from './reader.js';
 import { search, highlight } from './search.js';
-import { getRecent, pushRecent } from './theme.js';
+import { getRecent, pushRecent, applyView } from './theme.js';
 
 const view = () => document.getElementById('view');
 
@@ -96,8 +96,8 @@ function namazView() {
         <li><b>3rd and 4th rak‘ah of a Fard prayer:</b> Al-Fatiha only. In Sunnah/Nafl prayers a Surah is added too.</li>
         <li><b>Final sitting:</b> Tashahhud, Durood, dua, Salam.</li>
       </ul><p class="small">This is a summary to aid memory; confirm details with your scholar.</p></details>
+    ${toolbarHtml()}
     <div class="jump" aria-label="Jump to step">${prayer.map(i => `<a href="#/namaz/${i.id}" title="${esc(i.title)}">${i.step}</a>`).join('')}<a href="#/namaz/${witr[0].id}" class="wide">Witr</a></div>
-    <div class="page-tools"><button class="btn-soft" id="btn-wbw" aria-pressed="false">Expand all word meanings</button></div>
     <h2 class="sec">Prayer sequence</h2>
     ${prayer.map(i => entryHtml(i, { level: 2, step: i.step })).join('')}
     <h2 class="sec" id="witr">Witr</h2>
@@ -173,6 +173,7 @@ export function render() {
   else if (name === 'about') { el.innerHTML = aboutView(); navKey = ''; }
   else { el.innerHTML = homeView(); }
 
+  applyView();
   setActive(navKey);
   if (recentId) pushRecent(recentId);
   document.title = name === 'item' && store.byId.get(arg) ? `${store.byId.get(arg).title} · My Salah` : 'My Salah';

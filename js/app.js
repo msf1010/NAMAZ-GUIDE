@@ -1,6 +1,6 @@
 import { loadContent, store } from './content-loader.js';
 import { buildIndex } from './search.js';
-import { initTheme } from './theme.js';
+import { initTheme, toggleView, bump } from './theme.js';
 import { buildNav, startRouter, runSearch } from './navigation.js';
 import { arabicText } from './reader.js';
 
@@ -38,13 +38,15 @@ function wireGlobalEvents() {
       return;
     }
 
-    const wbw = e.target.closest('#btn-wbw');
-    if (wbw) {
-      const open = wbw.getAttribute('aria-pressed') !== 'true';
-      wbw.setAttribute('aria-pressed', String(open));
-      wbw.textContent = open ? 'Collapse all word meanings' : 'Expand all word meanings';
-      document.querySelectorAll('#view details.wbw').forEach(d => (d.open = open));
-      return;
+    const tg = e.target.closest('[data-toggle]');
+    if (tg) { toggleView(tg.dataset.toggle); return; }
+    const bp = e.target.closest('[data-bump]');
+    if (bp) { bump('ar', Number(bp.dataset.bump)); return; }
+
+    // "Test me": tap a verse to reveal its translation
+    if (document.documentElement.classList.contains('cover')) {
+      const v = e.target.closest('.verse');
+      if (v && !e.target.closest('summary')) { v.classList.toggle('revealed'); return; }
     }
 
     if (e.target.closest('#q-clear')) { const q = $('#q'); q.value = ''; q.focus(); onQuery(''); return; }

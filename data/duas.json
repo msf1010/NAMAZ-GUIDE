@@ -86,8 +86,8 @@
     ]
    }
   ],
-  "explanationEnglish": "A comprehensive supplication for good in this world and the Hereafter. Anas, may Allah be pleased with him, reported it was the dua the Prophet ﷺ made most often.",
-  "explanationUrdu": "دنیا اور آخرت کی بھلائی کی جامع دعا۔ حضرت انس رضی اللہ عنہ کے مطابق نبی ﷺ سب سے زیادہ یہی دعا فرماتے تھے۔",
+  "explanationEnglish": "A comprehensive supplication for good in this world and the Hereafter.",
+  "explanationUrdu": "دنیا اور آخرت کی بھلائی کی جامع دعا۔",
   "references": [
    {
     "text": "Qur’an 2:201"
@@ -1567,8 +1567,8 @@
     ]
    }
   ],
-  "notesEnglish": "The short form is said three times after the Fard prayer; the fuller form is reported to be forgiving even for one who fled from battle.",
-  "notesUrdu": "مختصر صورت فرض نماز کے بعد تین بار پڑھی جاتی ہے؛ تفصیلی صورت کے بارے میں مغفرت کی بشارت آئی ہے۔",
+  "notesEnglish": "The short form is said three times after the Fard prayer; the fuller form may be recited at any time.",
+  "notesUrdu": "مختصر صورت فرض نماز کے بعد تین بار پڑھی جاتی ہے؛ تفصیلی صورت کسی بھی وقت پڑھی جا سکتی ہے۔",
   "references": [
    {
     "text": "Short form: Sahih Muslim 591 (Thawban); fuller form: Abu Dawud 1517, Jami at-Tirmidhi 3577 — verify numbers and grading"
@@ -1604,7 +1604,7 @@
     ]
    },
    {
-    "label": "Hadith form",
+    "label": "Fuller form",
     "arabic": "سُبْحَانَ اللّٰهِ وَبِحَمْدِهِ سُبْحَانَ اللّٰهِ الْعَظِيمِ",
     "urdu": "اللہ پاک ہے اور اپنی تعریف کے ساتھ؛ عظمت والا اللہ پاک ہے۔",
     "english": "Glory be to Allah and with His praise; glory be to Allah, the Magnificent.",
@@ -1632,8 +1632,8 @@
     ]
    }
   ],
-  "explanationEnglish": "Declares Allah free of all imperfection. The hadith form is described as light on the tongue, heavy on the scale.",
-  "explanationUrdu": "اللہ تعالیٰ کو ہر عیب سے پاک قرار دینا۔ حدیث میں مذکور صورت کو زبان پر ہلکا اور میزان میں بھاری فرمایا گیا ہے۔",
+  "explanationEnglish": "Declares Allah free of all imperfection. The fuller form is light on the tongue and heavy on the scale.",
+  "explanationUrdu": "اللہ تعالیٰ کو ہر عیب سے پاک قرار دینا۔ تفصیلی صورت زبان پر ہلکی اور میزان میں بھاری ہے۔",
   "references": [
    {
     "text": "Sahih al-Bukhari 6406; Sahih Muslim 2694 (Abu Hurairah) — verify"

@@ -27,7 +27,24 @@ export function applySizes() {
   }
 }
 
+// ---- reading view toggles (learning aids): hide Urdu / English, always show word meanings, cover translations to test yourself
+export const view = { ur: true, en: true, words: false, cover: false };
+export function applyView() {
+  const c = document.documentElement.classList;
+  c.toggle('no-ur', !view.ur); c.toggle('no-en', !view.en); c.toggle('words-on', view.words); c.toggle('cover', view.cover);
+  document.querySelectorAll('[data-toggle]').forEach(b => b.setAttribute('aria-pressed', String(!!view[b.dataset.toggle])));
+  document.querySelectorAll('#view details.wbw').forEach(d => (d.open = view.words));
+  document.querySelectorAll('#view .verse.revealed').forEach(v => v.classList.remove('revealed'));
+}
+export function toggleView(k) { view[k] = !view[k]; set('view', JSON.stringify(view)); applyView(); }
+export function bump(k, dir) {
+  const cfg = SIZES[k]; prefs[k] = Math.min(cfg.max, Math.max(cfg.min, prefs[k] + cfg.step * dir));
+  set('size-' + k, prefs[k]); applySizes();
+}
+
 export function initTheme() {
+  try { Object.assign(view, JSON.parse(get('view') || '{}')); } catch { /* defaults */ }
+  applyView();
   applyTheme(document.documentElement.getAttribute('data-theme') || 'light');
   for (const k of Object.keys(SIZES)) {
     const v = parseInt(get('size-' + k), 10);
@@ -48,9 +65,7 @@ export function initTheme() {
     if (t) applyTheme(t.dataset.themeSet);
     const s = e.target.closest('.stepper[data-size] button[data-dir]');
     if (s) {
-      const k = s.closest('.stepper').dataset.size, cfg = SIZES[k];
-      prefs[k] = Math.min(cfg.max, Math.max(cfg.min, prefs[k] + cfg.step * Number(s.dataset.dir)));
-      set('size-' + k, prefs[k]); applySizes();
+      bump(s.closest('.stepper').dataset.size, Number(s.dataset.dir));
     }
   });
   document.getElementById('btn-print').addEventListener('click', () => { toggle(false); setTimeout(() => window.print(), 150); });
